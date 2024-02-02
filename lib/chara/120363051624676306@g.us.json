@@ -1,0 +1,115 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 169483,
+    "name": {
+      "full": "Roboco",
+      "native": "ロボ子"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169483-GookWbLEB9aE.jpg"
+    },
+    "description": "__Debut date:__ March 4, 2018\n__Height:__ 154 cm\n__Fanbase name:__ Robosa\n__Illustrator:__ kuromaru9\n__Generation:__ Solo (\"0th gen\")\n\nRoboco is a female Japanese Virtual YouTuber associated with hololive.\n\n[Profile (hololive)](https://en.hololive.tv/portfolio/items/433579) | [YouTube](https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g/) | [Twitter](https://twitter.com/robocosan) | [Bilibili](https://space.bilibili.com/20813493)\n\n*\"Hello-robo! Roboco here!\"*\n\nA lonely, wimpy robot from a random wasteland.\nShe is now hoping to contact and live with lots of people as a Virtual Liver.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Holo no Graffiti",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "id": 118123
+        },
+        {
+          "title": {
+            "romaji": "Miko no Tsutome!",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 119781
+        },
+        {
+          "title": {
+            "romaji": "Shiny Smily Story",
+            "english": "Shiny Smily Story"
+          },
+          "type": "ANIME",
+          "genres": [],
+          "id": 128711
+        },
+        {
+          "title": {
+            "romaji": "Shiny Smily Story",
+            "english": "Shiny Smily Story"
+          },
+          "type": "ANIME",
+          "genres": [],
+          "id": 128713
+        },
+        {
+          "title": {
+            "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Fantasy"
+          ],
+          "id": 129963
+        },
+        {
+          "title": {
+            "romaji": "Sora Reco",
+            "english": "Sora Record"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 130508
+        },
+        {
+          "title": {
+            "romaji": "hololive Summer 2022",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 153348
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "169483",
+  "groupId": "120363051624676306@g.us",
+  "msgID": [
+    "2FDF494DDD745CF7620E9B53C3F37386",
+    "13E36BC41C3CC4230C78E05325262872",
+    "E9A681C0859D68FB048F6C517847EEC9"
+  ],
+  "messages": [
+    "Sipp dehh",
+    "https://chat.whatsapp.com/LKQx42QHOdRKJaoB3RZpyd",
+    ".ig https://www.instagram.com/reel/Cw6y5diL0Kz/?igshid=ODk2MDJkZDc2Zg=="
+  ],
+  "messageCount": 3,
+  "lastTriggeredAt": 1696839919425
+}

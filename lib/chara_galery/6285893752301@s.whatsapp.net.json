@@ -1,0 +1,125 @@
+{
+  "status": "active",
+  "sender": "6285893752301@s.whatsapp.net",
+  "name": "Rapp.",
+  "animes": [
+    {
+      "id": 126375,
+      "name": {
+        "full": "Itsuki Nakano",
+        "native": "中野五月"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png"
+      },
+      "description": "**Height:** 159 cm (5'2\")\n\nFifth sister of the Nakano Quintuplets. Itsuki is a serious and earnest girl. Her speech is formal and polite. She is also someone who can't be honest with herself and having difficulty to be more straightforward.\n\nAmong the sisters, Itsuki is the most familiar with [Uesugi](https://anilist.co/character/128063)'s family members and circumstances.\n\n(五) means five.\n(月) means moon.\n\n<i>Note: Based on the character file in volume 14, Itsuki’s actual birthday is on May 6th as she was born at midnight. She celebrates her birthday on May 5th and prevents others from looking into it too deeply.</i>",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome",
+              "english": "The Quintessential Quintuplets"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 100230
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome",
+              "english": "The Quintessential Quintuplets"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 103572
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome ∬",
+              "english": "The Quintessential Quintuplets 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 109261
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 98672
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome Movie",
+              "english": "The Quintessential Quintuplets Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 131520
+          },
+          {
+            "title": {
+              "romaji": "Chiyuki no Fashion Check",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 143391
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome: 122 + 1 - Itsutsugo-chan wa Himitsu wo Gotoubun Dekinai",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 148167
+          },
+          {
+            "title": {
+              "romaji": "Go-toubun no Hanayome∽",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 163327
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

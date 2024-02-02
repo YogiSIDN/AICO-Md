@@ -1,0 +1,57 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 298583,
+    "name": {
+      "full": "Yuuki Tsuji",
+      "native": "辻友紀"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298583-ot7W719T2ZV3.png"
+    },
+    "description": "Belongs to Eimei Academy in the 4th Ward. He is a sophomore in high school. His grade rank: 3 stars. Like Fuuka, he is a classmate of 2-A in which Hiroto is enrolled. He is a handsome boy with androgynous features who could be mistaken for a girl if he wasn't wearing a men's uniform. He is very popular with his senior girls.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Liar Liar",
+            "english": "Liar, Liar"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Psychological",
+            "Romance"
+          ],
+          "id": 131863
+        },
+        {
+          "title": {
+            "romaji": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
+            "english": "Liar, Liar"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Ecchi",
+            "Psychological",
+            "Romance"
+          ],
+          "id": 115906
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "298583",
+  "groupId": "120363043559522563@g.us",
+  "msgID": [
+    "8D168B7FA6707E9295EB49F550747B83"
+  ],
+  "messages": [
+    "Nuriel aina"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1695019987413
+}

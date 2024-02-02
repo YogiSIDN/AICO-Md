@@ -1,0 +1,367 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 36828,
+    "name": {
+      "full": "Asuna Yuuki",
+      "native": "結城明日奈"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36828-j5ib0adAzGMx.png"
+    },
+    "description": "__Height:__ 168 cm\n__Weapons of choice:__ Wind Fleuret (1st Floor), Lambent Light (Forged by Lisbeth)\n\n~!Radiant Light (As Stacia)!~\n\nAsuna is a friend of Kirito and is a sub-leader of the guild Knights of the Blood (KoB), a medium-sized guild of about thirty players, also called the strongest guild in Aincrad. Being one of the few girls that are in SAO, and even more so that she's extremely pretty, she receives many invitations and proposals. She is a skilled player earning the title \"Lightning Flash\" for her extraordinary sword skill that is lightning fast. Her game alias is the same as her real world name.   ~!She is married to Kirito in SAO. They decided to have a peaceful life and decided to buy a house on the lower part of Aincrad and take a break from the guild Knights of the Blood. But later they need to return to the front lines and have to abandon their peaceful life.!~  ~!After the SAO incident, all the players that survived should have awoken, but Asuna is still trapped within her NerveGear. She is actually abducted by her betrothed, Sugou Naboyuki, who transfers her to ALO (Alfheim Online).!~  ~!In ALO, She is known as Queen Titania, yet she is only a character who is trapped within a cage that is programmed to be an unbreakable object.!~\n~!She entered the UnderWorld under the godly account named as \"Stacia, The Goddess of Creation\".!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 11757
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Offline",
+            "english": "Sword Art OFFline"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 16099
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Extra Edition",
+            "english": "Sword Art Online EXTRA EDITION"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 20021
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online II",
+            "english": "Sword Art Online II"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 20594
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Ordinal Scale",
+            "english": "Sword Art Online the Movie: Ordinal Scale"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 21403
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 51479
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Aincrad",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 53718
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online 4-koma",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 70053
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Lisbeth Edition",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Fantasy"
+          ],
+          "id": 70281
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online SS: Caliber SS-han",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 71027
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Progressive",
+            "english": "Sword Art Online Progressive"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 73921
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Fairy Dance",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 74733
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Girls Ops",
+            "english": "Sword Art Online: Girls' Ops"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+          ],
+          "id": 85160
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Progressive",
+            "english": "Sword Art Online Progressive"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 82277
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization",
+            "english": "Sword Art Online: Alicization"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 100182
+        },
+        {
+          "title": {
+            "romaji": "Gekijouban Sword Art Online: Ordinal Scale",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 106537
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Hollow Realization",
+            "english": "Sword Art Online: Hollow Realization"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 106933
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Kirito no Aincrad Night",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 107363
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization - War of Underworld",
+            "english": "Sword Art Online: Alicization - War of Underworld"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 108759
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Ordinal Scale - Sword Art Offline",
+            "english": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": 101965
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Offline: Extra Edition",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 20895
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Offline II",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 21155
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Kirito no Gun Gale Wars",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 112782
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online Comic Anthology",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 112980
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+            "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 114308
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "36828",
+  "groupId": "120363058989977423@g.us",
+  "msgID": [
+    "DC85C9B6B69E9070945B04E66E13D83E",
+    "1258A24ABD36F73147067F0C2B590BCB"
+  ],
+  "messages": [
+    ". tourl",
+    ".menu"
+  ],
+  "messageCount": 2,
+  "lastTriggeredAt": 1703298088366
+}

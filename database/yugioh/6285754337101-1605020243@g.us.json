@@ -1,0 +1,54 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "card_result": {
+    "id": 46718686,
+    "name": "Hitodenchak",
+    "type": "Normal Monster",
+    "desc": "A rabid starfish that spits a lethal acid that can melt almost anything.",
+    "atk": 600,
+    "def": 700,
+    "level": 2,
+    "race": "Aqua",
+    "attribute": "WATER",
+    "card_images": [
+      {
+        "image_url": "https://images.ygoprodeck.com/images/cards/46718686.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/46718686.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.00",
+        "tcgplayer_price": "0.00",
+        "ebay_price": "5.00",
+        "amazon_price": "0.00"
+      }
+    ]
+  },
+  "groupId": "6285754337101-1605020243@g.us",
+  "msgID": [
+    "3DD5DB5B8C62D7242F330791686D5876",
+    "8F4B9CFF13248E7C325BFC241871FCF2",
+    "80807232CA7AD9E9B9",
+    "5DF9F1C5FEBD78C3F69E8DAAAAD8F10E",
+    "6CF0CF515EFBC22BD33E54768A847069",
+    "3A573B7091AEC700BB28",
+    "47904137160E662A5ED97C848DFE75C6",
+    "47904137160E662A5ED97C848DFE75C6"
+  ],
+  "messages": [
+    "rank",
+    "rank",
+    "inpo cheat exp",
+    "p",
+    "rank",
+    "!tiktok https://vt.tiktok.com/ZSNwTKdGd/",
+    "!tiktok https://vt.tiktok.com/ZSNwEJ2ET/",
+    "!tiktok https://vt.tiktok.com/ZSNwEJ2ET/"
+  ],
+  "messageCount": 8,
+  "lastTriggeredAt": 1705327736958
+}

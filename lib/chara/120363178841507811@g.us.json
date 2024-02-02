@@ -1,0 +1,84 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 74998,
+    "name": {
+      "full": "Kei Aoki",
+      "native": "青木慶"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74998-cNPU5JGrGwYC.png"
+    },
+    "description": "__Height:__ 157 cm\n__Hobbies:__ Gyms",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 72333
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls New Generations",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 73425
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls Rockin' Girl",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Music"
+          ],
+          "id": 74493
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 146975
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "74998",
+  "groupId": "120363178841507811@g.us",
+  "msgID": [
+    "0C0B79DEB2306A804EFFC49E85DC3EDE",
+    "6845CB1969D443FD3F34339E1439F863",
+    "724FFE18D6A9BC530A415AF87823536E"
+  ],
+  "messages": [
+    "Anime",
+    "Anime",
+    "guys info sewa WhatsApp dong minimal pemakaian 1thn up, untuk uang jajan pasti ada. minat japri yaa"
+  ],
+  "messageCount": 3,
+  "lastTriggeredAt": 1703253546666
+}

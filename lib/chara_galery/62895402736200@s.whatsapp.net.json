@@ -1,0 +1,1062 @@
+{
+  "status": "active",
+  "sender": "62895402736200@s.whatsapp.net",
+  "name": "Naufal A R",
+  "animes": [
+    {
+      "id": 130944,
+      "name": {
+        "full": "Nasa Yuzaki",
+        "native": "由​​​​​​​​​​​​​​崎​​​​​​​星​​​​​​​​​​​​空"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130944-Bi9EfjnNO3LT.png"
+      },
+      "description": "__Height:__ 169.5 cm\n__Likes:__ Math, Physics, Finances\n\nKindhearted, charismatic, and intelligent, albeit only in certain areas. Nasa Yuzaki decided he had no need for a high school education, and, well, he was mostly right. He is the type of person who would worry if his friends got hurt when they tripped over a pebble, while he ended up falling down a cliff. He is very in love with his wife.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii x Maou-jou de Oyasumi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 124727
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: SNS",
+              "english": "TONIKAWA: Over The Moon For You ~SNS~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127371
+          },
+          {
+            "title": {
+              "romaji": "100-nichi Go ni Kekkon Suru Futari",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 117769
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Seifuku",
+              "english": "TONIKAWA: Over The Moon For You ~Uniform~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141212
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Joshikou-hen",
+              "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 166104
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 136790,
+      "name": {
+        "full": "Fitoria",
+        "native": "フィトリア"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b136790-6TkN3qYelIhk.jpg"
+      },
+      "description": "Fitoria is the queen of the Filolials, who rules over them all.\n\nShe has silver hair with thin streaks of light blue, cut in a short bob with three tufts of hair standing up vertically from the crown of her head, like cowlicks. Her eyes are red and her face is small and well composed. She's dressed in a red and white gothic lolita-style dress. She's about the same height as Filo.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85743
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85442
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 99263
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 2",
+              "english": "The Rising of the Shield Hero Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111321
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Filo to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 123371
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Oshinagaki",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111135
+          },
+          {
+            "title": {
+              "romaji": "Yari no Yuusha no Yarinaoshi",
+              "english": "The Reprise of the Spear Hero: The Manga Companion"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 100477
+          },
+          {
+            "title": {
+              "romaji": "Dun Zhi Yongzhe Cheng Minglu: Shouyou - Si Ge Manhua",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 129016
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Toaru Ichinichi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 107845
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 76910,
+      "name": {
+        "full": "Mother Minami",
+        "native": null
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/76910.jpg"
+      },
+      "description": "Kotori's mother and the school's headmaster. She has a strict personality, and is an old friend of Maki's mother.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! School idol project",
+              "english": "Love Live! School Idol Project"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15051
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project 2nd Season",
+              "english": "Love Live! School Idol Project 2nd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 19111
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 147005,
+      "name": {
+        "full": "Ruka Sarashina",
+        "native": "更科瑠夏"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b147005-5vLFz3lTsssh.png"
+      },
+      "description": "__Height:__ 158 cm (5'2\")\n\nRuka Sarashina suffers from arrhythmia and seeks a lover that will help her cope with her condition. She's seen as being a very pushy and possessive kind of person. This personality of hers developed after learning of her condition and being alienated from her peers. Because of this, she became very fixated on the idea that getting a boyfriend would help her in having a faster heartbeat.\n\nAlong with her rather brash personality, she doesn't like giving up easily; often making poor decisions to get what she wants.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu",
+              "english": "Rent-A-Girlfriend"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Ecchi",
+              "Romance"
+            ],
+            "id": 99943
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu",
+              "english": "Rent-a-Girlfriend"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 113813
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu: Koushiki Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 123008
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu Petit",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 123901
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu 2nd Season",
+              "english": "Rent-a-Girlfriend Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 124410
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu 2nd Season: Date Movie",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 154176
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu 2nd Season Petit",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 154385
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu 3rd Season",
+              "english": "Rent-a-Girlfriend Season 3"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 154745
+          },
+          {
+            "title": {
+              "romaji": "Kanojo, Okarishimasu: Date Movie",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 162800
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 169486,
+      "name": {
+        "full": "Fubuki Shirakami",
+        "native": "白上フブキ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169486-V1qjlgVBr8X9.png"
+      },
+      "description": "__Debut date:__ June 1, 2018\n__Height:__ 155 cm\n__Fan base name:__ Sukon-bu\n__Illustrator:__ [Nagishiro Mito](https://anilist.co/staff/134537)\n__Generation:__ 1st Gen/GAMERS\n\nShirakami Fubuki is a female Japanese Virtual YouTuber associated with hololive.\n\n[Profile (hololive)](https://en.hololive.tv/portfolio/items/433587) | [YouTube](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg) | [Twitter](https://twitter.com/shirakamifubuki) | [Bilibili](https://space.bilibili.com/332704117/)\n\n\"Foxy day to you! I'm Shirakami Fubuki!\"\n\nA white haired kemomimi (animal-eared) highschool student. Although she is shy and mostly calm, she likes to talk to people. She would be very happy if you pay attention to her.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "id": 118123
+          },
+          {
+            "title": {
+              "romaji": "Miko no Tsutome!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 119781
+          },
+          {
+            "title": {
+              "romaji": "Rebirth: Virtual to no Souguu",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 123885
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128711
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128713
+          },
+          {
+            "title": {
+              "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 129963
+          },
+          {
+            "title": {
+              "romaji": "Holoearth Chronicles Side:E Yamato Kasou Kai Itan",
+              "english": "Holoearth Chronicles Side:E ~Yamato Phantasia~ "
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 129967
+          },
+          {
+            "title": {
+              "romaji": "Tantei wa mou, Shindeiru.",
+              "english": "The Detective Is Already Dead"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 128712
+          },
+          {
+            "title": {
+              "romaji": "Girigiri Warukunai Watame",
+              "english": "Watame Did Borderline Nothing Wrong"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 146004
+          },
+          {
+            "title": {
+              "romaji": "hololive Summer 2022",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153348
+          },
+          {
+            "title": {
+              "romaji": "Saikyoutic Polka",
+              "english": "SAIKYOUTICPOLKA"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153775
+          },
+          {
+            "title": {
+              "romaji": "KONKON Beats",
+              "english": "KONKON Beats"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 155391
+          },
+          {
+            "title": {
+              "romaji": "Seishun Archive",
+              "english": "Seishun Archive"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 166614
+          },
+          {
+            "title": {
+              "romaji": "SKYSONAR",
+              "english": "Skysonar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167147
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88908,
+      "name": {
+        "full": "Minami Nitta",
+        "native": "新田美波"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88908-JilW2JtZPrTZ.png"
+      },
+      "description": "**Height:** 165 cm\n**Hometown:** Hiroshima Prefecture, Japan\n\nMinami is a college student who loves to try out as many different things as possible, and being an idol was one of the things she wanted to give a try. She is in her college's lacrosse team and is very good at the sport, just like she's really good at most of the things she tries. Despite her accomplishments, she became an idol to live up to her full potential and better herself. Family is very important to her, and she wants to be a big sister to the younger idols. She has a little brother, and her \"Papa\" is rather protective of her. She is considered to be a great older sister by both him and her fellow idols. \n",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20693
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21094
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 103311
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 105962
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102184
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cute",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92675
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cool",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92676
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 99742
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 101267
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21564
+          },
+          {
+            "title": {
+              "romaji": "VOY@GER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Sci-Fi"
+            ],
+            "id": 137075
+          },
+          {
+            "title": {
+              "romaji": "ETERNITY MEMORIES",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 142173
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Extra Stage",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 115519
+          },
+          {
+            "title": {
+              "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Slice of Life"
+            ],
+            "id": 103849
+          },
+          {
+            "title": {
+              "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 146975
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 205270,
+      "name": {
+        "full": "Mito Takami",
+        "native": "高海美渡"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205270-gnDDIWtSEd0x.png"
+      },
+      "description": "Chika's elder sister and the middle child of the Takami sisters.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! Sunshine!!",
+              "english": "Love Live! Sunshine!!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21584
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+              "english": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 100965
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Sunshine!! 2nd Season",
+              "english": "Love Live! Sunshine!! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 98349
+          },
+          {
+            "title": {
+              "romaji": "Genjitsu no Yohane: SUNSHINE in the MIRROR",
+              "english": "YOHANE THE PARHELION -SUNSHINE in the MIRROR"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music"
+            ],
+            "id": 151513
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 19566,
+      "name": {
+        "full": "Mio Akiyama",
+        "native": "秋山澪"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png"
+      },
+      "description": "__Height:__ 160 cm\n \nMio is a shy girl who is in the light music club. She plays a left-handed Fender Japan '62 Reissue Jazz Bass in 3-Tone Sunburst In the manga, she also has a left-handed, 3-Color Sunburst Fender Jazz Bass with a tortoiseshell pickguard, though is shown playing a Fender Precision Bass in the first manga volume. She uses D'Addario EXL160M medium bass strings. Her bass is given the name Elizabeth later in the anime. While she originally intended to join the literary club, she was forced into the light music club by her childhood friend and the club's president/drummer, Ritsu. She gets excellent grades in school and is often mature and strict especially where Ritsu is involved; her weakness is the macabre and horrific, and she is often incapacitated with fear when stories involving ghosts, blood, injuries, haunted houses, barnacles or other disturbing topics come up. She also has a fear of being in the spotlight and gets embarrassed easily, and is often subject to teasing from Ritsu and Sawako, their club adviser and eventual third-year homeroom teacher. Mio has long, straight black hair and gray eyes (that are angled slightly more than the other characters). She cites that she chose bass since it is not the center of attention in the band, unlike the guitarist. Mio is more technical when it comes to music, and Yui often comes to her when she is in need of more guitar tutorials.  Along with Yui, Mio is one of the band's main vocalists, though given her dislike of being center stage, she tries to avoid taking the lead vocal if possible, generally singing if Yui is unable to. She writes most of the songs, although they usually feature some odd and overly girlish lyrics like \"Light and Fluffy Time\". As she is left-handed, she becomes entranced whenever she sees left-handed instruments, because of their rarity. After their first live performance, the attractive Mio gained a huge fan following (in no small part due to an unfortunate accident that occurred at the end of the show), led by an infatuated former student council president. Also resulting from her sudden popularity, most of her classmates voted that she portray Romeo in their class play. Mio comes to greatly enjoy her time at university as she encounters many new experiences. She is also able to overcome some of her shyness and make new friends such as Sachi and Ayame. Her favourite food is Gateau au Chocolat (Rich Layered Chocolate Cake).",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "K-ON!",
+              "english": "K-ON!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 5680
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Movie",
+              "english": "K-ON!: The Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9617
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!",
+              "english": "K-ON! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 7791
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Keikaku!",
+              "english": "K-ON! Season 2: Plan!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9734
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Live House!",
+              "english": "K-ON!: Live House!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 6862
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Ura-On!!",
+              "english": "K-ON! Season 2 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 9203
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Ura-On!",
+              "english": "K-ON! Season 1 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 7017
+          },
+          {
+            "title": {
+              "romaji": "K-On!",
+              "english": "K-On!"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 43001
+          },
+          {
+            "title": {
+              "romaji": "K-On! Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 49551
+          },
+          {
+            "title": {
+              "romaji": "K-On! college",
+              "english": "K-ON! COLLEGE"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81855
+          },
+          {
+            "title": {
+              "romaji": "K-On! Shuffle",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102317
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Story Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 128887
+          },
+          {
+            "title": {
+              "romaji": "K-On! highschool",
+              "english": "K-ON! HIGH SCHOOL"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81857
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

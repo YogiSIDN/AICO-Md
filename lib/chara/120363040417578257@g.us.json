@@ -1,0 +1,98 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 145458,
+    "name": {
+      "full": "Norn Greyrat",
+      "native": "ノルン・グレイラット"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b145458-JG4FkAjUjw2l.png"
+    },
+    "description": "Norn Greyrat is the daughter of [Zenith Greyrat](https://anilist.co/character/179855/Zenith-Greyrat) and [Paul Greyrat](https://anilist.co/character/88347/Paul-Greyrat) and is the younger sister of [Rudeus Greyrat](https://anilist.co/character/88348) and older half-sister of [Aisha Greyrat](https://anilist.co/character/145459/Aisha-Greyrat).",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85470
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85564
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 108465
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 127720
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 166873
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "145458",
+  "groupId": "120363040417578257@g.us",
+  "msgID": [],
+  "messages": [],
+  "messageCount": 0,
+  "lastTriggeredAt": 1702926009703
+}

@@ -1,0 +1,134 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 133722,
+    "name": {
+      "full": "Beloukas",
+      "native": "ベロウカ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133722-llVcCnu20CnY.png"
+    },
+    "description": "The slave dealer that sells Naofumi Iwatani many slaves. He also conducts slave and monster seal rituals. Despite his appearance and his trade, he is an honest salesman. Upon Naofumi’s request, he searches for and collects slaves who were former villagers of Raphtalia’s village",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 85743
+        },
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 85442
+        },
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 99263
+        },
+        {
+          "title": {
+            "romaji": "Yari no Yuusha no Yarinaoshi",
+            "english": "The Reprise of the Spear Hero: The Manga Companion"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 100477
+        },
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Toaru Ichinichi",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Slice of Life"
+          ],
+          "id": 107845
+        },
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 2",
+            "english": "The Rising of the Shield Hero Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 111321
+        },
+        {
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari Season 3",
+            "english": "The Rising of the Shield Hero Season 3"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 111322
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "133722",
+  "groupId": "120363167338947238@g.us",
+  "msgID": [
+    "65DFC037D0F3269AE14092912BDCD23C",
+    "7CD0AC8A8F900740C917DEDDCA9E7085",
+    "CDFDC396F5D1631AEB5F0BF58771689F",
+    "D0FAF2D5DA8C5030A97EEF6D01C59C71",
+    "EBBD99A780C239A621FE77482AA2F447"
+  ],
+  "messages": [
+    "Ok",
+    "Iya jdi takut",
+    "Nih bot siapa dah",
+    "Anj",
+    "Awas di prkoas"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1703225682090
+}

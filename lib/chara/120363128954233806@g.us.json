@@ -1,0 +1,56 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 284083,
+    "name": {
+      "full": "Abe",
+      "native": "阿部"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284083-y9U4yp84xpa3.png"
+    },
+    "description": "A detective for the Oshiage Police Department.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Lycoris Recoil",
+            "english": "Lycoris Recoil"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Slice of Life"
+          ],
+          "id": 143270
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "284083",
+  "groupId": "120363128954233806@g.us",
+  "msgID": [
+    "55E4CA58A950FD3EA788C1DB8FAF85C3",
+    "F9FABC1063F410C1083B80BCB7295409",
+    "79509AD186AAE25BEB980A27C5130CC6",
+    "00DB0F8F0CFEABFDD5092DEFA4EC5A38",
+    "7FC4B590464B0D6BA12D2DA146C2EF38",
+    "406D4BBDF223019348A0B7C84EB0D04E",
+    "93F63A3BD310306DC2EA326833DA2B63"
+  ],
+  "messages": [
+    "Malas",
+    "🗿",
+    "kok ngeselin ya 😁",
+    "Ya it",
+    "sama siapa",
+    "agak laen emang",
+    "mending berguna kek bot sebelah 😌"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1696695191339
+}

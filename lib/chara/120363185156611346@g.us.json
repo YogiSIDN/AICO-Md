@@ -1,0 +1,106 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 121012,
+    "name": {
+      "full": "Mari Mizuno",
+      "native": "水野 鞠"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121012-3v4T2k4AyWOu.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Masamune-kun no Revenge",
+            "english": "Masamune-kun's Revenge"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 21857
+        },
+        {
+          "title": {
+            "romaji": "Masamune-kun no Re○○○",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 108671
+        },
+        {
+          "title": {
+            "romaji": "Masamune-kun no Revenge",
+            "english": "Masamune-kun’s Revenge"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": 76716
+        },
+        {
+          "title": {
+            "romaji": "Masamune-kun no Revenge Tokubetsu-hen: Rental Kareshi Masamune-kun",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": 122220
+        },
+        {
+          "title": {
+            "romaji": "Masamune-kun no Revenge Anthology Comic",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": 148239
+        },
+        {
+          "title": {
+            "romaji": "Masamune-kun no Revenge R",
+            "english": "Masamune-kun's Revenge R"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 146953
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "121012",
+  "groupId": "120363185156611346@g.us",
+  "msgID": [
+    "64B87CB36DF41EBBA6EDBCB4BBE525F2"
+  ],
+  "messages": [
+    "Atau ga 2"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1696860894225
+}

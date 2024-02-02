@@ -1,0 +1,61 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 75352,
+    "name": {
+      "full": "Souichirou Tatebayashi",
+      "native": "舘林 総一郎"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/75352.jpg"
+    },
+    "description": "Boyfriend of Himemiya Saori and president of the student council.  Also hates Jin.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": "The Pet Girl of Sakurasou"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 13759
+        },
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 60051
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "75352",
+  "groupId": "120363189727372797@g.us",
+  "msgID": [
+    "474E59E4524B014840977D4E6997D530",
+    "E5A34EF15E8456FFFC3BAF86A4EE5D8B"
+  ],
+  "messages": [
+    "!scmp3",
+    "Puki nya kamu pelik"
+  ],
+  "messageCount": 2,
+  "lastTriggeredAt": 1703239087842
+}

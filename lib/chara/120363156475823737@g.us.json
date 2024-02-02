@@ -1,0 +1,232 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 75002,
+    "name": {
+      "full": "Nina Ichihara",
+      "native": "市原仁奈"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75002-X3i8oiTu3irk.png"
+    },
+    "description": "**Hometown:** Shizuoka Prefecture, Japan\n**Height:** 128 cm \n\nOne of the youngest idols in the Cinderella Cast, Nina is a perky, naive girl who is almost always seen in kigurumi. Despite being hardworking and capable, Nina is still a young girl and often acts her age. She dislikes being alone and wants the producer to stay by her side and look after her.\n\nShe also tend to refer to her self in third person and even though she uses polite conjugations, she tends to mispronounce the negative ending and ends up using rude endings.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 72333
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls New Generations",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 73425
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls Honjitsu no Idol-san",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 74497
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 103311
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "id": 103849
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 105962
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 102184
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - passion",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 92677
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 2nd Season",
+            "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 99742
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 3rd Season",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 101267
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Extra Stage",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 115519
+        },
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21094
+        },
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21564
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 146975
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149 OVA",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 166532
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "75002",
+  "groupId": "120363156475823737@g.us",
+  "msgID": [
+    "DE68BE48CF20BA5FB254049D664A44F4",
+    "C946C33A57692AEB188C88D00BE56756",
+    "7AD7EB3A54AE9CB55CA325EAB265DE03",
+    "C8B6EAD4AEEC085A22260FEA8A4E1054",
+    "3D261D04B6A127EB498C7FBFDD1556B5",
+    "A1055F1337320805E4A0BFADDF6DD47D"
+  ],
+  "messages": [
+    "Jgn ribut",
+    "Gw pnya lebih dri itu",
+    "Ribut sama kmu aj",
+    "Lamborzini kek mans sini ada",
+    "Yok",
+    "Siapa feduli 😂"
+  ],
+  "messageCount": 6,
+  "lastTriggeredAt": 1703147255876
+}

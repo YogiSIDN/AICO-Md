@@ -1,0 +1,114 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 133839,
+    "name": {
+      "full": "Deusolbert",
+      "native": "デュソルバート"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/n133839-ilDA69EJLanz.png"
+    },
+    "description": "Integrity Knight that arrived to apprehend Alice after she broke the Taboo Index.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization",
+            "english": "Sword Art Online: Alicization"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 100182
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization - War of Underworld",
+            "english": "Sword Art Online: Alicization - War of Underworld"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 108759
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+            "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 114308
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization Lycoris",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 118707
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 51479
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Project Alicization",
+            "english": "Sword Art Online: Project Alicization"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 97362
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "133839",
+  "groupId": "120363164368239986@g.us",
+  "msgID": [
+    "6127AADD9D069A8101E8D64EEE12AC0B"
+  ],
+  "messages": [
+    "Woilah wkwk"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1695187315979
+}

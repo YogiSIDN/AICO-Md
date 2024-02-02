@@ -1,0 +1,79 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 179958,
+    "name": {
+      "full": "Yoshiki Ichijou",
+      "native": "一条良樹"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179958-WigSemwnUGdS.png"
+    },
+    "description": "Height: 167cm\n\nCheapskate, well-informed, and super perverted. He has been friends with Naoya Nifuji since kindergarten.\n",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii",
+            "english": "Wotakoi: Love is Hard for Otaku"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 99578
+        },
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii",
+            "english": "Wotakoi: Love is Hard for Otaku"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 86717
+        },
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii OVA",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 104217
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "179958",
+  "groupId": "120363151297970710@g.us",
+  "msgID": [
+    "5E5B66569E4701CE712B48FF94BC5A1A",
+    "8AE500A12EB854BAD770E1A4B0D09352",
+    "590426800F81EB474BBD8204D846E423",
+    "B384DF8C992DC50270FEDFAD8D968324",
+    "642B92458D0CE3A09118DA487C11726A"
+  ],
+  "messages": [
+    "Klo ga prem tetep bisa bg",
+    "Top up apa",
+    "Gimana",
+    "Ml heheh",
+    "Lu kenapa pepek"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1703154016345
+}

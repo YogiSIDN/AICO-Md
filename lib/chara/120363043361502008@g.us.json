@@ -1,0 +1,143 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 66327,
+    "name": {
+      "full": "Kuradeel",
+      "native": "クラディール"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/66327.jpg"
+    },
+    "description": "A member of the guild Knights of the Blood assigned to protect Asuna.   ~!He was later revealed to be a member of the famous Player Killer guild, Laughing Coffin. He later tried to kill Kirito by setting a trap and killing three of the guild members. He was later stopped by Asuna and killed by Kirito because Asuna can't kill him.!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 11757
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Extra Edition",
+            "english": "Sword Art Online EXTRA EDITION"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 20021
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 51479
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Aincrad",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 53718
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online 4-koma",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 70053
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Phantom Bullet",
+            "english": "Sword Art Online: Phantom Bullet"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 85440
+        },
+        {
+          "title": {
+            "romaji": "Gekijouban Sword Art Online: Ordinal Scale",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 106537
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "66327",
+  "groupId": "120363043361502008@g.us",
+  "msgID": [
+    "85C51E88E7EAE523329EDCD2F9592117",
+    "06C1C36E97DBD285FE1CCBA016756DB3",
+    "08C0EB35BBC6AE00A6F194CA9512725D",
+    "64F4B1AF04AD8D29648D6AFE5C2782C9",
+    "BA26425D56CE32223080318BBA2E2390",
+    "725633E3EB89C244A752970B183C4ACC",
+    "F315BC2A97D929AC880EF37C53A8DEF3",
+    "1511E745A9E615A84F476E30991036A8"
+  ],
+  "messages": [
+    "hah",
+    "Gaje bat si Abang tuh",
+    "Lah",
+    "Tobat goblok 😇",
+    "Sep",
+    "Sabna",
+    "Tolong",
+    "https://chat.whatsapp.com/LaHGLrCsu4oHiTXVfZL66J"
+  ],
+  "messageCount": 8,
+  "lastTriggeredAt": 1695019797447
+}

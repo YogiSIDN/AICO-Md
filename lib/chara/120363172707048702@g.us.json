@@ -1,0 +1,85 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 126840,
+    "name": {
+      "full": "Nagi Arisuin",
+      "native": "有栖院凪"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/126840-pmsaPfps6tK7.jpg"
+    },
+    "description": "Kurogane Shizuku's close friend and roomate. Alice likes to give Ikki advice from time to time, and is very interested in how he is developing over time. Alice identifies as a woman, and prefers the name Alice to \"Nagi\". Her friends call her Alice as well. \n\nAlice's Device is Darkness Hermit and her Noble Art is Shadow Bind. Her device allows Alice to create shadow portals that enable her to travel from one place to another. It also immobilizes opponents by pinning them down by their shadow.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Rakudai Kishi no Cavalry",
+            "english": "Chivalry of a Failed Knight"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 85465
+        },
+        {
+          "title": {
+            "romaji": "Rakudai Kishi no Cavalry",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 85370
+        },
+        {
+          "title": {
+            "romaji": "Rakudai Kishi no Cavalry",
+            "english": "Chivalry of a Failed Knight"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 21092
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "126840",
+  "groupId": "120363172707048702@g.us",
+  "msgID": [
+    "1FF3520D30B512F593877CE6DEEA4E91",
+    "BBA0F5DFA9FAF82FE34E6DA3C91082BA",
+    "D439FC6C846850F8980CAB0E2F5BABF7",
+    "440535DBCAC2181CCB5450EF17725DCC",
+    "0A8F978B75D58932B4AAE0E1E5E0D6AF",
+    "ED7EFCC430268402AFE3CC277BEC4D97",
+    "A308E735E0ADFDEA63381BE9EC5CF6DA"
+  ],
+  "messages": [
+    "hehehehe kompres bang pake air🗿",
+    "Oneeshan ku keserupan",
+    "anjer 🗿",
+    "GK tau itu🗿",
+    "tradisi keluarga",
+    "ya gak keluarga juga sih",
+    "kamuu knpa mom🗿"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1695037835434
+}

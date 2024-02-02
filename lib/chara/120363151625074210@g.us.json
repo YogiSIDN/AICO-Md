@@ -1,0 +1,46 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 262592,
+    "name": {
+      "full": "Kengaku Kyaku",
+      "native": "見学客"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sono Bisque Doll wa Koi wo Suru",
+            "english": "My Dress-Up Darling"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 132405
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "262592",
+  "groupId": "120363151625074210@g.us",
+  "msgID": [
+    "43A0E0C60AAECFAF92944426F571DF53"
+  ],
+  "messages": [
+    "Spin-Off Houkago Shounen Hanako-kun Mendapat Adaptasi Anime\n\nMelalui siaran pers diumumkan bahwa manga yang ditulis dan diilustrasikan oleh Iro Aida , Houkago Shounen Hanako-kun ( After-School Hanako-kun ), akan diadaptasi menjadi anime dalam format episode pendek yang akan tayang pada 12 Oktober.\n\n📢Setiap episode akan disiarkan dua hari lebih awal di Crunchyroll mulai tanggal 10 Oktober.\n\n▫️Studio : Lerche\n▫️Genre : Comedy, Supernatural\n\n🌟Sinopsis :\nHanako-kun si hantu dan asisten fananya, Nene Yashiro, biasanya sibuk menyelesaikan berbagai kejadian supernatural di Akademi Kamome, tapi bagaimana mereka menghabiskan waktu saat istirahat dari semua itu? Datang dan saksikan karakter Hanako-kun yang terikat toilet bermain game, jatuh sakit, berganti jenis kelamin, dan temukan rahasia yang menggemparkan dunia selama jam santai sepulang sekolah."
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1696865297985
+}

@@ -1,0 +1,62 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 248073,
+    "name": {
+      "full": "Saya",
+      "native": "サヤ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b248073-bKCTqqSPq9GT.jpg"
+    },
+    "description": "A maid working for the Hazuki household",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Love Live! Superstar!!",
+            "english": "Love Live! Superstar!!"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 114979
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Superstar!! 2nd Season",
+            "english": "Love Live! Superstar!! Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 140642
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "248073",
+  "groupId": "120363046623975929@g.us",
+  "msgID": [
+    "F1723B722490333EDE2640B3C2D20CDE",
+    "ADE9C8793799594C765ACCA6079FA1D4",
+    "730DB1C737598C037624E369F078ADB7",
+    "94424C1956382C19F7EE2B3602F20198"
+  ],
+  "messages": [
+    "Antibot ppk 🙄",
+    "!claim",
+    "Gagal mulu",
+    "Fitur apa ini"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1702916971216
+}

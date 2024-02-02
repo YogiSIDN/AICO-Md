@@ -1,0 +1,218 @@
+{
+  "status": "active",
+  "claimed_keyword": [
+    {}
+  ],
+  "claimed_by_name": [
+    "Naufal A R"
+  ],
+  "claimed_by_sender": [
+    "62895402736200@s.whatsapp.net"
+  ],
+  "anime_result": {
+    "id": 19566,
+    "name": {
+      "full": "Mio Akiyama",
+      "native": "秋山澪"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png"
+    },
+    "description": "__Height:__ 160 cm\n \nMio is a shy girl who is in the light music club. She plays a left-handed Fender Japan '62 Reissue Jazz Bass in 3-Tone Sunburst In the manga, she also has a left-handed, 3-Color Sunburst Fender Jazz Bass with a tortoiseshell pickguard, though is shown playing a Fender Precision Bass in the first manga volume. She uses D'Addario EXL160M medium bass strings. Her bass is given the name Elizabeth later in the anime. While she originally intended to join the literary club, she was forced into the light music club by her childhood friend and the club's president/drummer, Ritsu. She gets excellent grades in school and is often mature and strict especially where Ritsu is involved; her weakness is the macabre and horrific, and she is often incapacitated with fear when stories involving ghosts, blood, injuries, haunted houses, barnacles or other disturbing topics come up. She also has a fear of being in the spotlight and gets embarrassed easily, and is often subject to teasing from Ritsu and Sawako, their club adviser and eventual third-year homeroom teacher. Mio has long, straight black hair and gray eyes (that are angled slightly more than the other characters). She cites that she chose bass since it is not the center of attention in the band, unlike the guitarist. Mio is more technical when it comes to music, and Yui often comes to her when she is in need of more guitar tutorials.  Along with Yui, Mio is one of the band's main vocalists, though given her dislike of being center stage, she tries to avoid taking the lead vocal if possible, generally singing if Yui is unable to. She writes most of the songs, although they usually feature some odd and overly girlish lyrics like \"Light and Fluffy Time\". As she is left-handed, she becomes entranced whenever she sees left-handed instruments, because of their rarity. After their first live performance, the attractive Mio gained a huge fan following (in no small part due to an unfortunate accident that occurred at the end of the show), led by an infatuated former student council president. Also resulting from her sudden popularity, most of her classmates voted that she portray Romeo in their class play. Mio comes to greatly enjoy her time at university as she encounters many new experiences. She is also able to overcome some of her shyness and make new friends such as Sachi and Ayame. Her favourite food is Gateau au Chocolat (Rich Layered Chocolate Cake).",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "K-ON!",
+            "english": "K-ON!"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 5680
+        },
+        {
+          "title": {
+            "romaji": "K-ON! Movie",
+            "english": "K-ON!: The Movie"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 9617
+        },
+        {
+          "title": {
+            "romaji": "K-ON!!",
+            "english": "K-ON! Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 7791
+        },
+        {
+          "title": {
+            "romaji": "K-ON!!: Keikaku!",
+            "english": "K-ON! Season 2: Plan!"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 9734
+        },
+        {
+          "title": {
+            "romaji": "K-ON!: Live House!",
+            "english": "K-ON!: Live House!"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 6862
+        },
+        {
+          "title": {
+            "romaji": "K-ON!!: Ura-On!!",
+            "english": "K-ON! Season 2 Shorts"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 9203
+        },
+        {
+          "title": {
+            "romaji": "K-ON!: Ura-On!",
+            "english": "K-ON! Season 1 Shorts"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 7017
+        },
+        {
+          "title": {
+            "romaji": "K-On!",
+            "english": "K-On!"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music"
+          ],
+          "id": 43001
+        },
+        {
+          "title": {
+            "romaji": "K-On! Anthology Comic",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 49551
+        },
+        {
+          "title": {
+            "romaji": "K-On! college",
+            "english": "K-ON! COLLEGE"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 81855
+        },
+        {
+          "title": {
+            "romaji": "K-On! Shuffle",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 102317
+        },
+        {
+          "title": {
+            "romaji": "K-ON! Story Anthology Comic",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 128887
+        },
+        {
+          "title": {
+            "romaji": "K-On! highschool",
+            "english": "K-ON! HIGH SCHOOL"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 81857
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "19566",
+  "groupId": "120363027284552216@g.us",
+  "msgID": [
+    "24205C84E5CF23626AFA6ACF2C324ACC",
+    "603C983B05AFC51EDD2486C172498528",
+    "F3162AF07B8D060DC762D48E06F4E2BC",
+    "BE0FF4437859DBD3BF6750561BBA7157",
+    "7B118CE77D1E902FF310185FA391288C",
+    "AF4A3A35E39FD5F743A447EB1CB217DE",
+    "87D0CC9971006A56EED446757EF00937",
+    "A63C60A6DCCB968BF4DF67E91FB95915",
+    "BABF545496958DF0D85B686E5BA2FB85"
+  ],
+  "messages": [
+    "Gua lagi makan cuk",
+    "Oh salah baca gue 🗿",
+    "eh iyakah.. sorry brother",
+    "Hiragana semua bang",
+    "!claim mio",
+    "dari tadi gw mau buang tapi berat bet jir.. susah dapetinnya🫢",
+    "はじめまして、わたし　は　アナ　です。👋🏻",
+    "*bang gw di ajk gk",
+    "Hajimemashite watashi wa ana desu"
+  ],
+  "messageCount": 9,
+  "lastTriggeredAt": 1695556289069
+}

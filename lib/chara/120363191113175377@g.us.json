@@ -1,0 +1,95 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 139562,
+    "name": {
+      "full": "Sasha Necron",
+      "native": "サーシャ・ネクロン"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b139562-DAiieWEILhKa.png"
+    },
+    "description": "A member of the House of Necron and direct descendant of Ivis Necron. Sasha Necron is called the, \"Witch of Destruction,\" by others.  She has the Demon Eyes of Destruction, which allow her to destroy anything she chooses within her field of view. \n\nSasha is the older sister of Misha Necron. Sasha has a cold personality towards her sister, calling her a, \"defective doll.\" Towards others, she acts superior and above them, due to her status. Though she does act as such, she is able to respect others and be friendly towards them. ",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 106601
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": 106599
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": 112301
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+            "english": "The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "id": 130588
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "id": 130590
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "139562",
+  "groupId": "120363191113175377@g.us",
+  "msgID": [
+    "E3074265DC8C766F98D24B3D133A9519"
+  ],
+  "messages": [
+    "Iyeyyy"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703285913049
+}

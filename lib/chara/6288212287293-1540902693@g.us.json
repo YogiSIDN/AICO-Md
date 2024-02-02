@@ -1,0 +1,69 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 181275,
+    "name": {
+      "full": "Jake",
+      "native": "ジェイク"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181275-2fRWl8BYwaqj.png"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative: Gun Gale Online"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "id": 100183
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative Gun Gale Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 100858
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "181275",
+  "groupId": "6288212287293-1540902693@g.us",
+  "msgID": [
+    "9B3B4EB962C10EBDB330398129C17FB3",
+    "1699DAC6B3595FFE3460693D28D30B5F",
+    "C9DDF57F54F8A654C96D7073E4DC635B",
+    "F2615E2F308B7CF6AE3AB22FD21A736C",
+    "CE1D72CC85817056168793F1E037F0BF",
+    "512DC4B12036A516A1AB0DA490154A8F",
+    "CC56B4249A7FFC1F74002F385AB2AD38"
+  ],
+  "messages": [
+    "Sang saiydo",
+    "Opo artine",
+    "Kontol gede",
+    "Apasi ajg",
+    ".p",
+    "Hallo",
+    "T"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1703253226633
+}

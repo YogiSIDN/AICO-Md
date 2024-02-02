@@ -1,0 +1,52 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 303858,
+    "name": {
+      "full": "Kishouyohoushi",
+      "native": "気象予報士"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 146975
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "303858",
+  "groupId": "120363026184225673@g.us",
+  "msgID": [
+    "98750B89FAC937C4B7615A6C33C73F70",
+    "9B92DCDF86DB60B3CAEB99E58ABDAA09",
+    "8B47796ABAE0B772388CD89CBAAA1BCB",
+    "7073FFA318B8BCE007628ADBBD20B43D"
+  ],
+  "messages": [
+    "Mau pijat dan urut untuk relaksasi full body dgn tarif 50 ribu? Hubungi Aji. 085101663111. Rangka lor - Bluru kidul - Sidoarjo kota",
+    "Klu k bangil bisa",
+    "Mau pjit",
+    ".menu"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1703295964184
+}

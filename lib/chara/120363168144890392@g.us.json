@@ -1,0 +1,90 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 122192,
+    "name": {
+      "full": "Tarou Kabakura",
+      "native": "樺倉太郎"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b122192-qnLmMg3YaGNd.png"
+    },
+    "description": "__Height:__ 180 cm\n\nHe's majorly into manga and games, which he has good taste in. He also has good taste in the merchandise he owns. Compared to the typical otaku, however, he falls a little short. Before he gets into new characters, he takes into consideration the guilty feeling he has about crime fiction and married life genres, former wives and current wives meeting genres, and the system type of wife-donos entering temples.\n\n__Sake:__ When he drinks too much, he gets sleepy.\n__Smoking:__ When he heard about the tax increase, he stopped.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii",
+            "english": "Wotakoi: Love is Hard for Otaku"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 99578
+        },
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii OVA",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 104217
+        },
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii",
+            "english": "Wotakoi: Love is Hard for Otaku"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 86717
+        },
+        {
+          "title": {
+            "romaji": "Wotaku ni Koi wa Muzukashii Comic Anthology",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 123294
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "122192",
+  "groupId": "120363168144890392@g.us",
+  "msgID": [
+    "309C42A51B6F249F1A5B953B8987006E",
+    "E8B23D66AFBCE338951047C63CD6632C",
+    "5558F52290F73A8E2E860597E99CB265",
+    "4AE084534318525FCC8CA2C1FB5FA5C9"
+  ],
+  "messages": [
+    "!claim",
+    "2",
+    "!2",
+    "!p 2"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1703298047176
+}

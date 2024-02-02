@@ -1,0 +1,77 @@
+{
+  "status": "active",
+  "claimed_keyword": [
+    "shikimori",
+    "shikimori"
+  ],
+  "claimed_by_name": [
+    "Hayasaka Ai",
+    "Hayasaka Ai"
+  ],
+  "claimed_by_sender": [
+    "84923520102@s.whatsapp.net",
+    "84923520102@s.whatsapp.net"
+  ],
+  "anime_result": {
+    "id": 155702,
+    "name": {
+      "full": "Miyako Shikimori",
+      "native": "式守都"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b155702-S8irhsg4QTPf.png"
+    },
+    "description": "__Height:__ 162 cm (5'4\")\n\nShikimori is not only cute but also smart and athletic, however she isn't very good at cooking! She is very protective of Izumi because he always puts himself in risky situations, when these situations occur, Shikimori reveals her \"cool\" appearance. She thinks Izumi is very cool and kind. She owns a pet dog named Kara.\n\nBoth cute and cool clothing styles suit her, but she seem to have a preference for a cute look. She became very popular at school with the girls after they saw her cool side during the tournament's volleyball game.\n",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Kawaii dake ja Nai Shikimori-san",
+            "english": "Shikimori's Not Just a Cutie"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 107282
+        },
+        {
+          "title": {
+            "romaji": "Kawaii dake ja Nai Shikimori-san",
+            "english": "Shikimori's Not Just a Cutie"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 127911
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "155702",
+  "groupId": "6283801920667-1608904928@g.us",
+  "msgID": [
+    "3E982FCE83D8E40A7FC36296636A8C12",
+    "B81EEBE5C60B441D297E8E67D2281661",
+    "37FBF31D5EBDE2621C6D40EB84F9F29C",
+    "D38205FB5CC46EBA7E2512001A1366BD",
+    "DF576ADDE6AEECD5A6464E3BAD6D8036",
+    "2E56B9B56EC4117B2298EFDEECE98612"
+  ],
+  "messages": [
+    "yaaa segini segini doang sih:v",
+    "Udh pendek gendut jeleq lagi",
+    "Paket minus",
+    "claim shikimori",
+    "menu",
+    "rill anjir, jangan kan gendut yaa kurus jelek aja gada yg suka:v"
+  ],
+  "messageCount": 6,
+  "lastTriggeredAt": 1700184587776
+}

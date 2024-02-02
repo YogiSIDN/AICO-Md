@@ -1,0 +1,90 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 72453,
+    "name": {
+      "full": "Akane Yanagi",
+      "native": "柳明音"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72453-f9gRbQBUjKo6.png"
+    },
+    "description": "__Height:__ 168 cm\n\nHe is a 3rd year at Katagiri High School​ and a member of Hori and Miyamura's regular group of friends. He is enrolled in class 3-6. He has very bad eyesight and cannot see properly without his glasses.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 72451
+        },
+        {
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 66615
+        },
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 124080
+        },
+        {
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 163132
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "72453",
+  "groupId": "120363146863616391@g.us",
+  "msgID": [
+    "27A0566B28632D90E7C86137A3470070",
+    "7A6EAABE4950ABC4593A13B1A587F5F9",
+    "249007751BFEAB5C454933EC565757B2",
+    "B4A8110548D1F17FAE847A1C4713907F"
+  ],
+  "messages": [
+    "Pkonya yg kluar atheis",
+    "Cm Keluar dri pengumuman mah gpp",
+    "Yg jgn itu keluar dr komunitas nya",
+    "Lah iya itu mksd saya"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1703264265067
+}

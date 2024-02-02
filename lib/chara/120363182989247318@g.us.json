@@ -1,0 +1,294 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 127840,
+    "name": {
+      "full": "Tomoe Koga",
+      "native": "古賀朋絵"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127840-z2LUox2R2Ivg.jpg"
+    },
+    "description": "__Height:__ 150 cm (4'11\")\n\nA typical 1st year high-school student at Minegahara High School who can take hints, but is slightly scatterbrained. Being overly concerned about how people look at her, she hides her Hakata accent, which comes out when she panics or is relaxed.\n\n(Source: Aniplex USA, edited)",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 101291
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Petite Devil Kohai"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 104236
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 91170
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 104157
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Slice of Life",
+            "Supernatural"
+          ],
+          "id": 87471
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Logical Witch"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 127683
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Petite Devil Kohai"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145157
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Logical Witch"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145159
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Siscon Idol no Yume wo Minai",
+            "english": "Rascal Does Not Dream of Siscon Idol"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145160
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Home Alone"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145162
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Dreaming Girl"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145163
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai",
+            "english": "Rascal Does Not Dream of His First Love"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145164
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145165
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Knapsack Kid "
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145166
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Mayoeru Singer no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Lost Singer"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145167
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Nightingale no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Nightingale"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 145168
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+            "english": "Rascal Does Not Dream of a Sister Venturing Out"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 154967
+        },
+        {
+          "title": {
+            "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Romance",
+            "Supernatural"
+          ],
+          "id": 161474
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "127840",
+  "groupId": "120363182989247318@g.us",
+  "msgID": [
+    "DF616DBD7C467DAC5C51BB6E3C34EDB8"
+  ],
+  "messages": [
+    "Oh"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703159513436
+}

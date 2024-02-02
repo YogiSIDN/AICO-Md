@@ -1,0 +1,64 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 162722,
+    "name": {
+      "full": "Touji Fushiguro",
+      "native": "伏黒甚爾"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg"
+    },
+    "description": "Touji Fushiguro, born Touji Zenin, is the father of [Megumi Fushiguro](https://anilist.co/character/126635/). He took a job from the Star Religious Group to assassinate the Star Plasma Vessel.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Jujutsu Kaisen",
+            "english": "Jujutsu Kaisen"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "id": 101517
+        },
+        {
+          "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season",
+            "english": "JUJUTSU KAISEN Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "id": 145064
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "162722",
+  "groupId": "120363154337981767@g.us",
+  "msgID": [
+    "291EC832B88A5A3942A0C6CBD40461C1",
+    "AB6B137B6F8FC4573C2E33684D93F448",
+    "176DBB034FF06CDD95982D859DE9C238",
+    "F2A6176A5D97987C1313B3ECD144496E"
+  ],
+  "messages": [
+    "> async function formatAngka(angka) {\n    if (angka < 1000) {\n        return angka.toString();\n    } else if (angka < 1000000) {\n        return `${Math.floor(angka / 1000)} Ribuan ${await formatAngka(angka % 1000)}`;\n    } else if (angka < 1000000000) {\n        return `${Math.floor(angka / 1000000)} Juta ${await formatAngka(angka % 1000000)}`;\n    } else if (angka < 1000000000000) {\n        return `${Math.floor(angka / 1000000000)} Miliar ${await formatAngka(angka % 1000000000)}`;\n    } else {\n        return `${Math.floor(angka / 1000000000000)} Triliun ${await formatAngka(angka % 1000000000000)}`;\n    }\n}\n\nasync function main() {\n    const angka = 266839989;\n    const hasilFormat = await formatAngka(angka);\n    console.log(hasilFormat);\n}\n\nmain();",
+    "> async function formatAngka(angka) {\n    if (angka < 1000) {\n        return angka.toString();\n    } else if (angka < 1000000) {\n        return `${Math.floor(angka / 1000)} Ribuan ${await formatAngka(angka % 1000)}`;\n    } else if (angka < 1000000000) {\n        return `${Math.floor(angka / 1000000)} Juta ${await formatAngka(angka % 1000000)}`;\n    } else if (angka < 1000000000000) {\n        return `${Math.floor(angka / 1000000000)} Miliar ${await formatAngka(angka % 1000000000)}`;\n    } else {\n        return `${Math.floor(angka / 1000000000000)} Triliun ${await formatAngka(angka % 1000000000000)}`;\n    }\n}\n\nasync function main() {\n    const angka = 266839989;\n    const hasilFormat = await formatAngka(angka);\n    m.reply(hasilFormat);\n}\n\nmain();",
+    "> async function formatAngka(angka) {\n    if (angka < 1000) {\n        return `${angka} Perak`;\n    } else if (angka < 1000000) {\n        return `${Math.floor(angka / 1000)} Ribu ${angka % 1000} Perak`;\n    } else if (angka < 1000000000) {\n        return `${Math.floor(angka / 1000000)} Juta ${Math.floor((angka % 1000000) / 1000)} Ribu ${angka % 1000} Perak`;\n    } else if (angka < 1000000000000) {\n        return `${Math.floor(angka / 1000000000)} Miliar ${Math.floor((angka % 1000000000) / 1000000)} Juta ${Math.floor((angka % 1000000) / 1000)} Ribu ${angka % 1000} Perak`;\n    } else {\n        return \"Terlalu besar untuk diformat.\";\n    }\n}\n\nasync function main() {\n    const angka = 266839989;\n    const hasilFormat = await formatAngka(angka);\n    m.reply(hasilFormat);\n}\n\nmain();",
+    "!help"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1694912776365
+}

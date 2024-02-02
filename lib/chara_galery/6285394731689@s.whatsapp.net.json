@@ -1,0 +1,802 @@
+{
+  "status": "active",
+  "sender": "6285394731689@s.whatsapp.net",
+  "name": "Yushi",
+  "animes": [
+    {
+      "id": 189575,
+      "name": {
+        "full": "Kyouko Fujibayashi ",
+        "native": "藤林響子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189575-uIyLuP83rBNc.png"
+      },
+      "description": "Fujibayashi Kyouko is a Second Lieutenant from the 101 Independent Magic-Equipped Battalion, the daughter of the Fujibayashi Family, and the granddaughter of Kudou Retsu. She is known throughout the world of combat Magicians as the \"Electron Sorceress.\"",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 20458
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 64127
+          },
+          {
+            "title": {
+              "romaji": "Zoku Mahouka Koukou no Rettousei: Magian Company",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121958
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Steeplechase-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 109833
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+              "english": "The Irregular at Magic High School: Visitor Arc"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 112300
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Shiba Tatsuya Ansatsu Keikaku",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 110366
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Shiba Tatsuya Ansatsu Keikaku",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 131074
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 59973,
+      "name": {
+        "full": "Ayako Kouchi",
+        "native": "河内亜也子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59973-A6FpkggLoNFe.png"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Hyouka",
+              "english": "Hyouka"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Mystery",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 12189
+          },
+          {
+            "title": {
+              "romaji": "Hyouka",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Mystery",
+              "Slice of Life"
+            ],
+            "id": 65513
+          },
+          {
+            "title": {
+              "romaji": "Hyouka",
+              "english": "Hyouka"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Mystery",
+              "Slice of Life"
+            ],
+            "id": 71629
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 273990,
+      "name": {
+        "full": "Sakura Kurobane",
+        "native": "黒羽咲良"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b273990-iii9qPK1vvm1.jpg"
+      },
+      "description": "Sakura Kurobane is a student at Shion Girls Academy. She is the younger sister of Sakuya Kurobane.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+              "english": "Love Live! Nijigasaki High School Idol Club Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 133891
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 75008,
+      "name": {
+        "full": "Riina Tada",
+        "native": "多田李衣菜"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/75008-vc1FvC9e3qAS.png"
+      },
+      "description": "**Height:** 152 cm\n**Hometown:** Tokyo, Japan\n\nAlways wearing headphones and with a deep love for the culture, Riina aims to become the very definition of a rock star. However, Riina lacks musical knowledge and experience with the genre, so she often comes across as a bit of a poser. Despite this, Riina’s commitment to becoming her ideal rockin’ idol self is strong. She admires [Natsuki Kimura](https://anilist.co/character/120508/Kimura-Natsuki), and wants to become someone like her.\n\nRiina doesn’t like portraying a more feminine image at first. She says she'd prefer a purely rock star aesthetic, but she can't help herself and gravitates towards more cutesy looks. In more recent cards, she's started to come closer to the rock star image she loves; even learning to play guitar under Natsuki's tutelage. Initially having Riina admire Natsuki, both of them developed a very strong and mutual bond towards each other over time and are quite often seen together.\n\nRiina lives with her parents and seems to have a very close relationship with her family. Whether she has any siblings is unknown. In a Puchiderella line Riina mentions that at school she is fairly reserved, and she wants to her passionate side as an idol. Riina has confirmed that as a student, she is the type that crams before tests and then forgets the information afterwards.\n\nRiina has been shown to be very insecure about her lack of guitar skills and often worries that she cannot become a real rock idol because of it. Even so, Riina always comes to understand that with the power of her straightforward enthusiasm and determination, she can still be rockin’.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20693
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21094
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls Rockin' Girl",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 74493
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 103311
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102184
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 105962
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cool",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92676
+          },
+          {
+            "title": {
+              "romaji": "Onegai! Cinderella",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 120122
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 99742
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 101267
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21564
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (Web)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 100225
+          },
+          {
+            "title": {
+              "romaji": "ETERNITY MEMORIES",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 142173
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Extra Stage",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 115519
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 43706,
+      "name": {
+        "full": "Kotori Otonashi",
+        "native": "音無小鳥"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43706-BQQiUgL8aPu6.png"
+      },
+      "description": "**Height:** 159 cm\n\nThe secretary of 765 Production, Kotori is open-minded and smart, but also sometimes shy.  Due to her position in the agency, at slow hours she can often doze off or start to daydream about outrageous things. She also spends much of her free time during workdays browsing 2chan, and because of this she is often thought of as being a pervert. Despite not being an idol herself, Kotori loves to sing. While Kotori's exact age has never been revealed, we know that Kotori is a little older than Azusa (making her somewhere in her twenties). ",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Puchimas!: Petit iDOLM@STER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15649
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER",
+              "english": "The Idol Master"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 10278
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM＠STER MOVIE: Kagayaki no Mukougawa e!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 17437
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster: 765 Pro to Iu Monogatari",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 11889
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster: Shiny Festa",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 14835
+          },
+          {
+            "title": {
+              "romaji": "Puchimas!!: Petit Petit iDOLM@STER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 20498
+          },
+          {
+            "title": {
+              "romaji": "Puchimas!: PETIT IDOLM@STER",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 59899
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster 2: Colorful Days",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 63583
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster 2: The World Is All One!!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 63585
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 74037
+          },
+          {
+            "title": {
+              "romaji": "Asayake wa Koganeiro - The IDOLM@STER",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102108
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Million Live!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 85788
+          },
+          {
+            "title": {
+              "romaji": "“Dreaming!” Animation PV",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 158702
+          },
+          {
+            "title": {
+              "romaji": "The IDOLM@STER Million Live!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 120755
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 70715,
+      "name": {
+        "full": "Anzu Futaba",
+        "native": "双葉杏"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70715-hfhm0zGhyXYI.png"
+      },
+      "description": "__Height:__ 139 cm\n__Hometown:__ Hokkaido Prefecture, Japan\n \nAnzu is a listless 17-year-old idol in the Cute category and NEET who doesn't believe in work. Anzu has no particular interests other than playing games, anime, manga, and sleeping. She only becomes an idol because she believes she will be able to live the rest of her days off royalties. Her verbal catchphrase is \"I wanna go home!\", and she frequently wears a shirt that says: \"If you work, you lose.\" She has a close relationship with Kirari Moroboshi.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20693
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21094
+          },
+          {
+            "title": {
+              "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 72333
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls Rockin' Girl",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 74493
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls Ensemble!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [],
+            "id": 74495
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 103311
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 105962
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102184
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cute",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92675
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cool",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92676
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 99742
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 97765
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 101267
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21564
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season Specials",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 122207
+          },
+          {
+            "title": {
+              "romaji": "ETERNITY MEMORIES",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 142173
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Extra Stage",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 115519
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

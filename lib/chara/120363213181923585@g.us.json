@@ -1,0 +1,89 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 75680,
+    "name": {
+      "full": "Fuuka Kamiigusa",
+      "native": "上井草 風香"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/75680.jpg"
+    },
+    "description": "Misaki's big sister. She looks like Misaki and she is Mitaka Jin ex-girlfriend.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": "The Pet Girl of Sakurasou"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 13759
+        },
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 58107
+        },
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 60051
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "75680",
+  "groupId": "120363213181923585@g.us",
+  "msgID": [
+    "C6AAABCD9905BC40C3FB5E33FFFA26D7",
+    "A1425EDF67C9B31B253351DF8226E103",
+    "3C8C2062F36635AED6FE4DA2D882CE92",
+    "42A17507E64FDFF87F8914EFBF2E1F99",
+    "BB081702E1FB7F2A7CEA2952F7CC8DDA",
+    "C5409CA41C013934A883389EE1E1C076",
+    "090ED458DCCA84375896BB81EC6AD426",
+    "5E7AD5A4643677B253B26ADEA7A77512",
+    "43E3AEA13A4FC2B15C043C96665E3E6B"
+  ],
+  "messages": [
+    "Bubur ayam apa kacang ijo?",
+    "🤢",
+    "Dateng lu bau tai",
+    "banyak jirr, apa ta",
+    "pb?",
+    "Ikut sini mo Ipong ga",
+    "Jauh la",
+    "Deket rumah gw",
+    "Gw Sunda nih iho"
+  ],
+  "messageCount": 9,
+  "lastTriggeredAt": 1706723667517
+}

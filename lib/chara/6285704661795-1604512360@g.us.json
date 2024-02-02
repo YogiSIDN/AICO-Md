@@ -1,0 +1,53 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 300918,
+    "name": {
+      "full": "Shinji Enomoto",
+      "native": "榎本進司"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300918-7tuM9KbTD6jk.png"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Liar Liar",
+            "english": "Liar, Liar"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Psychological",
+            "Romance"
+          ],
+          "id": 131863
+        },
+        {
+          "title": {
+            "romaji": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
+            "english": "Liar, Liar"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Ecchi",
+            "Psychological",
+            "Romance"
+          ],
+          "id": 115906
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "300918",
+  "groupId": "6285704661795-1604512360@g.us",
+  "msgID": [],
+  "messages": [],
+  "messageCount": 0,
+  "lastTriggeredAt": 1706888461152
+}

@@ -1,0 +1,142 @@
+{
+  "status": "active",
+  "sender": "6285754026008@s.whatsapp.net",
+  "name": "Kao",
+  "animes": [
+    {
+      "id": 260328,
+      "name": {
+        "full": "Takina Inoue",
+        "native": "井ノ上たきな"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260328-zb9VJ8f9dlYQ.jpg"
+      },
+      "description": "Previously an exceptional Lycoris, but for some reason, she now works at Café LycoReco.\nA realistic person with a distaste for inefficiency, she can be dissatisfied with Chisato, who is not a typical Lycoris.\nShe wants to see good results in her job at LycoReco.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Lycoris Recoil",
+              "english": "Lycoris Recoil"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Slice of Life"
+            ],
+            "id": 143270
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 151808
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil: Ordinary days",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 151809
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Recollect",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 155071
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: Reload",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 155976
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: Repeat",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 157671
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: React",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 158111
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 68033,
+      "name": {
+        "full": "Yuu Kisaragi",
+        "native": "如月優"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/68033-MTCg38tfITgJ.jpg"
+      },
+      "description": "Yuu is Chihaya's late younger brother, who passed away in a traffic accident some time before the start of the series The iDOLM@STER.  His death weighs heavily on Chihaya, and is implied to be a factor that strained relations in her family.  Chihaya fondly remembers his enjoying her singing, and telling her to sing more as he doodled in a sketchbook.  She keeps a photo of herself with her brother, taken when they were young.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER",
+              "english": "The Idol Master"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 10278
+          }
+        ]
+      },
+      "gender": "Male"
+    }
+  ]
+}

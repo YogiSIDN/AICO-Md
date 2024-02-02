@@ -1,0 +1,95 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 76906,
+    "name": {
+      "full": "Yukiho Kousaka",
+      "native": "高坂 雪穂"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/76906.jpg"
+    },
+    "description": "Yukiho is Honoka Kousaka's younger sister. She is best friends with Eli Ayase's little Sister Alisa and they are both in the same middle school class together. ",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Love Live! School idol project",
+            "english": "Love Live! School Idol Project"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 15051
+        },
+        {
+          "title": {
+            "romaji": "Love Live! School idol project 2nd Season",
+            "english": "Love Live! School Idol Project 2nd Season"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 19111
+        },
+        {
+          "title": {
+            "romaji": "Love Live! The School Idol Movie",
+            "english": "Love Live! The School Idol Movie"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 20766
+        },
+        {
+          "title": {
+            "romaji": "Love Live! School idol project",
+            "english": "Love Live!"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 78251
+        },
+        {
+          "title": {
+            "romaji": "A song for You! You? You!!",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [],
+          "id": 117574
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "76906",
+  "groupId": "62895326195045-1634628674@g.us",
+  "msgID": [
+    "3BB124BACAD22E4E663124BEF6CDAE5D",
+    "8B545567CDF59229C7954A1E503C5F4F",
+    "7549C3ACD669F773CBA1580094ED9419",
+    "D17F35E0FB1AAABD5DE3E3DB24704918"
+  ],
+  "messages": [
+    "!charid 70069",
+    "> searchCharacterById(70069)",
+    "!profile",
+    "> db.data.users[m.sender]"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1695997179275
+}

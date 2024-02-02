@@ -1,0 +1,232 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 89008,
+    "name": {
+      "full": "Sachiko Koshimizu",
+      "native": "輿水幸子"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/89008-yxq2UfQfEan5.png"
+    },
+    "description": "__Height:__ 142 cm\n__Hometown:__ Yamanashi Prefecture, Japan\n\nSachiko is a girl beaming with astounding confidence, priding herself in being the cutest. She doesn't consider herself a competitive person. However, she doesn't like to lose and doesn't easily admit to failure. When she's defeated as the boss of the Saitama area, Sachiko gives many excuses such as \"I have a lot of homework to do so I'm going home\".\n\nFrom Sachiko's point of view, the Shining Aurora Traveler's Journal mobage event is a journey to let her fans know that the beauty of the aurora borealis isn't a match for Sachiko's cuteness. However, upon arriving to Norway, she decides that their rivalry should end in a draw, and turn into a dream collaboration instead. Likewise, her unit \"Little Angels\" featuring Ranko Kanzaki and Chieri Ogata, was born from Sachiko's intentions to overthrow the clione's status as the ice floe angel. Though Sachiko's self-centered remarks can be easily misunderstood, she doesn't make comparisons nor tries to belittle other idols.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 20693
+        },
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21094
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 103311
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 102184
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 105962
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cute",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 92675
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - passion",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 92677
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 2nd Season",
+            "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 99742
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 97765
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 3rd Season",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 101267
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 3rd Season Specials",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 122207
+        },
+        {
+          "title": {
+            "romaji": "ETERNITY MEMORIES",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Fantasy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 142173
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 146975
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Extra Stage",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 115519
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "id": 103849
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "89008",
+  "groupId": "120363044328680099@g.us",
+  "msgID": [
+    "25FAADF9376285AFC6701872F6AC62C8",
+    "E51104695C906C4EC8107B6121729B2F",
+    "079F54B8789CD0714B2F4859366B599E",
+    "C5D3C62CBF5AE907B456D3430A520A46"
+  ],
+  "messages": [
+    "Ha?",
+    "@6285214119825 @6281319682940 udh",
+    "Gw jg batrai dh skrt",
+    "Yodah co"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1696860835784
+}

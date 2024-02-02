@@ -1,0 +1,48 @@
+{
+  "status": "active",
+  "sender": "6281297556061@s.whatsapp.net",
+  "name": "Adi",
+  "animes": [
+    {
+      "id": 282694,
+      "name": {
+        "full": "Fuki Harukawa",
+        "native": "春川フキ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b282694-sThZXxGJbHxl.jpg"
+      },
+      "description": "A 1st Lycoris of DA Tokyo branch.\nPreviously Takina’s partner. She and Chisato fight like cats and dogs.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Lycoris Recoil",
+              "english": "Lycoris Recoil"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Slice of Life"
+            ],
+            "id": 143270
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: Repeat",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 157671
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

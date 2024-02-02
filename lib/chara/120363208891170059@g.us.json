@@ -1,0 +1,256 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 73913,
+    "name": {
+      "full": "Miku Maekawa",
+      "native": "前川みく"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73913-4BItMpa8K96x.png"
+    },
+    "description": "**Height:** 152 cm \n**Hometown:** Osaka Prefecture, Japan\n\nMiku is a girl who really loves cats and likes to pretend she is one. She gets extremely annoyed when she is told to stop saying “nya” or being forced to stop having fun. While she comes from Osaka, Miku doesn't really share any of the traits associated with the stereotype. She doesn’t speak the Kansai dialect and doesn’t like tsukkomi and boke routines. She detests fish, despite loving to act like a cat. ",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 20693
+        },
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21094
+        },
+        {
+          "title": {
+            "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 72333
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls New Generations",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 73425
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER Cinderella Girls Honjitsu no Idol-san",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 74497
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 103311
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 105962
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 102184
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Slice of Life"
+          ],
+          "id": 103849
+        },
+        {
+          "title": {
+            "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cute",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 92675
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 2nd Season",
+            "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 99742
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 97765
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou 3rd Season",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 101267
+        },
+        {
+          "title": {
+            "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21564
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+            "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (Web)"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 100225
+        },
+        {
+          "title": {
+            "romaji": "ETERNITY MEMORIES",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Fantasy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 142173
+        },
+        {
+          "title": {
+            "romaji": "Cinderella Girls Gekijou: Extra Stage",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 115519
+        },
+        {
+          "title": {
+            "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+            "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 146975
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "73913",
+  "groupId": "120363208891170059@g.us",
+  "msgID": [],
+  "messages": [],
+  "messageCount": 0,
+  "lastTriggeredAt": 1703240601817
+}

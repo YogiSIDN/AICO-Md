@@ -1,0 +1,59 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 181276,
+    "name": {
+      "full": "Lax",
+      "native": "ラックス"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181276-pm0buxJFzAzf.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative: Gun Gale Online"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Sci-Fi"
+          ],
+          "id": 100183
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online Alternative: Gun Gale Online",
+            "english": "Sword Art Online Alternative Gun Gale Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 100858
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "181276",
+  "groupId": "120363164491788974@g.us",
+  "msgID": [
+    "930B2C4C7F63A7E9BC145F157EA5E0E0",
+    "424F7BD8F27839D2468469BC6352269C"
+  ],
+  "messages": [
+    "👍🏿",
+    ".kick @6285754026008"
+  ],
+  "messageCount": 2,
+  "lastTriggeredAt": 1695024468992
+}

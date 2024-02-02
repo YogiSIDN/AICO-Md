@@ -1,0 +1,46 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 89920,
+    "name": {
+      "full": "Sylvia Lyyneheym",
+      "native": "シルヴィア・ リューネハイム"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89920-Lt6cjT1kxbRl.png"
+    },
+    "description": "She is the Student Council President and the top student of Queenvail Girls' Academy who is very persistent. She is the world's top idol. Her singing is omnipotent.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk 2",
+            "english": "The Asterisk War 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 21390
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "89920",
+  "groupId": "120363133129666334@g.us",
+  "msgID": [
+    "65EB84FF9E27C72721EA44CE714D55A8"
+  ],
+  "messages": [
+    "Pico"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703297170313
+}

@@ -1,0 +1,345 @@
+{
+  "status": "active",
+  "sender": "6282226631121@s.whatsapp.net",
+  "name": "⊂(￣(ｴ)￣)⊃",
+  "animes": [
+    {
+      "id": 170242,
+      "name": {
+        "full": "Sumire  Heanna ",
+        "native": "平安名すみれ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b170242-xuxIHp4ILX4Q.png"
+      },
+      "description": "__Height:__ 161 cm\n__Hobby:__ Reading, listening to music, fortune-telling\n__Special Skill:__ Selfies\n\nSumire Heanna is one of the five main characters in Love Live! Superstar!! She is a first year at Yuigaoka Girls' High School and a member of Liella!\n\nHer image color is melon green.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!!",
+              "english": "Love Live! Superstar!!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 114979
+          },
+          {
+            "title": {
+              "romaji": "Hajimari wa Kimi no Sora",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 136141
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!!: Futari no Jikan! - Special times: Kanon & Ren Hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 139022
+          },
+          {
+            "title": {
+              "romaji": "Liella no Uta",
+              "english": "Liella’s Song"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 139409
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! 2nd Season",
+              "english": "Love Live! Superstar!! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 140642
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! #12",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145189
+          },
+          {
+            "title": {
+              "romaji": "Liella no Uta 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 152633
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 155502
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! Liella! Kila2 Life Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 162400
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! Comic Book: 2-nin no Jikan! Special times",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 162401
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Superstar!! Chii-chan Buchou wa Yuunou desu!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 164545
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 169489,
+      "name": {
+        "full": "Marine Houshou",
+        "native": "宝鐘マリン"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169489-PQ0lLCD2BoKG.png"
+      },
+      "description": "__Debut date:__ August 11, 2019\n__Height:__ 150 cm\n__Fanbase name:__ Houshou no Ichimi\n__Illustrator:__ [Akasa Ai](https://anilist.co/staff/186919)\n__Generation:__ 3rd Gen (hololive Fantasy)\n\nHoushou Marine is a female Japanese Virtual YouTuber associated with hololive.\n\n[Profile (hololive)](https://en.hololive.tv/portfolio/items/433586) | [YouTube](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg) | [Twitter](https://twitter.com/houshoumarine) | [Bilibili](https://space.bilibili.com/454955503/) | [Pixiv](https://www.pixiv.net/users/43505343)\n\n\"Ahoy! Houshou Pirate Captain, Houshou Marine here!\"\n\nLoves jewels, treasure, and money. Her dream is to become a pirate and go treasure hunting. In order to get a pirate ship, she is now stacking up money as a VTuber on the great lands, just like how the other land-lovers do (which also means she is currently just a girl cosplayer).\nShe acts like a big sis and sometimes seduces people like a succubus does.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "id": 118123
+          },
+          {
+            "title": {
+              "romaji": "Ahoy!! Warera Houshou Kaizoku-dan☆",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure"
+            ],
+            "id": 126663
+          },
+          {
+            "title": {
+              "romaji": "PEKORANDOMBRAIN!",
+              "english": "PEKORANDOMBRAIN"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128419
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128713
+          },
+          {
+            "title": {
+              "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 129963
+          },
+          {
+            "title": {
+              "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai: Ayase if",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 119703
+          },
+          {
+            "title": {
+              "romaji": "Girls und Panzer: Ribbon no Musha",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy"
+            ],
+            "id": 92985
+          },
+          {
+            "title": {
+              "romaji": "Unison",
+              "english": "Unison"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Ecchi"
+            ],
+            "id": 137800
+          },
+          {
+            "title": {
+              "romaji": "UMISEA",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 139342
+          },
+          {
+            "title": {
+              "romaji": "Houshou Marine Fan Book & Comic Anthology: #Otakara Kaizoku Nisshi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [],
+            "id": 142096
+          },
+          {
+            "title": {
+              "romaji": "Marine Shukkou!!",
+              "english": "Marine Set Sail!!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 148104
+          },
+          {
+            "title": {
+              "romaji": "I’m Your Treasure Box＊Anata wa Marine Senchou Otakara Bako kara Mitsuketa.",
+              "english": "I'm Your Treasure Box * You have found captain Marine in a treasure chest"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Ecchi"
+            ],
+            "id": 152962
+          },
+          {
+            "title": {
+              "romaji": "hololive Summer 2022",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153348
+          },
+          {
+            "title": {
+              "romaji": "Ryuuutto Kite Kyuuu!!!",
+              "english": "It Comes Ryuuu And It Goes Kyuuu"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Slice of Life"
+            ],
+            "id": 154688
+          },
+          {
+            "title": {
+              "romaji": "SKYSONAR",
+              "english": "Skysonar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167147
+          },
+          {
+            "title": {
+              "romaji": "Bishoujyo Muzai♡Pirates",
+              "english": "Bishoujyo Muzai Pirates"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 167743
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

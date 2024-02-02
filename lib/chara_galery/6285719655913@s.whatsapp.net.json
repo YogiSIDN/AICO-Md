@@ -1,0 +1,247 @@
+{
+  "status": "active",
+  "sender": "6285719655913@s.whatsapp.net",
+  "name": "テラコマリ",
+  "animes": [
+    {
+      "id": 66965,
+      "name": {
+        "full": "Remi Ayasaki",
+        "native": "綾崎レミ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66965-Kfqui6IitXaL.png"
+      },
+      "description": "__Height:__ 158 cm\n\nA member of the Student Council and she is known as the girlfriend of Kakeru Sengoku who attends Katagiri Senior High School where she is enrolled in class 3-5. She is more of a mascot in the student council, and is shown to do little to no work at all. \n\nRemi is usually shown as a rather childish and immature girl who has a very straightforward personality, and often wears her emotions on her sleeve. And seems to rely on other people's help. She's also not very smart, often compared to Miyamura about which one is more of an idiot.\n\nShe loves insects, though she's bad with dragonflies. Her room is filled with her insect collection, and she has been nicknamed the Insect Queen. She also enjoys reading, especially fairy tales. She's also comically bad at cooking, just like Kakeru Sengoku. ",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Hori-san to Miyamura-kun: Shingakki",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 14753
+          },
+          {
+            "title": {
+              "romaji": "Hori-san to Miyamura-kun",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 66615
+          },
+          {
+            "title": {
+              "romaji": "Horimiya",
+              "english": "Horimiya"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 72451
+          },
+          {
+            "title": {
+              "romaji": "Horimiya",
+              "english": "Horimiya"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 124080
+          },
+          {
+            "title": {
+              "romaji": "Horimiya: piece",
+              "english": "Horimiya: The Missing Pieces"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 163132
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 169484,
+      "name": {
+        "full": "Miko Sakura",
+        "native": "さくらみこ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169484-lb6ObyGaywVd.png"
+      },
+      "description": "__Debut date:__ August 1, 2018\n__Height:__ 152 cm\n__Fanbase name:__ 35P\n__Illustrator:__ [ordan](https://anilist.co/staff/175874/) (Original by [Yuuichi Tanaka](https://anilist.co/staff/103540))\n__Generation:__ Solo (\"0th gen\")\n\nSakura Miko is a female Japanese Virtual YouTuber associated with hololive.\n\n[Profile (hololive)](https://en.hololive.tv/portfolio/items/433578) | [YouTube](https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA) | [Twitter](https://twitter.com/sakuramiko35) | [Bilibili](https://space.bilibili.com/366690056/)\n\n\"Nya-hello! It's Sakura Miko!\"\n\nShe has been working on religious services really hard as a miko in the computer world. With the revelation of the gods, she is now visiting Japan. While performing her errand, she has now decided to become and work hard as a virtual miko idol.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "id": 118123
+          },
+          {
+            "title": {
+              "romaji": "Miko no Tsutome!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 119781
+          },
+          {
+            "title": {
+              "romaji": "PekoMiko Daisensou!!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 126676
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128711
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128713
+          },
+          {
+            "title": {
+              "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 129963
+          },
+          {
+            "title": {
+              "romaji": "My Name is Elite☆",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 129971
+          },
+          {
+            "title": {
+              "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai: Ayase if",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 119703
+          },
+          {
+            "title": {
+              "romaji": "Girigiri Warukunai Watame",
+              "english": "Watame Did Borderline Nothing Wrong"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 146004
+          },
+          {
+            "title": {
+              "romaji": "hololive Summer 2022",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153348
+          },
+          {
+            "title": {
+              "romaji": "Mosh Race",
+              "english": "Mosh Race"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 162881
+          },
+          {
+            "title": {
+              "romaji": "SKYSONAR",
+              "english": "Skysonar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167147
+          },
+          {
+            "title": {
+              "romaji": "Gyudon Carnival!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 170985
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

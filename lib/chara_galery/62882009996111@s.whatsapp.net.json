@@ -1,0 +1,2148 @@
+{
+  "status": "active",
+  "sender": "62882009996111@s.whatsapp.net",
+  "name": "Nadx~",
+  "animes": [
+    {
+      "id": 19566,
+      "name": {
+        "full": "Mio Akiyama",
+        "native": "秋山澪"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png"
+      },
+      "description": "__Height:__ 160 cm\n \nMio is a shy girl who is in the light music club. She plays a left-handed Fender Japan '62 Reissue Jazz Bass in 3-Tone Sunburst In the manga, she also has a left-handed, 3-Color Sunburst Fender Jazz Bass with a tortoiseshell pickguard, though is shown playing a Fender Precision Bass in the first manga volume. She uses D'Addario EXL160M medium bass strings. Her bass is given the name Elizabeth later in the anime. While she originally intended to join the literary club, she was forced into the light music club by her childhood friend and the club's president/drummer, Ritsu. She gets excellent grades in school and is often mature and strict especially where Ritsu is involved; her weakness is the macabre and horrific, and she is often incapacitated with fear when stories involving ghosts, blood, injuries, haunted houses, barnacles or other disturbing topics come up. She also has a fear of being in the spotlight and gets embarrassed easily, and is often subject to teasing from Ritsu and Sawako, their club adviser and eventual third-year homeroom teacher. Mio has long, straight black hair and gray eyes (that are angled slightly more than the other characters). She cites that she chose bass since it is not the center of attention in the band, unlike the guitarist. Mio is more technical when it comes to music, and Yui often comes to her when she is in need of more guitar tutorials.  Along with Yui, Mio is one of the band's main vocalists, though given her dislike of being center stage, she tries to avoid taking the lead vocal if possible, generally singing if Yui is unable to. She writes most of the songs, although they usually feature some odd and overly girlish lyrics like \"Light and Fluffy Time\". As she is left-handed, she becomes entranced whenever she sees left-handed instruments, because of their rarity. After their first live performance, the attractive Mio gained a huge fan following (in no small part due to an unfortunate accident that occurred at the end of the show), led by an infatuated former student council president. Also resulting from her sudden popularity, most of her classmates voted that she portray Romeo in their class play. Mio comes to greatly enjoy her time at university as she encounters many new experiences. She is also able to overcome some of her shyness and make new friends such as Sachi and Ayame. Her favourite food is Gateau au Chocolat (Rich Layered Chocolate Cake).",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "K-ON!",
+              "english": "K-ON!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 5680
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Movie",
+              "english": "K-ON!: The Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9617
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!",
+              "english": "K-ON! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 7791
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Keikaku!",
+              "english": "K-ON! Season 2: Plan!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9734
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Live House!",
+              "english": "K-ON!: Live House!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 6862
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Ura-On!!",
+              "english": "K-ON! Season 2 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 9203
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Ura-On!",
+              "english": "K-ON! Season 1 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 7017
+          },
+          {
+            "title": {
+              "romaji": "K-On!",
+              "english": "K-On!"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 43001
+          },
+          {
+            "title": {
+              "romaji": "K-On! Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 49551
+          },
+          {
+            "title": {
+              "romaji": "K-On! college",
+              "english": "K-ON! COLLEGE"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81855
+          },
+          {
+            "title": {
+              "romaji": "K-On! Shuffle",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102317
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Story Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 128887
+          },
+          {
+            "title": {
+              "romaji": "K-On! highschool",
+              "english": "K-ON! HIGH SCHOOL"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81857
+          }
+        ]
+      }
+    },
+    {
+      "id": 126635,
+      "name": {
+        "full": "Megumi Fushiguro",
+        "native": "伏黒恵"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png"
+      },
+      "description": "__Species:__ Human\n__Height:__ 175 cm (5'9\")\n__Occupation:__ Sorcerer, Student\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 2 Sorcerer\n__Cursed Technique:__ 10 Shadows\n\nMegumi is the deuteragonist of the Jujutsu Kaisen series. He is a first-year student at Jujutsu High and also a descendant of the Zenin Family.\n\nWhile outwardly stoic and calculating, Megumi wishes to help protect people he sees as good or kind. He believes that the world is unfair and that a Sorcerer is a tool to ensure kind people are given more chances to live. Claiming it to be his selfish and irrational desire, he does not see himself as a hero for doing this.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "Jujutsu Kaisen"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 101517
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "JUJUTSU KAISEN"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 113415
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Yoake no Ibara Michi",
+              "english": "Jujutsu Kaisen: Thorny Road at Dawn"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Supernatural"
+            ],
+            "id": 117024
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Iku Natsu to Kaeru Aki",
+              "english": "Jujutsu Kaisen: Summer of Ashes, Autumn of Dust"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 117042
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 2nd Season",
+              "english": "JUJUTSU KAISEN Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 145064
+          }
+        ]
+      }
+    },
+    {
+      "id": 19571,
+      "name": {
+        "full": "Ui Hirasawa",
+        "native": "平沢憂"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19571-fzllBaPLPsY3.png"
+      },
+      "description": "**Height:** 154 cm \n\nUi is [Yui](https://anilist.co/character/19565/Yui-Hirasawa)'s younger sister, who begins the story as a third-year junior high school student, but later enters [Yui](https://anilist.co/character/19565/Yui-Hirasawa)'s high school the following year in the same class as [Azusa](https://anilist.co/character/21173/Azusa-Nakano). Unlike her older sister, Ui is mature, responsible and handles household chores well, though she still shares a strong relationship with [Yui](https://anilist.co/character/19565/Yui-Hirasawa) and has a great deal of love and respect for her older sister. Despite being a year younger than [Yui](https://anilist.co/character/19565/Yui-Hirasawa), she is nearly identical to her with her hair down and is even once able to fool the club. She possesses some of her sister's musical gift, and has a great talent for playing the guitar—she became capable of playing with the rest of the light music club band after only a few days of practice ([Yui](https://anilist.co/character/19565/Yui-Hirasawa) was sick, so Ui dressed up as [Yui](https://anilist.co/character/19565/Yui-Hirasawa) to help the band out). She takes particularly good care of [Yui](https://anilist.co/character/19565/Yui-Hirasawa) and strives to look after her even at the risk of her own health. Ui is actually considered as the ultimate groupie for her sister's band and supports them with all her heart. She occasionally provides a narrative to the story. She is in the same class as [Azusa](https://anilist.co/character/21173/Azusa-Nakano) and hangs out with her sometimes. \n\n~!In the movie, she will play the keyboard altogether with [Azusa](https://anilist.co/character/21173/Azusa-Nakano) and [Jun](https://anilist.co/character/31526/Jun-Suzuki).!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "K-ON!",
+              "english": "K-ON!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 5680
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Movie",
+              "english": "K-ON!: The Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9617
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!",
+              "english": "K-ON! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 7791
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Keikaku!",
+              "english": "K-ON! Season 2: Plan!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9734
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Live House!",
+              "english": "K-ON!: Live House!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 6862
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Ura-On!",
+              "english": "K-ON! Season 1 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 7017
+          },
+          {
+            "title": {
+              "romaji": "K-On!",
+              "english": "K-On!"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 43001
+          },
+          {
+            "title": {
+              "romaji": "K-On! Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 49551
+          },
+          {
+            "title": {
+              "romaji": "K-On! highschool",
+              "english": "K-ON! HIGH SCHOOL"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81857
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Story Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 128887
+          },
+          {
+            "title": {
+              "romaji": "K-On! college",
+              "english": "K-ON! COLLEGE"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81855
+          }
+        ]
+      }
+    },
+    {
+      "id": 155210,
+      "name": {
+        "full": "Gabriel Miller",
+        "native": "ガブリエル・ミラー"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b155210-FpPGSwNvzTmk.png"
+      },
+      "description": "Chief technology officer of Glowgen Defense Systems and the child of the former president and founder of the company. He was the winner of the 1st and 4th Bullet of Bullets tournament in Gun Gale Online as Subtilizer.\n~!Primary antagonist of the War of the Underworld sub-arc of the Alicization Arc. In the Underworld, he is known as Vector, the god of the dark territories. Gabriel plans to steal the Soul Translator technology in order to create his own virtual world where he can analyze souls. In order to achieve that goal, he plans on hunting people with strong souls, especially the Sword Art Online survivors', and steal their Fluctlights.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld",
+              "english": "Sword Art Online: Alicization - War of Underworld"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 108759
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization",
+              "english": "Sword Art Online: Alicization"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 100182
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+              "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 114308
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 51479
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 19566,
+      "name": {
+        "full": "Mio Akiyama",
+        "native": "秋山澪"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19566-XKsMgf370b4m.png"
+      },
+      "description": "__Height:__ 160 cm\n \nMio is a shy girl who is in the light music club. She plays a left-handed Fender Japan '62 Reissue Jazz Bass in 3-Tone Sunburst In the manga, she also has a left-handed, 3-Color Sunburst Fender Jazz Bass with a tortoiseshell pickguard, though is shown playing a Fender Precision Bass in the first manga volume. She uses D'Addario EXL160M medium bass strings. Her bass is given the name Elizabeth later in the anime. While she originally intended to join the literary club, she was forced into the light music club by her childhood friend and the club's president/drummer, Ritsu. She gets excellent grades in school and is often mature and strict especially where Ritsu is involved; her weakness is the macabre and horrific, and she is often incapacitated with fear when stories involving ghosts, blood, injuries, haunted houses, barnacles or other disturbing topics come up. She also has a fear of being in the spotlight and gets embarrassed easily, and is often subject to teasing from Ritsu and Sawako, their club adviser and eventual third-year homeroom teacher. Mio has long, straight black hair and gray eyes (that are angled slightly more than the other characters). She cites that she chose bass since it is not the center of attention in the band, unlike the guitarist. Mio is more technical when it comes to music, and Yui often comes to her when she is in need of more guitar tutorials.  Along with Yui, Mio is one of the band's main vocalists, though given her dislike of being center stage, she tries to avoid taking the lead vocal if possible, generally singing if Yui is unable to. She writes most of the songs, although they usually feature some odd and overly girlish lyrics like \"Light and Fluffy Time\". As she is left-handed, she becomes entranced whenever she sees left-handed instruments, because of their rarity. After their first live performance, the attractive Mio gained a huge fan following (in no small part due to an unfortunate accident that occurred at the end of the show), led by an infatuated former student council president. Also resulting from her sudden popularity, most of her classmates voted that she portray Romeo in their class play. Mio comes to greatly enjoy her time at university as she encounters many new experiences. She is also able to overcome some of her shyness and make new friends such as Sachi and Ayame. Her favourite food is Gateau au Chocolat (Rich Layered Chocolate Cake).",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "K-ON!",
+              "english": "K-ON!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 5680
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Movie",
+              "english": "K-ON!: The Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9617
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!",
+              "english": "K-ON! Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 7791
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Keikaku!",
+              "english": "K-ON! Season 2: Plan!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 9734
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Live House!",
+              "english": "K-ON!: Live House!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 6862
+          },
+          {
+            "title": {
+              "romaji": "K-ON!!: Ura-On!!",
+              "english": "K-ON! Season 2 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 9203
+          },
+          {
+            "title": {
+              "romaji": "K-ON!: Ura-On!",
+              "english": "K-ON! Season 1 Shorts"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 7017
+          },
+          {
+            "title": {
+              "romaji": "K-On!",
+              "english": "K-On!"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 43001
+          },
+          {
+            "title": {
+              "romaji": "K-On! Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 49551
+          },
+          {
+            "title": {
+              "romaji": "K-On! college",
+              "english": "K-ON! COLLEGE"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81855
+          },
+          {
+            "title": {
+              "romaji": "K-On! Shuffle",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102317
+          },
+          {
+            "title": {
+              "romaji": "K-ON! Story Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 128887
+          },
+          {
+            "title": {
+              "romaji": "K-On! highschool",
+              "english": "K-ON! HIGH SCHOOL"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 81857
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88889,
+      "name": {
+        "full": "Raphtalia",
+        "native": "ラフタリア"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+      },
+      "description": "**Race:** Raccoon & Tanuki\n\nRaphtalia is a Tanuki-type Demi-Human who was the first real member of the Shield Hero's party after he purchased her as a slave.\n\n~!Raphtalia later obtain one of the eight vassal weapons from another world granting her the title of Vassal Weapon Wielder and Katana Hero. Due to the passive effects of the Vassal Weapons her slave curse seal was removed.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85442
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85743
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 99263
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Toaru Ichinichi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 107845
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Oshinagaki",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111135
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 2",
+              "english": "The Rising of the Shield Hero Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111321
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet 2",
+              "english": "Isekai Quartet 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 110178
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 3",
+              "english": "The Rising of the Shield Hero Season 3"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111322
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Filo to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 123371
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Raphtalia to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 119988
+          },
+          {
+            "title": {
+              "romaji": "Yari no Yuusha no Yarinaoshi",
+              "english": "The Reprise of the Spear Hero: The Manga Companion"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 100477
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Aiya Kyu Special Works - Yuusha no Shoukan: Special Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 128982
+          },
+          {
+            "title": {
+              "romaji": "Dun Zhi Yongzhe Cheng Minglu: Shouyou - Si Ge Manhua",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 129016
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet: Another World",
+              "english": "Isekai Quartet The Movie: Another World"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 117074
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Girl's Side Story",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Psychological"
+            ],
+            "id": 147878
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 133677,
+      "name": {
+        "full": "Sajuna Inui",
+        "native": "乾紗寿叶"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133677-PqshvUeVFB7u.jpg"
+      },
+      "description": "A famous cosplayer that [Marin Kitagawa](https://anilist.co/character/133676) looks up to. ",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru",
+              "english": "My Dress-Up Darling"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101583
+          },
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru",
+              "english": "My Dress-Up Darling"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 132405
+          },
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru (Zoku-hen)",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 154768
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 36831,
+      "name": {
+        "full": "Suguha Kirigaya",
+        "native": "桐ヶ谷直葉"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+      },
+      "description": "[Kazuto](https://anilist.co/character/36765)'s sister in the real world. She is 15 years old and in her third year of junior high, as well as a member of the Kendou club. She's a diligent worker and has been practicing Kendou for 8 years.    ~!In the VRMMO game *Alfheim Online*, she is known as Leafa, a Sylph fairy. She stumbled onto Kazuto by accident one night and decided to travel with him to the World Tree. She eventually fell in love with him because he showed that he really loves playing VR games as if living in it and is very honest in everything. In the real world she slowly got closer to her brother (actually a cousin) but because they're family and because he already got [Asuna](https://anilist.co/character/36828) as a girlfriend she decided to give up on him and fall in love with Kazuto instead. But soon afterwards she realized that they're the same person. After being convinced by Kazuto to have a fierce duel which ended up in them flying in each others' arms, she decided to help Kazuto in rescuing Asuna.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 11757
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Offline",
+              "english": "Sword Art OFFline"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 16099
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Extra Edition",
+              "english": "Sword Art Online EXTRA EDITION"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 20021
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online II",
+              "english": "Sword Art Online II"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 20594
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Ordinal Scale",
+              "english": "Sword Art Online the Movie: Ordinal Scale"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 21403
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 51479
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online SS: Caliber SS-han",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 71027
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Fairy Dance",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 74733
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Girls Ops",
+              "english": "Sword Art Online: Girls' Ops"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "id": 85160
+          },
+          {
+            "title": {
+              "romaji": "Gekijouban Sword Art Online: Ordinal Scale",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 106537
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Hollow Realization",
+              "english": "Sword Art Online: Hollow Realization"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 106933
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Kirito no Aincrad Night",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 107363
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Offline: Extra Edition",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 20895
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld",
+              "english": "Sword Art Online: Alicization - War of Underworld"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 108759
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Kirito no Gun Gale Wars",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 112782
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+              "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 114308
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization",
+              "english": "Sword Art Online: Alicization"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 100182
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Calibur",
+              "english": "Sword Art Online: Calibur"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 92130
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online 4-koma",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 70053
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online Comic Anthology",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 112980
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Mother's Rosario",
+              "english": "Sword Art Online: Mother's Rosary"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 99189
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Phantom Bullet",
+              "english": "Sword Art Online: Phantom Bullet"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 85440
+          },
+          {
+            "title": {
+              "romaji": "Accel World",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 52993
+          },
+          {
+            "title": {
+              "romaji": "Accel World",
+              "english": "Accel World"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 53116
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Project Alicization",
+              "english": "Sword Art Online: Project Alicization"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 97362
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 126740,
+      "name": {
+        "full": "Bercouli",
+        "native": "ベルクーリ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126740-BQk6zlwPE7Kn.png"
+      },
+      "description": "__Affiliation:__ Axiom Church\n__Occupation:__ Swordsman (former), Guardsman (former), Integrity Knight (current)\n__Weapon:__ Time Piercing Sword\n__Skills:__ Change time\n\nBercouli, also known as Bercouli Synthesis One, was a supporting character in the Alicization Arc. He is one of the founders of Rulid Village, as well as the leader of the Integrity Knights, and the oldest Integrity Knight in existence. \n\n~!He died from Fatal Bleeding in the aftermath of a battle against Emperor Vecta!~\n",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 51479
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization",
+              "english": "Sword Art Online: Alicization"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 100182
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld",
+              "english": "Sword Art Online: Alicization - War of Underworld"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 108759
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+              "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 114308
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization Lycoris",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 118707
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 36830,
+      "name": {
+        "full": "Ryoutarou Tsuboi",
+        "native": "壷井遼太郎"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36830-41SWIDvhqOo4.png"
+      },
+      "description": "A friendly player that meets Kirito at the start of the game and quickly befriends and learns from him. He and Kirito later separate because he has friends who were also new to the game so he couldn't leave them. He survives for the past two years and managed to protect his friends the whole time, something Kirito regretted not doing. He is a katana user and the leader of the small guild Fuurinkazan who participates in the boss battles.  As one of the few people close to Kirito, he always keeps him in check and wants Kirito to survive the game.  He chose the Salamader race on ALO   \n\n~! In the side story Caliber, he fell in love at first sight with the girl on the cage named Freyja and agreed that he will help her find her tribe's treasure which is a hammer, though the decision still remains to be a team's decision. The team said yes on Caliber and it turned out that the girl they saved was Thor. It was revealed that Thor disguised as a beautiful girl to get close to Giant King Þrym and retrieve his hammer. Thor defeated Giant King Þrym and that stopped the medallion from being corrupted and ending the quest. !~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 11757
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Offline",
+              "english": "Sword Art OFFline"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 16099
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Extra Edition",
+              "english": "Sword Art Online EXTRA EDITION"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 20021
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online II",
+              "english": "Sword Art Online II"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 20594
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Ordinal Scale",
+              "english": "Sword Art Online the Movie: Ordinal Scale"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 21403
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online",
+              "english": "Sword Art Online"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 51479
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Aincrad",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 53718
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online 4-koma",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 70053
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Lisbeth Edition",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 70281
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online SS: Caliber SS-han",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 71027
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization",
+              "english": "Sword Art Online: Alicization"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 100182
+          },
+          {
+            "title": {
+              "romaji": "Gekijouban Sword Art Online: Ordinal Scale",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 106537
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Hollow Realization",
+              "english": "Sword Art Online: Hollow Realization"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 106933
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Kirito no Aincrad Night",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 107363
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Progressive",
+              "english": "Sword Art Online Progressive"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 82277
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Offline: Extra Edition",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 20895
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld",
+              "english": "Sword Art Online: Alicization - War of Underworld"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 108759
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Kirito no Gun Gale Wars",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 112782
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online Comic Anthology",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 112980
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
+              "english": "Sword Art Online: Alicization - War of Underworld Part 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 114308
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Re:Aincrad",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 141165
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
+              "english": "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 124140
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Calibur",
+              "english": "Sword Art Online: Calibur"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 92130
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Fairy Dance",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 74733
+          },
+          {
+            "title": {
+              "romaji": "Sword Art Online: Integral Factor - PROLOGUE COMIC",
+              "english": "Sword Art Online: Integral Factor - Prologue Comic"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 127043
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 133676,
+      "name": {
+        "full": "Marin Kitagawa",
+        "native": "喜多川海夢"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b133676-kV2czE3C8Qls.png"
+      },
+      "description": "__Height:__ 164 cm (5'3\")\n\nMarin Kitagawa is the main female protagonist in the _Sono Bisque Doll wa Koi wo Suru_ series. \n\n~!Marin realizes she is in love with Wakana, and throughout the series, continually does whatever she can to invite him to places and spend time with him.!~\n\n<b>APPEARANCE</b>\nMarin Kitagawa is a slim and above average height girl  with dark pink colored contacts in her eyes and light skin. Her build is on the thinner side with a small waistline. She has silky blonde hair, tipped with pinkish-red or citrus orange, reaching down around her pelvic region. Her bangs cover a majority of her forehead and eyebrows, reaching around the start of her eyelashes. Two locks of hair also flow over her shoulders and end around her chest region. Her hairstyles include long straight hair, a single ponytail, a double ponytail, a double knot on top, a bun, and a single top ponytail. In terms of gradient, her hair goes from pure blonde at the top and progressively becomes pinkish-red or citrus-orange towards the bottom. She does wear ear piercings which include one ring piercing, three pearl piercings, and an industrial piercing on the left ear and two ring piercings and one pearl piercing on the right ear.\nIn fashion sense, it varies according to where she is. At school, she wears a white button shirt with one chest pocket on her left, a navy blue tie, a plaid skirt, black socks, and brown shoes. She also tends to wear a stretchy black choker, two bracelets on her left arm, and a ring on both her right pinky and left index finger. When she is going somewhere casual, she tends to wear various outfits that fit her liking.\nShe cosplayed as:\n~!1. Shizuku Kuroe;\n2. Black Lobelia;\n3. Prisoner Veronica;\n4. Rizu-kyun;\n5. Rei-sama.!~\n\n<b>PERSONALITY</b>\nMarin is a extravagant, messy, and while quite mature, she's also clumsy. She isn't very skilled at handiwork. Marin is a cosplayer and a huge otaku, being a fan of magical girl anime and adult video games. \nShe is very kind, friendly, cheerful and outgoing. She loves eating but still despite that she manages to maintain her slender figure.\n\n\n~!Marin blushes around Wakana if he says anything to compliment her, and admires his passion to do what he loves. She can also get frustrated with Wakana when he outright denies any rumor that the two are dating, given that Wakana thinks that she would never date someone like him (unknowing to her), leaving her upset. It's clear that just being around him makes her happy, and she's never once denied a rumor or disliked the idea that they're together, clearly hinting that she wants more in their friendship.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru",
+              "english": "My Dress-Up Darling"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101583
+          },
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru",
+              "english": "My Dress-Up Darling"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 132405
+          },
+          {
+            "title": {
+              "romaji": "Sono Bisque Doll wa Koi wo Suru (Zoku-hen)",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 154768
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88264,
+      "name": {
+        "full": "Stella  Vermillion",
+        "native": "ステラ・ヴァーミリオン"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88264-v9VFbSWtQq2C.png"
+      },
+      "description": "Stella Vermillion is an A-rank Apprentice Knight and princess of the Vermillion Kingdom. She is a young girl with long vermilion hair tied in twintails and crimson eyes, average height and has large breasts and a voluptuous figure.\n\nStella initially appears to be feisty, hot-blooded, and quick to anger possibly due to her sheltered upbringing. However, later she is shown to be anything but bitter, and is even willing to admit her mistakes and be friendly with others. Despite this, she exhibits frequent bouts of jealousy especially when it comes to Ikki.\n\nStella gets agitated whenever anyone says that she is strong because she is an \"A Rank\" and do not see all her hard work, but Ikki Kurogane was the only one to see Stella's hard work which was one of the reasons Stella started developing feelings for him.\n\n(Source: Rakudai Kishi no Cavalry Wikia)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Rakudai Kishi no Cavalry",
+              "english": "Chivalry of a Failed Knight"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 21092
+          },
+          {
+            "title": {
+              "romaji": "Rakudai Kishi no Cavalry",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 85370
+          },
+          {
+            "title": {
+              "romaji": "Rakudai Kishi no Cavalry",
+              "english": "Chivalry of a Failed Knight"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 85465
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88948,
+      "name": {
+        "full": "Kaede Takagaki",
+        "native": "高垣楓"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88948-Tdb4KBJNNf7z.png"
+      },
+      "description": "**Height:** 171 cm\n**Hometown:** Wakayama Prefecture\n\nKaede is a mature and mysterious idol. She is very quiet, never saying more than necessary. Her hobbies are visiting and relaxing in onsen. She's also is a huge fan of lame puns and can continue for hours with this if the Producer can’t stop it. She can instantly smell the difference between body wash and shampoo products, has heterochromia, and has a beauty mark under her right eye.\n\nOnce Kaede has had a few drinks, all of her common sense goes out the window. She gains a devious and manipulative persona when intoxicated. She will push aside any notion to quit drinking and is not above encouraging the teenage idols to drink with her. She loves to enjoy expensive or really tasty drinks, particularly wines.\n\nWhile her everyday speaking voice is soft and quiet, her singing voice is powerful and resonant.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20693
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21094
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 103311
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 105962
+          },
+          {
+            "title": {
+              "romaji": "THE iDOLM@STER Cinderella Girls After20",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 103309
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cool",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92676
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 99742
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 97765
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 101267
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON Specials",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 122208
+          },
+          {
+            "title": {
+              "romaji": "The IDOLM@STER Cinderella Girls: Starlight Stage CMs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 128418
+          },
+          {
+            "title": {
+              "romaji": "Seikan Sekai",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Sci-Fi"
+            ],
+            "id": 138716
+          },
+          {
+            "title": {
+              "romaji": "ETERNITY MEMORIES",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 142173
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Extra Stage",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 115519
+          },
+          {
+            "title": {
+              "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 146975
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 121014,
+      "name": {
+        "full": "Kinue Hayase",
+        "native": "早瀬絹江"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121014-BJWpcwKHRVXH.jpg"
+      },
+      "description": "__Height:__ 138 cm\n__Occupation:__ Housewife\n\nShe has light brown hair that curls at the tips and brown eyes. She wears a headband that has a dog footprint on and she usually is seen wearing an apron. She is very short, has a small body, and can be easily mistaken for a child, even though she is 42 years old. She is also the mother of Makabe Masamune.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun's Revenge"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 21857
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Re○○○",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 108671
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun’s Revenge"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 76716
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge after school",
+              "english": "Masamune-kun’s Revenge: After School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 104896
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge OVA",
+              "english": "Masamune-kun's Revenge OAD"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101213
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge R",
+              "english": "Masamune-kun's Revenge R"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 146953
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

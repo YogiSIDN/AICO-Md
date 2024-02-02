@@ -1,0 +1,185 @@
+{
+  "status": "active",
+  "sender": "6285889187045@s.whatsapp.net",
+  "name": "Dhit'z",
+  "animes": [
+    {
+      "id": 88197,
+      "name": {
+        "full": "Mizuki Shibata",
+        "native": "柴田美月"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88197-udOwm5WkVfvH.png"
+      },
+      "description": "A First year 2nd course student in E class with Tatsuya, Leo and Erika.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 20458
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo",
+              "english": "The Irregular at Magic High School The Movie: The Girl Who Summons the Stars"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 21684
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+              "english": "The Irregular at Magic High School: Visitor Arc"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 112300
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka",
+              "english": "The Irregular at Magic High School: Yoku Wakaru Mahouka"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 20679
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yonkoma-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121453
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Fantasy",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121561
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 126065
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 64127
+          },
+          {
+            "title": {
+              "romaji": "Zoku Mahouka Koukou no Rettousei: Magian Company",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121958
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Yuutousei 2nd Season",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 127712
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+              "english": "The Irregular At Magic High School: Visitor Arc"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 98912
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: 10th Shuunen Kinen PV",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 139106
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

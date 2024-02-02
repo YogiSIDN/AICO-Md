@@ -1,0 +1,84 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 76918,
+    "name": {
+      "full": "Tsubasa Kira",
+      "native": "綺羅ツバサ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76918-5uqWW61KtYUl.jpg"
+    },
+    "description": "A member of A-RISE.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Love Live! School idol project",
+            "english": "Love Live! School Idol Project"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 15051
+        },
+        {
+          "title": {
+            "romaji": "Love Live! School idol project 2nd Season",
+            "english": "Love Live! School Idol Project 2nd Season"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 19111
+        },
+        {
+          "title": {
+            "romaji": "Love Live! The School Idol Movie",
+            "english": "Love Live! The School Idol Movie"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 20766
+        },
+        {
+          "title": {
+            "romaji": "Love Live! School idol project",
+            "english": "Love Live!"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 78251
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "76918",
+  "groupId": "120363177076575899@g.us",
+  "msgID": [
+    "95B79B55981DAFF373DCACAA56C6565C",
+    "6E84BE093064645B043EACD39EE7D0CC",
+    "0404126048B1DDDC77C0BAE63F5015F3"
+  ],
+  "messages": [
+    "Eleh",
+    "@6281264972205 tai gk udh msukin bot",
+    ".makan"
+  ],
+  "messageCount": 3,
+  "lastTriggeredAt": 1703104988851
+}

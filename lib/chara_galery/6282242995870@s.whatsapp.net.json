@@ -1,0 +1,36 @@
+{
+  "status": "active",
+  "sender": "6282242995870@s.whatsapp.net",
+  "name": "BOT WA",
+  "animes": [
+    {
+      "id": 312382,
+      "name": {
+        "full": "Seito A",
+        "native": "生徒A"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          }
+        ]
+      },
+      "gender": null
+    }
+  ]
+}

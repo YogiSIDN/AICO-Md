@@ -1,0 +1,211 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 132798,
+    "name": {
+      "full": "Shizuku Ousaka",
+      "native": "桜坂しずく"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b132798-tQmPY2jH5vki.png"
+    },
+    "description": "__Height:__  157 cm (5'1\")\n\nShizuku Osaka is one of thirteen members of the Nijigasaki High School Idol Club. She was a member of the original group and is a member of A・ZU・NA, a subunit under Nijigaku. She is a first year and her image color is light blue.\n\nShizuku is a polite, level-headed and diligent First Year student at Nijigasaki High with a passion for theatre and stage acting. She is a prolific member of the school's theatre club and it often shows in conversations where her enthusiasm for the subject surfaces.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "TOKIMEKI Runners",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [],
+          "id": 106923
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+            "english": "Love Live! Nijigasaki High School Idol Club"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 113970
+        },
+        {
+          "title": {
+            "romaji": "Mirai Harmony",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music"
+          ],
+          "id": 123155
+        },
+        {
+          "title": {
+            "romaji": "Nijiyon: Love Live! Nijigasaki Gakuen School Idol Doukoukai Yonkoma",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 125178
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Tapestry Comic Book - Uehara Ayumu",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 130634
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+            "english": "Love Live! Nijigasaki High School Idol Club Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 133891
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Tapestry Comic Book - Osaka Shizuku",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 146549
+        },
+        {
+          "title": {
+            "romaji": "NIJIYON ANIMATION",
+            "english": "NIJIYON ANIMATION"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 154785
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY",
+            "english": "Love Live! Nijigasaki High School Idol Club: NEXT SKY"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 157654
+        },
+        {
+          "title": {
+            "romaji": "NIJIYON ANIMATION Specials",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 159839
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 166476
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kizuna Comic Book",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Slice of Life"
+          ],
+          "id": 167410
+        },
+        {
+          "title": {
+            "romaji": "NIJIYON ANIMATION 2",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 172242
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "132798",
+  "groupId": "120363158772155869@g.us",
+  "msgID": [
+    "B169A18BEFF0CE6A81F0242B9410A7DD",
+    "F86842C672114C89259D4CC0D94E220A",
+    "72BC0D428EA1445835124F5930EF0AAD",
+    "FA10F42E20FCD8D663333FB098328F46",
+    "EB5187AC355A83A7BD39D22CAE13E73B",
+    "E781EF17CDC3CE9638F1CD3E515B430E",
+    "F7E475B13515F674FE85886B22CE15E0",
+    "645B98BD1AB680BF3B23664477981B9D",
+    "5BEEFC93763C240CA0D6A77DC0E96ADA",
+    "6F819EF077CFAFF7E15A14DC0EFCDD72",
+    "CA6C075631E1A7D99DC5B455BA14DDC9",
+    "73EB86287B52BEB7B152B4D90249F470",
+    "0726819CB8EC807CC2DAB62AB2BA0DD2",
+    "049CFB76A966A612E5927CDE760AE17F"
+  ],
+  "messages": [
+    "Asep g gitu sep harus ngaku itu anaklu sep",
+    "Ini Bot siapa anj",
+    "Mamaaaa kok gituhh",
+    "Tuh kok gitu si sep",
+    "gua jantan anjir",
+    "Makannya PP jangan gitu",
+    "Awowkowk sep sep",
+    "Di mata anak mu ini kamu perempuan mamaaa",
+    "Asep perempuan",
+    "Asrul Nirmala Asep🗿",
+    "info ada yg mau adopsi ini org ga",
+    "Mamaaaaa kok jahat nanti aku laporin ke papah",
+    "Diem kau rizky",
+    "P"
+  ],
+  "messageCount": 14,
+  "lastTriggeredAt": 1706786905097
+}

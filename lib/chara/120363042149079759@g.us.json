@@ -1,0 +1,93 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 272553,
+    "name": {
+      "full": "Shiki Wakana",
+      "native": "若菜四季"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b272553-lWuVC9bKk8LO.png"
+    },
+    "description": "**Height:** 161cm\n\nA first year student of Yuigaoka Girls' High School. She is a new member of Liella!. Her theme color is mint green.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Love Live! Superstar!! 2nd Season",
+            "english": "Love Live! Superstar!! Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 140642
+        },
+        {
+          "title": {
+            "romaji": "Liella no Uta 2",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music"
+          ],
+          "id": 152633
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Superstar!! 3rd Season",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 155502
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Superstar!! Liella! Kila2 Life Comic",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Slice of Life"
+          ],
+          "id": 162400
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "272553",
+  "groupId": "120363042149079759@g.us",
+  "msgID": [
+    "8B0CDD41D1171A9F96A07D1BD90DFDA8",
+    "A4A66D2B77DAA93B2A3916C70D4A1E07",
+    "AABB4C8CC39F5A2C4BFDDD9776507E4F",
+    "0E8C9743FAB3D5A1ECD5B177F1AECD61",
+    "44EF487ED830BF7F5514F24694AEEF2B",
+    "8F5EFFD817D40B10C9B256A2D0E89053",
+    "6596176AC6FFF3C2F97F4DCBF97CAA0A",
+    "CECD6CF0E0FC1D7EC30F00AF25DDDEE9"
+  ],
+  "messages": [
+    "3",
+    "AHAHAHAHAH",
+    "Dipanggil sayang baru bales ajg😭",
+    "Lagi gaks",
+    "```group lu jadi sarang share link ?```\n_tenang sewa aja bot Mikasa md_\n\n• fast respon \n• online 24jm\n• free premium khusus pembelian tertentu\n• sc free ? Ada\n• bahas bot ? Bisa\n\n  -  *Tunggu Apa lagi yok Order !*\n\nhttps://chat.whatsapp.com/EulNHBVRXvK6D7o5zeEb46\n\n_#izinmin #kalo gak boleh share link delete aja_",
+    "Ga ijin min",
+    "NOAH bosen 🗿",
+    "isss padahal mawu main lagii"
+  ],
+  "messageCount": 8,
+  "lastTriggeredAt": 1703297576912
+}

@@ -1,0 +1,4157 @@
+{
+  "status": "active",
+  "sender": "6281393920273@s.whatsapp.net",
+  "name": "Stay Tune",
+  "animes": [
+    {
+      "id": 121014,
+      "name": {
+        "full": "Kinue Hayase",
+        "native": "早瀬絹江"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121014-BJWpcwKHRVXH.jpg"
+      },
+      "description": "__Height:__ 138 cm\n__Occupation:__ Housewife\n\nShe has light brown hair that curls at the tips and brown eyes. She wears a headband that has a dog footprint on and she usually is seen wearing an apron. She is very short, has a small body, and can be easily mistaken for a child, even though she is 42 years old. She is also the mother of Makabe Masamune.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun's Revenge"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 21857
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Re○○○",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 108671
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun’s Revenge"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 76716
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge after school",
+              "english": "Masamune-kun’s Revenge: After School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 104896
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge OVA",
+              "english": "Masamune-kun's Revenge OAD"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101213
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge R",
+              "english": "Masamune-kun's Revenge R"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 146953
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88889,
+      "name": {
+        "full": "Raphtalia",
+        "native": "ラフタリア"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+      },
+      "description": "**Race:** Raccoon & Tanuki\n\nRaphtalia is a Tanuki-type Demi-Human who was the first real member of the Shield Hero's party after he purchased her as a slave.\n\n~!Raphtalia later obtain one of the eight vassal weapons from another world granting her the title of Vassal Weapon Wielder and Katana Hero. Due to the passive effects of the Vassal Weapons her slave curse seal was removed.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85442
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85743
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 99263
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Toaru Ichinichi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 107845
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Oshinagaki",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111135
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 2",
+              "english": "The Rising of the Shield Hero Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111321
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet 2",
+              "english": "Isekai Quartet 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 110178
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 3",
+              "english": "The Rising of the Shield Hero Season 3"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111322
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Filo to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 123371
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Raphtalia to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 119988
+          },
+          {
+            "title": {
+              "romaji": "Yari no Yuusha no Yarinaoshi",
+              "english": "The Reprise of the Spear Hero: The Manga Companion"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 100477
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Aiya Kyu Special Works - Yuusha no Shoukan: Special Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 128982
+          },
+          {
+            "title": {
+              "romaji": "Dun Zhi Yongzhe Cheng Minglu: Shouyou - Si Ge Manhua",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 129016
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet: Another World",
+              "english": "Isekai Quartet The Movie: Another World"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 117074
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Girl's Side Story",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Psychological"
+            ],
+            "id": 147878
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 40012,
+      "name": {
+        "full": "Takane Shijou",
+        "native": "四条貴音"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40012-UyWK3jxRIMUR.jpg"
+      },
+      "description": "**Hometown:** Kyoto (?)\n**Height:** 169 cm \n\nTakane Shijou is an elegant, mature woman. Although mysterious. Nobody is sure where's she's from or her backround story. She prefers not to answer any personal questions out of curiosity. She is considered one of the smarter characters in the series, and is fluent in numerous languages, one of which being German. Furthermore, it is implied in the anime that her native country is not Japan. In The Idolm@ster (TV Series) She is rumored to be of foreign royalty, giving her the nickname \"Silver Queen.\"  Project-IM@S  Takane Shijou, an elegant and majestic figure, she is known as \"The Silver Queen\" by her fans in the game, and also known as \"The Vocal Master\" of 961 Production, rivaling, and even supposedly surpassing Chihaya's ability. She comes from a very wealthy family, like Iori, and is in fact half European, most likely German.  Because of the way Takane was raised in a rich family, she has a strong and stuck-up personality, though she talks very politely to others, even towards her rivals and enemies.  Even though very hard-headed sometimes, she hates being alone and in fact when alone she begins to cry while staring at the moon. Takane is also a very smart girl, almost comparable to Ritsuko, and though she does nothing against it, she is well aware that President Kuroi is telling her ridiculous lies.  Takane's family consists of herself and father, her mother having passed away when she was little. In fact she stated that she never even met her mother. She is raised by her strict butler due to her father frequently being away for business trips.  Takane has a strong passion for music and stage shows, she is also fluent in almost all languages related to Latin.  ",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER",
+              "english": "The Idol Master"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 10278
+          },
+          {
+            "title": {
+              "romaji": "Puchimas!: Petit iDOLM@STER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15649
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER MOVIE: Kagayaki no Mukougawa e!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 17437
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster: 765 Pro to Iu Monogatari",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 11889
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster: Shiny Festa",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 14835
+          },
+          {
+            "title": {
+              "romaji": "Puchimas!!: Petit Petit iDOLM@STER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "id": 20498
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Break!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 43676
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER 2 Nemuri Hime",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Music",
+              "Romance"
+            ],
+            "id": 54840
+          },
+          {
+            "title": {
+              "romaji": "Puchimas!: PETIT IDOLM@STER",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 59899
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster 2: The World Is All One!!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 63585
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 74037
+          },
+          {
+            "title": {
+              "romaji": "The Idolm@ster Million Live! 4th Shuunenkinen PV",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 110219
+          },
+          {
+            "title": {
+              "romaji": "VOY@GER",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Sci-Fi"
+            ],
+            "id": 137075
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Million Live!: Theater Days - Brand New Song",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 110370
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Million Live!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 85788
+          },
+          {
+            "title": {
+              "romaji": "765 Pro no Daidokoro",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 155498
+          },
+          {
+            "title": {
+              "romaji": "“Dreaming!” Animation PV",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 158702
+          },
+          {
+            "title": {
+              "romaji": "The IDOLM@STER Million Live!",
+              "english": "THE IDOLM@STER Million Live!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 120755
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 181601,
+      "name": {
+        "full": "Watame Tsunomaki",
+        "native": "角巻わため"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181601-NAZRDMOzdPxH.png"
+      },
+      "description": "__Debut date:__ December 29, 2019\n__Height:__ 151 cm\n__Fanbase name:__ Wata-mate\n__Illustrator:__ [Fuumi](https://anilist.co/staff/145625/)\n__Generation:__ 4th Gen (holoForce)\n\nTsunomaki Watame is a female Japanese Virtual YouTuber associated with hololive.\n\n[YouTube](https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA) | [Profile](https://en.hololive.tv/portfolio/items/433561) | [Twitter](https://twitter.com/tsunomakiwatame) | [Bilibili](https://space.bilibili.com/491474050) | [TikTok](https://www.tiktok.com/@tsunomakiwatame_hololive)\n\nA sheep bard that goes around everywhere. She loves singing and is fluffy! YES! FLUFFY!\nBeing a herbivore, she loves potato chips.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "id": 118123
+          },
+          {
+            "title": {
+              "romaji": "My song",
+              "english": "My Song"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 143405
+          },
+          {
+            "title": {
+              "romaji": "Girigiri Warukunai Watame",
+              "english": "Watame Did Borderline Nothing Wrong"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 146004
+          },
+          {
+            "title": {
+              "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 129963
+          },
+          {
+            "title": {
+              "romaji": "hololive Summer 2022",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153348
+          },
+          {
+            "title": {
+              "romaji": "Saikyoutic Polka",
+              "english": "SAIKYOUTICPOLKA"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 153775
+          },
+          {
+            "title": {
+              "romaji": "Fins",
+              "english": "Fins"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 166125
+          },
+          {
+            "title": {
+              "romaji": "SKYSONAR",
+              "english": "Skysonar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167147
+          },
+          {
+            "title": {
+              "romaji": "What an amazing swing",
+              "english": "What an amazing swing"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music"
+            ],
+            "id": 170752
+          },
+          {
+            "title": {
+              "romaji": "Gyudon Carnival!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 170985
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 127212,
+      "name": {
+        "full": "Yuuji Itadori",
+        "native": "虎杖悠仁"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png"
+      },
+      "description": "**Species:** Human\n**Height:** 173 cm (5'8')\n**Occupation:** Sorcerer, Student, Vessel\n**Affiliation:** Jujutsu High\n\nA muscular teenager with big light brown eyes and light brown spiky hair. Yuuji is a fair person who cares greatly for not only his comrades but anyone he views as people with their own wills, despite how deep or shallow his connection to them is. He cares greatly for the \"value of a life\" and to this end, he will ensure that others receive a \"proper death.\" He is easy to anger in the face of pure cruelty and unfair judgment of other people.\nHe doesn't have the born talent required to use cursed techniques, but he has incredible athletic abilities and he is considered very strong for his age, as shown by when he easily beat a coach in Steel Ball Throw.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "Jujutsu Kaisen"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 101517
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "JUJUTSU KAISEN"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 113415
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Yoake no Ibara Michi",
+              "english": "Jujutsu Kaisen: Thorny Road at Dawn"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Supernatural"
+            ],
+            "id": 117024
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Iku Natsu to Kaeru Aki",
+              "english": "Jujutsu Kaisen: Summer of Ashes, Autumn of Dust"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 117042
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 2nd Season",
+              "english": "JUJUTSU KAISEN Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 145064
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 251833,
+      "name": {
+        "full": "Motoko Izumi",
+        "native": "和泉許子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b251833-50bqPmkZHiqX.jpg"
+      },
+      "description": "Mother of Yuu Izumi.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 107282
+          },
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127911
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 137516,
+      "name": {
+        "full": "Aurora",
+        "native": "アウロラ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137516-Ea2oRhAwnVv9.png"
+      },
+      "description": "She is one of [Chitose](https://anilist.co/character/137515/Chitose-Kaginoji)'s maids. She is usually serious and cold-minded. Probably the exact opposite personality of [Charlotte](https://anilist.co/character/137517/Charlotte): the second maid of [Chitose](https://anilist.co/character/137515/Chitose-Kaginoji). She always appears with [Charlotte](https://anilist.co/character/137517/Charlotte) and she usually tries to stop her from being too impulsive. \n\n(Source: Tonikaku Kawaii Wikia)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: SNS",
+              "english": "TONIKAWA: Over The Moon For You ~SNS~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127371
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 196629,
+      "name": {
+        "full": "Himeno Ayanokouji",
+        "native": "綾小路姫乃"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b196629-VWkibx5lFqiW.png"
+      },
+      "description": "Himeno is a student at Touou Academy.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+              "english": "Love Live! Nijigasaki High School Idol Club"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 113970
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+              "english": "Love Live! Nijigasaki High School Idol Club Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 133891
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 188279,
+      "name": {
+        "full": "Ouka Nakiri",
+        "native": "百鬼桜花"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188279-kJgriY1uVlsc.jpg"
+      },
+      "description": "She was Nasa's classmate in middle school and is the same age as him. She currently owns an electronics store and apparently, she doesn't have any clear desire for affective relationships.\n\n(Source: Tonikaku Kawaii Wiki)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 137514,
+      "name": {
+        "full": "Aya Arisugawa",
+        "native": "有栖川綾"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b137514-8CLYxq6Vrsll.png"
+      },
+      "description": "She is [Kaname](https://anilist.co/character/137513/Kaname-Arisugawa)'s older sister. She is a lazy ditz but, [Kaname](https://anilist.co/character/137513/Kaname-Arisugawa) considers her on the \"genius side\" for her great learning capacity. In contrast with that, she usually misunderstands important things and she gets really confused in the blink of an eye. Her favorite hobby is probably playing video games and she usually nags [Kaname](https://anilist.co/character/137513/Kaname-Arisugawa) into playing with her.\n",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: SNS",
+              "english": "TONIKAWA: Over The Moon For You ~SNS~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127371
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Seifuku",
+              "english": "TONIKAWA: Over The Moon For You ~Uniform~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141212
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Joshikou-hen",
+              "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 166104
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 89909,
+      "name": {
+        "full": "Priscilla Urzaiz",
+        "native": "プリシラ・ウルサイス"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89909-K4CI5asjAlA6.png"
+      },
+      "description": "She is Irene's younger sister. She cares deeply for her sister, Irene, and is a lot more level-headed than her.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk 2",
+              "english": "The Asterisk War 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 21390
+          },
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk",
+              "english": "The Asterisk War"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Ecchi",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 21131
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 131106,
+      "name": {
+        "full": "Tsukasa Yuzaki",
+        "native": "由崎司"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131106-ZJOpYOpurcYS.png"
+      },
+      "description": "**Height**: 154 cm\n**Relatives**: [Tokiko Tsukuyomi](https://anilist.co/character/188292/Tokiko-Tsukuyomi) (grandaunt), [Enishi Yuzaki](https://anilist.co/character/190386/Enishi-Yuzaki) (father-in-law), [Kanoka Yuzaki](https://anilist.co/character/190388/Kanoka-Yuzaki) (mother-in-law)\n**Likes**: Anime, games, movies, TV, radio, music, traditional arts, YouTube, etc.\n\nTsukasa Yuzaki is the wife of [Nasa Yuzaki](https://anilist.co/character/130944/Nasa-Yuzaki). Not much is known about her, but what is known is that she's mysteriously cute.\n\nTsukasa has long pink hair with a clasp on the back and pink-red eyes. She wears elegant clothing and a skirt. While at home she is usually seen wearing modern clothing. During her trip to Kyoto, she wore a floral Yukata.\n\nTsukasa comes across as calm and level-headed; seemingly unsurprised by Nasa's rash and illogical actions. Despite this, she agreed to marry him and love him dearly. She gets embarrassed easily whenever Nasa proclaims his love towards her and how cute she is. She has a huge love for movies, games, and pop-culture. She has a wide range of knowledge concerning aspects of Japanese history. This includes how to handle a Katana properly and information regarding various locations and landmarks. Tsukasa talks about such things as if she had experienced them herself but never elaborates.\n\n~!Tsukasa is immortal and over 1400 years old, but maintains the appearance as a 16-year-old girl.!~\n\n(Source: Tonikaku Kawaii Wiki, edited)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii x Maou-jou de Oyasumi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 124727
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: SNS",
+              "english": "TONIKAWA: Over The Moon For You ~SNS~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127371
+          },
+          {
+            "title": {
+              "romaji": "100-nichi Go ni Kekkon Suru Futari",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 117769
+          },
+          {
+            "title": {
+              "romaji": "FLY ME TO THE MOON",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 131822
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Seifuku",
+              "english": "TONIKAWA: Over The Moon For You ~Uniform~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141212
+          },
+          {
+            "title": {
+              "romaji": "Tsukasa's♪Kitchen",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 157800
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Joshikou-hen",
+              "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 166104
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 131106,
+      "name": {
+        "full": "Tsukasa Yuzaki",
+        "native": "由崎司"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131106-ZJOpYOpurcYS.png"
+      },
+      "description": "**Height**: 154 cm\n**Relatives**: [Tokiko Tsukuyomi](https://anilist.co/character/188292/Tokiko-Tsukuyomi) (grandaunt), [Enishi Yuzaki](https://anilist.co/character/190386/Enishi-Yuzaki) (father-in-law), [Kanoka Yuzaki](https://anilist.co/character/190388/Kanoka-Yuzaki) (mother-in-law)\n**Likes**: Anime, games, movies, TV, radio, music, traditional arts, YouTube, etc.\n\nTsukasa Yuzaki is the wife of [Nasa Yuzaki](https://anilist.co/character/130944/Nasa-Yuzaki). Not much is known about her, but what is known is that she's mysteriously cute.\n\nTsukasa has long pink hair with a clasp on the back and pink-red eyes. She wears elegant clothing and a skirt. While at home she is usually seen wearing modern clothing. During her trip to Kyoto, she wore a floral Yukata.\n\nTsukasa comes across as calm and level-headed; seemingly unsurprised by Nasa's rash and illogical actions. Despite this, she agreed to marry him and love him dearly. She gets embarrassed easily whenever Nasa proclaims his love towards her and how cute she is. She has a huge love for movies, games, and pop-culture. She has a wide range of knowledge concerning aspects of Japanese history. This includes how to handle a Katana properly and information regarding various locations and landmarks. Tsukasa talks about such things as if she had experienced them herself but never elaborates.\n\n~!Tsukasa is immortal and over 1400 years old, but maintains the appearance as a 16-year-old girl.!~\n\n(Source: Tonikaku Kawaii Wiki, edited)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii x Maou-jou de Oyasumi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 124727
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: SNS",
+              "english": "TONIKAWA: Over The Moon For You ~SNS~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127371
+          },
+          {
+            "title": {
+              "romaji": "100-nichi Go ni Kekkon Suru Futari",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 117769
+          },
+          {
+            "title": {
+              "romaji": "FLY ME TO THE MOON",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 131822
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Seifuku",
+              "english": "TONIKAWA: Over The Moon For You ~Uniform~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141212
+          },
+          {
+            "title": {
+              "romaji": "Tsukasa's♪Kitchen",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 157800
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Joshikou-hen",
+              "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 166104
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 298578,
+      "name": {
+        "full": "Natsume Ichinose",
+        "native": "一ノ瀬棗"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298578-ylKL8EnCqJum.png"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Liar Liar",
+              "english": "Liar, Liar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Psychological",
+              "Romance"
+            ],
+            "id": 131863
+          },
+          {
+            "title": {
+              "romaji": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
+              "english": "Liar, Liar"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Ecchi",
+              "Psychological",
+              "Romance"
+            ],
+            "id": 115906
+          },
+          {
+            "title": {
+              "romaji": "Liar Liar",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Ecchi",
+              "Psychological",
+              "Romance"
+            ],
+            "id": 111265
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 214584,
+      "name": {
+        "full": "Akira Tendou",
+        "native": "天道輝"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b214584-4zsaqbOP55bf.png"
+      },
+      "description": "Akira Tendou is a former employee of a company that earned the nickname Black Company (exploitative employment system). This job made Akira so miserable that he was excited that there was a zombie apocalypse because he didn't have to go to work.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+              "english": "Zom 100: Bucket List of the Dead"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Horror"
+            ],
+            "id": 104660
+          },
+          {
+            "title": {
+              "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+              "english": "Zom 100: Bucket List of the Dead"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Horror",
+              "Supernatural"
+            ],
+            "id": 159831
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 81325,
+      "name": {
+        "full": "Kanna Hase",
+        "native": "長谷 栞奈"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/81325.jpg"
+      },
+      "description": "Kanna is a first-year student and the highest scorer on entrance exam.\n~!\nShe decides to move into Sakurasou after Jin and Misaki graduate.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": "The Pet Girl of Sakurasou"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 13759
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 58107
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 60051
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 169492,
+      "name": {
+        "full": "Pekora Usada",
+        "native": "兎田ぺこら"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b169492-td5UVxwzQe5g.png"
+      },
+      "description": "__Debut date:__ July 17, 2019\n__Height:__ 153 cm\n__Fanbase name:__ League of the Hare Alliance\n__Illustrator:__ [Yuuki Hagure](https://anilist.co/staff/117227)\n__Generation:__ 3rd Gen (hololive Fantasy)\n\nUsada Pekora is a female Japanese Virtual YouTuber associated with hololive.\n\n[Profile (hololive)](https://en.hololive.tv/portfolio/items/433585) | [YouTube](https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ) | [Twitter](https://twitter.com/usadapekora) | [Bilibili](https://space.bilibili.com/443305053)\n\n\"Hiya-peko! Hiya-peko! Hiya-pekooo! I'm Usada Pekora, peko!\"\n\nA lonely rabbit-eared girl who loves carrots. She loves them so much that she always brings a few anywhere she goes.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy"
+            ],
+            "id": 118123
+          },
+          {
+            "title": {
+              "romaji": "PekoMiko Daisensou!!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 126676
+          },
+          {
+            "title": {
+              "romaji": "PEKORANDOMBRAIN!",
+              "english": "PEKORANDOMBRAIN"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128419
+          },
+          {
+            "title": {
+              "romaji": "Shiny Smily Story",
+              "english": "Shiny Smily Story"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 128713
+          },
+          {
+            "title": {
+              "romaji": "HOLOLIVE ALTERNATIVE Teaser PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 129963
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai: Ayase if",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "id": 119703
+          },
+          {
+            "title": {
+              "romaji": "Marine Shukkou!!",
+              "english": "Marine Set Sail!!"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 148104
+          },
+          {
+            "title": {
+              "romaji": "Iiwake Bunny",
+              "english": "Alibi Bunny"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 158230
+          },
+          {
+            "title": {
+              "romaji": "Mosh Race",
+              "english": "Mosh Race"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 162881
+          },
+          {
+            "title": {
+              "romaji": "SKYSONAR",
+              "english": "Skysonar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167147
+          },
+          {
+            "title": {
+              "romaji": "Bishoujyo Muzai♡Pirates",
+              "english": "Bishoujyo Muzai Pirates"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 167743
+          },
+          {
+            "title": {
+              "romaji": "Gyudon Carnival!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 170985
+          },
+          {
+            "title": {
+              "romaji": "Tokyo Wabi-Sabi Lullaby",
+              "english": "Tokyo Wabi-Sabi Lullaby"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 170992
+          },
+          {
+            "title": {
+              "romaji": "Zen Ciao-kko Usagi-ka Keikaku! VTuber Usada Pekora no Shinryaku Peko",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 171515
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 46165,
+      "name": {
+        "full": "Maki Nishikino",
+        "native": "西木野真姫"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46165-0SB7Je2kSwnb.png"
+      },
+      "description": "__Height:__ 161 cm\n\nMaki Nishikino is a first-year​ high school student in Otonokizaka High School. She has a beautiful voice and loves jazz music more than anyone else in the group. At first, she didn't want to join µ's because she had decided to inherit their family's hospital and take up medicine in college, but after joining forces with Rin to push Hanayo to join, she decides to follow the same path and join along with her two fellow first years.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Bokura no LIVE Kimi to no LIFE",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 9907
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project",
+              "english": "Love Live! School Idol Project"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15051
+          },
+          {
+            "title": {
+              "romaji": "Mo Gyutto \"love\" de Sekkinchuu!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 12637
+          },
+          {
+            "title": {
+              "romaji": "Natsuiro Egao de 1, 2, Jump!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 11033
+          },
+          {
+            "title": {
+              "romaji": "Snow Halation",
+              "english": "Snow Halation"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 9930
+          },
+          {
+            "title": {
+              "romaji": "Wonderful Rush",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 14951
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project OVA",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20554
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project 2nd Season",
+              "english": "Love Live! School Idol Project 2nd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 19111
+          },
+          {
+            "title": {
+              "romaji": "Love Live! The School Idol Movie",
+              "english": "Love Live! The School Idol Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20766
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project",
+              "english": "Love Live!"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 78251
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Kousaka Honoka",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 85868
+          },
+          {
+            "title": {
+              "romaji": "A song for You! You? You!!",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 117574
+          },
+          {
+            "title": {
+              "romaji": "Music S.T.A.R.T!!",
+              "english": "Music S.T.A.R.T!!"
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 99165
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary Second Season",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 124665
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project: μ's →NEXT LoveLive! 2014 - ENDLESS PARADE Makuai Drama",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 21013
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Special Edition",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 129943
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: School Idol QUEST",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 131380
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Sonoda Umi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145004
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Minami Kotori",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145005
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Nishikino Maki",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145006
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Koizumi Hanayo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145007
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Hoshizora Rin",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145008
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Yazawa Nico",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145009
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Toujou Nozomi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145010
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol diary: Ayase Eli",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 145011
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 75680,
+      "name": {
+        "full": "Fuuka Kamiigusa",
+        "native": "上井草 風香"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/75680.jpg"
+      },
+      "description": "Misaki's big sister. She looks like Misaki and she is Mitaka Jin ex-girlfriend.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": "The Pet Girl of Sakurasou"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 13759
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 58107
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 60051
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 175114,
+      "name": {
+        "full": "Naoko Yanagi",
+        "native": "柳直子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175114-OgCJf9Zlf1QB.png"
+      },
+      "description": "She is a teacher from the middle school that [Nasa](https://anilist.co/character/130944/Nasa-Yuzaki) had frequented. She is always super busy with work and doesn't have much time for her life. However, once she sees how happy [Nasa](https://anilist.co/character/130944/Nasa-Yuzaki)'s marriage is, she becomes more open to future relationships. She considers herself a boring person.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "TONIKAWA: Over The Moon For You"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 116267
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii: Joshikou-hen",
+              "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 166104
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 250500,
+      "name": {
+        "full": "Lanzhu Zhong",
+        "native": "ショウ・ランジュ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250500-xJlndoJoa7Bx.png"
+      },
+      "description": "Lanzhu Zhong is a second year student that just recently transferred to Nijigasaki High School and is a member of R3BIRTH, a unit under Nijigaku. She is from Hong Kong and speaks Mandarin and Cantonese fluently. Her image color is pink gold.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2",
+              "english": "Love Live! Nijigasaki High School Idol Club Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 133891
+          },
+          {
+            "title": {
+              "romaji": "Nijiyon Animation",
+              "english": "NIJIYON ANIMATION"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 154785
+          },
+          {
+            "title": {
+              "romaji": "Nijiyon: Love Live! Nijigasaki Gakuen School Idol Doukoukai Yonkoma",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 125178
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY",
+              "english": "Love Live! Nijigasaki High School Idol Club: NEXT SKY"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 157654
+          },
+          {
+            "title": {
+              "romaji": "Nijiyon Animation Specials",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 159839
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai Movie - Chapter 1",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 166476
+          },
+          {
+            "title": {
+              "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kizuna Comic Book",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 167410
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School Idol Festival All Stars : Event Memory",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 171051
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 66971,
+      "name": {
+        "full": "Yuuna Okuyama",
+        "native": "奥山有菜"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66971-yfKmxIsWKWyR.jpg"
+      },
+      "description": "Yunna is a classmate of Souta. She bullies him but actually really likes him. Kyoko Hori is her role model.\n~!In the manga timeskip she's best friend and in a relationship with Souta Hori.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Hori-san to Miyamura-kun: Shingakki",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 14753
+          },
+          {
+            "title": {
+              "romaji": "Hori-san to Miyamura-kun",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 66615
+          },
+          {
+            "title": {
+              "romaji": "Horimiya",
+              "english": "Horimiya"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 72451
+          },
+          {
+            "title": {
+              "romaji": "Horimiya",
+              "english": "Horimiya"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 124080
+          },
+          {
+            "title": {
+              "romaji": "Horimiya: piece",
+              "english": "Horimiya: The Missing Pieces"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 163132
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 88889,
+      "name": {
+        "full": "Raphtalia",
+        "native": "ラフタリア"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88889-CWYytVbCOPsV.png"
+      },
+      "description": "**Race:** Raccoon & Tanuki\n\nRaphtalia is a Tanuki-type Demi-Human who was the first real member of the Shield Hero's party after he purchased her as a slave.\n\n~!Raphtalia later obtain one of the eight vassal weapons from another world granting her the title of Vassal Weapon Wielder and Katana Hero. Due to the passive effects of the Vassal Weapons her slave curse seal was removed.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85442
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 85743
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari",
+              "english": "The Rising of the Shield Hero"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 99263
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Toaru Ichinichi",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 107845
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Oshinagaki",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111135
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 2",
+              "english": "The Rising of the Shield Hero Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111321
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet 2",
+              "english": "Isekai Quartet 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Slice of Life"
+            ],
+            "id": 110178
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Season 3",
+              "english": "The Rising of the Shield Hero Season 3"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 111322
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Filo to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Fantasy"
+            ],
+            "id": 123371
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari Anthology: Raphtalia to Issho",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 119988
+          },
+          {
+            "title": {
+              "romaji": "Yari no Yuusha no Yarinaoshi",
+              "english": "The Reprise of the Spear Hero: The Manga Companion"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Romance"
+            ],
+            "id": 100477
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Aiya Kyu Special Works - Yuusha no Shoukan: Special Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy"
+            ],
+            "id": 128982
+          },
+          {
+            "title": {
+              "romaji": "Dun Zhi Yongzhe Cheng Minglu: Shouyou - Si Ge Manhua",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 129016
+          },
+          {
+            "title": {
+              "romaji": "Isekai Quartet: Another World",
+              "english": "Isekai Quartet The Movie: Another World"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "id": 117074
+          },
+          {
+            "title": {
+              "romaji": "Tate no Yuusha no Nariagari: Girl's Side Story",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Adventure",
+              "Fantasy",
+              "Psychological"
+            ],
+            "id": 147878
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 88194,
+      "name": {
+        "full": "Mayumi Saegusa",
+        "native": "七草真由美"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88194-HE3sw1jDHN1L.png"
+      },
+      "description": "__Age__: 20\n__Height__: 155 cm\n\nThe Student Council President of First High School. \nShe is a member of the Saegusa family, one of the 'Ten Master Clans'.\n\nShe is the very first person from First High School to converse with Shiba Tatsuya on his enrollment day.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 20458
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+              "english": "The Irregular at Magic High School: Visitor Arc"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 112300
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Nyuugaku-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 63699
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei",
+              "english": "The Irregular at Magic High School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 64127
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Kyuukousen-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 85196
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yonkoma-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121453
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka",
+              "english": "The Irregular at Magic High School: Yoku Wakaru Mahouka"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy"
+            ],
+            "id": 20679
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 126065
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Shizoku Kaigi-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 126066
+          },
+          {
+            "title": {
+              "romaji": "Zoku Mahouka Koukou no Rettousei: Magian Company",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 121958
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+              "english": "The Irregular At Magic High School: Visitor Arc"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 98912
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Yuutousei",
+              "english": "The Honor at Magic High School"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 127688
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Koto Nairan-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 109656
+          },
+          {
+            "title": {
+              "romaji": "Mahouka Koukou no Rettousei: Kaichou Senkyo-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 107825
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 89915,
+      "name": {
+        "full": "Camilla Pareto",
+        "native": "カミラ･パレート"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89915-UVYOIY9cSFEB.png"
+      },
+      "description": "A student from Arlequint Academy and member of Ferrovious (Lions Faction). She is indebted to Ernesta and the two share a close relationship.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk 2",
+              "english": "The Asterisk War 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 21390
+          },
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk",
+              "english": "The Asterisk War"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Ecchi",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 21131
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 76910,
+      "name": {
+        "full": "Kotori no Haha",
+        "native": "ことりの母"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/76910.jpg"
+      },
+      "description": "Kotori's mother and the school's headmaster. She has a strict personality, and is an old friend of Maki's mother.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! School idol project",
+              "english": "Love Live! School Idol Project"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15051
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project 2nd Season",
+              "english": "Love Live! School Idol Project 2nd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 19111
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 75006,
+      "name": {
+        "full": "Kanako Mimura",
+        "native": "三村かな子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75006-i6zZrnMoEBHD.png"
+      },
+      "description": "**Height:** 153 cm\n**Hometown:** Tokyo, Japan\n\nKanako is a soft-spoken, sweet girl with a passion for baking and desserts. Initially, she doesn't consider herself idol material because of her body image and low self esteem. She has a complex about her weight, even though she's just a bit thicker than the other girls. As her card levels up she slowly loses weight (2 cm from the waist), making her torso slightly smaller in the accompanying artwork. She is really good at making candies and sugary pastries, but it becomes a problem as she often eats the confectioneries she makes. She likes hair accessories, particularly those that feature flowers.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20693
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls 2nd SEASON",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21094
+          },
+          {
+            "title": {
+              "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 72333
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls Rockin' Girl",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 74493
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 103311
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou CLIMAX SEASON",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 105962
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 102184
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER: Cinderella Girls Comic Anthology - cute",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 92675
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou: Extra Stage",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 115519
+          },
+          {
+            "title": {
+              "romaji": "Onegai! Cinderella",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [],
+            "id": 120122
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 2nd Season",
+              "english": "THE iDOLM@STER CINDERELLA GIRLS Theater 2nd Season (TV)"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 99742
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 97765
+          },
+          {
+            "title": {
+              "romaji": "Cinderella Girls Gekijou 3rd Season",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS Theater 3rd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 101267
+          },
+          {
+            "title": {
+              "romaji": "THE IDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 21564
+          },
+          {
+            "title": {
+              "romaji": "ETERNITY MEMORIES",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Fantasy",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 142173
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 89608,
+      "name": {
+        "full": "Cocoro Yazawa",
+        "native": "矢澤 ココロ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/89608-w5PBtlzId0a5.jpg"
+      },
+      "description": "Cocoro has an apparently calm personality among the Yazawa siblings besides Cotaro, shown on how she reacted when she first met the other members of μ's. She is Nico's little sister.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! The School Idol Movie",
+              "english": "Love Live! The School Idol Movie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 20766
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project 2nd Season",
+              "english": "Love Live! School Idol Project 2nd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 19111
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 298583,
+      "name": {
+        "full": "Yuuki Tsuji",
+        "native": "辻友紀"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b298583-ot7W719T2ZV3.png"
+      },
+      "description": "Belongs to Eimei Academy in the 4th Ward. He is a sophomore in high school. His grade rank: 3 stars. Like Fuuka, he is a classmate of 2-A in which Hiroto is enrolled. He is a handsome boy with androgynous features who could be mistaken for a girl if he wasn't wearing a men's uniform. He is very popular with his senior girls.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Liar Liar",
+              "english": "Liar, Liar"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Psychological",
+              "Romance"
+            ],
+            "id": 131863
+          },
+          {
+            "title": {
+              "romaji": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
+              "english": "Liar, Liar"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Ecchi",
+              "Psychological",
+              "Romance"
+            ],
+            "id": 115906
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 280957,
+      "name": {
+        "full": "Miyabi Shikimori",
+        "native": "式守雅"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b280957-u9E2qoMPIX06.jpg"
+      },
+      "description": "Shikimori's mother. Like her daughter, she gives off a serious look.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127911
+          },
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 107282
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 144796,
+      "name": {
+        "full": "Rena Kashiba",
+        "native": "香芝玲奈"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144796-AXRDxCoMQN9B.png"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 101291
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Petite Devil Kohai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 104236
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 87471
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Venturing Out"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145165
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of His First Love"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145164
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Dreaming Girl"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145163
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Home Alone"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145162
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Siscon Idol no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Siscon Idol"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145160
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Logical Witch"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145159
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Petite Devil Kohai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145157
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 91170
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 309681,
+      "name": {
+        "full": "Josei Zombie B",
+        "native": "女性ゾンビ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+              "english": "Zom 100: Bucket List of the Dead"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Horror",
+              "Supernatural"
+            ],
+            "id": 159831
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 74998,
+      "name": {
+        "full": "Kei Aoki",
+        "native": "青木慶"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b74998-cNPU5JGrGwYC.png"
+      },
+      "description": "__Height:__ 157 cm\n__Hobbies:__ Gyms",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "iDOLM@STER Cinderella Girls Shuffle!!",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 72333
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls New Generations",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life"
+            ],
+            "id": 73425
+          },
+          {
+            "title": {
+              "romaji": "The iDOLM@STER Cinderella Girls Rockin' Girl",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Music"
+            ],
+            "id": 74493
+          },
+          {
+            "title": {
+              "romaji": "THE iDOLM@STER Cinderella Girls: U149",
+              "english": "THE IDOLM@STER CINDERELLA GIRLS U149"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 146975
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 76910,
+      "name": {
+        "full": "Kotori no Haha",
+        "native": "ことりの母"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/76910.jpg"
+      },
+      "description": "Kotori's mother and the school's headmaster. She has a strict personality, and is an old friend of Maki's mother.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Love Live! School idol project",
+              "english": "Love Live! School Idol Project"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 15051
+          },
+          {
+            "title": {
+              "romaji": "Love Live! School idol project 2nd Season",
+              "english": "Love Live! School Idol Project 2nd Season"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Music",
+              "Slice of Life"
+            ],
+            "id": 19111
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 89920,
+      "name": {
+        "full": "Sylvia Lyyneheym",
+        "native": "シルヴィア・ リューネハイム"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89920-Lt6cjT1kxbRl.png"
+      },
+      "description": "She is the Student Council President and the top student of Queenvail Girls' Academy who is very persistent. She is the world's top idol. Her singing is omnipotent.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk 2",
+              "english": "The Asterisk War 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 21390
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 314622,
+      "name": {
+        "full": "Mina Ichinose",
+        "native": "一ノ瀬深那"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314622-4Ye5jcjAsyHl.png"
+      },
+      "description": null,
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Yumemiru Danshi wa Genjitsushugisha",
+              "english": "The Dreaming Boy is a Realist"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 157397
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 75350,
+      "name": {
+        "full": "Saori Himemiya",
+        "native": "姫宮 沙織"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/75350.jpg"
+      },
+      "description": "Saori \"Hau-Hau\" Himemiya is the person  Kamiigusa Misaki goes to for her audio.  She's also the person who dates Tatebayashi Souichirou the ex-president of the Student Council.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": "The Pet Girl of Sakurasou"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 13759
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 58107
+          },
+          {
+            "title": {
+              "romaji": "Sakurasou no Pet na Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 60051
+          }
+        ]
+      },
+      "gender": null
+    },
+    {
+      "id": 127843,
+      "name": {
+        "full": "Shouko Makinohara",
+        "native": "牧之原翔子"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127843-nz8GbQ9rhB8R.jpg"
+      },
+      "description": "__Height:__ 4'11\"\n__Talent:__ Early to bed, early to rise\n\nA girl who has the same first and last name as Sakuta's first crush. She is a shy middle school girl, but reliable and kind.\n\nShe bumps into Sakuta, while holding an umbrella over an abandoned cat in the rain.\n\n~!It is later revealed that the older Shouko that Sakuta encounters is from the future, and is able to return to the past due to her puberty syndrome.!~\n\n(Source: Aniplex USA)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 101291
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 91170
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Dreaming Girl"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 104157
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 87471
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Petite Devil Kohai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145157
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Logical Witch"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145159
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Siscon Idol no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Siscon Idol"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145160
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Home Alone"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145162
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Dreaming Girl"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145163
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of His First Love"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145164
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Venturing Out"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145165
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Knapsack Kid "
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145166
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Mayoeru Singer no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Lost Singer"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145167
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Nightingale no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Nightingale"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145168
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 161474
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 127691,
+      "name": {
+        "full": "Satoru Gojou",
+        "native": "五条悟"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-6m4hNwL2vLML.png"
+      },
+      "description": "__Height:__ >190 cm (6'3\")\n__Occupation:__ Jujutsu Sorcerer, Teacher\n__Affiliation:__ Tokyo Metropolitan Curse Technical College, Gojou Family\n__Grade:__ Special Grade Sorcerer\n__Cursed Technique:__ Six Eyes, Limitless\n\nSatoru Gojo is one of the main protagonists of the Jujutsu Kaisen series. He is a special-grade jujutsu sorcerer and is widely recognized as the strongest in the world. Satoru is the pride of the Gojo Family, the first person to inherit both the Limitless and the Six Eyes in four hundred years. He works as a teacher at the Tokyo Jujutsu High and uses his influence to protect and train strong young allies.\n\nIn manga chapter 90/anime episode 33:~!During the Shibuya incident, Gojo is led into a trap and is sealed in the special grade cursed object \"Prison Realm\", where he is incapable of doing anything to affect the outside world.\n!~Hence, in chapter 137, ~!Gojo is officially exiled from the Jujutsu world and deemed a criminal by the higher-ups. Any attempt to break the seal on Gojo is declared to be a criminal act, regardless of who tries.\n!~In chapter 221,~!Gojo was released from the front end of the Prison Realm when [Angel](https://anilist.co/character/220724/Kurusu-Hana)'s technique was applied to its back end. It is unknown how short or long the imprisonment felt to Gojo, as time does not flow within the Prison Realm.\n!~In chapter 236,~!Gojo was sliced in two horizontally by [Sukuna](https://anilist.co/character/133701/Sukuna) using Mahoraga. It is unclear whether he survived.!~\n",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "Jujutsu Kaisen"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 101517
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
+              "english": "Jujutsu Kaisen 0"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Supernatural"
+            ],
+            "id": 105469
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "JUJUTSU KAISEN"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 113415
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Yoake no Ibara Michi",
+              "english": "Jujutsu Kaisen: Thorny Road at Dawn"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Supernatural"
+            ],
+            "id": 117024
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen: Iku Natsu to Kaeru Aki",
+              "english": "Jujutsu Kaisen: Summer of Ashes, Autumn of Dust"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 117042
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 0",
+              "english": "JUJUTSU KAISEN 0"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Supernatural"
+            ],
+            "id": 131573
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen Bangai-hen",
+              "english": "Jujutsu Kaisen: Bonus Manga"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 142781
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 0.5: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 143129
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen PV",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Supernatural"
+            ],
+            "id": 147463
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 2nd Season",
+              "english": "JUJUTSU KAISEN Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 145064
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 188279,
+      "name": {
+        "full": "Ouka Nakiri",
+        "native": "百鬼桜花"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188279-kJgriY1uVlsc.jpg"
+      },
+      "description": "She was Nasa's classmate in middle school and is the same age as him. She currently owns an electronics store and apparently, she doesn't have any clear desire for affective relationships.\n\n(Source: Tonikaku Kawaii Wiki)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii",
+              "english": "Fly Me to the Moon"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101177
+          },
+          {
+            "title": {
+              "romaji": "Tonikaku Kawaii Season 2",
+              "english": "TONIKAWA: Over The Moon For You Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 141208
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 89061,
+      "name": {
+        "full": "Claudia Enfield",
+        "native": "クローディア・エンフィールド"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89061-NNF7JPp6eIMT.png"
+      },
+      "description": "Claudia is the second highest ranking student of Seidoukan Academy and its Student Council President. She recommended Ayato's transfer to the academy. She has held the position of President since junior high.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk",
+              "english": "The Asterisk War"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Ecchi",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi"
+            ],
+            "id": 21131
+          },
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk 2",
+              "english": "The Asterisk War 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Ecchi",
+              "Fantasy",
+              "Sci-Fi"
+            ],
+            "id": 21390
+          },
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk",
+              "english": "The Asterisk War"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Supernatural"
+            ],
+            "id": 81459
+          },
+          {
+            "title": {
+              "romaji": "Gakusen Toshi Asterisk",
+              "english": "The Asterisk War"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Romance",
+              "Sci-Fi",
+              "Supernatural"
+            ],
+            "id": 78369
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 187716,
+      "name": {
+        "full": "Ariel Anemoi  Asura",
+        "native": "アリエル・アネモイ・アスラ"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b187716-ADbNvyRZDcPa.png"
+      },
+      "description": "Second Princess of the Asura Kingdom. She is hardly ever seen without her two bodyguards, [Luke](https://anilist.co/character/226703) and \"[Silent Fitz](https://anilist.co/character/88346)\". After surviving many assassination attempts, she and her bodyguards flee to The Magic City of Sharia and enroll at  the Ranoa Magic Academy.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+              "english": "Mushoku Tensei: Jobless Reincarnation"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 85564
+          },
+          {
+            "title": {
+              "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+              "english": "Mushoku Tensei: Jobless Reincarnation"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 85470
+          },
+          {
+            "title": {
+              "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+              "english": "Mushoku Tensei: Jobless Reincarnation Cour 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 127720
+          },
+          {
+            "title": {
+              "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+              "english": "Mushoku Tensei: Jobless Reincarnation Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 146065
+          },
+          {
+            "title": {
+              "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Ecchi",
+              "Fantasy"
+            ],
+            "id": 166873
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

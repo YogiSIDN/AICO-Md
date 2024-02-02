@@ -1,0 +1,95 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 73507,
+    "name": {
+      "full": "Rita Ainsworth",
+      "native": "リタ・エインワーズ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73507-GAtBQ12TSAO6.png"
+    },
+    "description": "Rita was Mashiro's roommate and handler when Mashiro was in England. Despite her being the same age as Sorata and Mashiro, she has a better figure. She was jealous of Mashiro's art talent, and so advised Mashiro to draw manga, but later she regrets this and comes to Japan to bring Mashiro back to England. After realizing Mashiro's determination, she gives up and returns to England with Mashiro's father and starts to study art again. She argues with Ryuunosuke usually.   ~!She falls in love with Ryuunosuke and kisses him on the cheek when leaving, which makes him pass out. While Ryuunosuke is cold to her and keeps letting Maid handle her email, this only provokes her determination and makes her constantly argue with Maid over the Internet. In the fifth novel, she visits Japan again to give Ryuunosuke Valentine's Day chocolate, and catches a chance to kiss him on the lips this time, which makes him pass out again.!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": "The Pet Girl of Sakurasou"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 13759
+        },
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 58107
+        },
+        {
+          "title": {
+            "romaji": "Sakurasou no Pet na Kanojo",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 60051
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "73507",
+  "groupId": "120363190016396600@g.us",
+  "msgID": [
+    "EFE3893F6813D3B310ECD1FE94725E8E",
+    "C551E2DCBAB256EC1ED6F4707DEE50F2",
+    "67CD517C53B43E1A2EECC0AF179E080D",
+    "C1707E9419AFF5640CB83CCA45A4CA49",
+    "E518778CB33ED8AF4A5401D871424101",
+    "5031C770289A506A3E64C95091710B45",
+    "BF61B7C6BB9424B82366DD564915A416",
+    "8E34CEE6C95528CD610139CCE1978A1A",
+    "59E043BC2AAD7B0D0D697B6670D69CF3",
+    "F7AF94E21C87F5F60AF5774928E12E97",
+    "EF913BC849F76C6AF6695CA614B45311",
+    "E4D4CDF04D27B5AB029AB66BBC865BB2"
+  ],
+  "messages": [
+    ".enable off",
+    "🗿",
+    ".mute",
+    "Capek",
+    "Memo penuh syg😇🙏",
+    "Serah lah",
+    "oi ,napa harus itu lagi",
+    "🥰🥰🥰🥰",
+    "Capek bersihin nya loh😁🙏",
+    "Aku punya sulap loh",
+    "🥰🥰🥰😍",
+    "GK nanya🙏😇"
+  ],
+  "messageCount": 12,
+  "lastTriggeredAt": 1703151942606
+}

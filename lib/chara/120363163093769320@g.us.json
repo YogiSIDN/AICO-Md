@@ -1,0 +1,74 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 230774,
+    "name": {
+      "full": "Yoshimi",
+      "native": "よしみ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b230774-Z0WsRMLZHbzi.png"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+            "english": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 100965
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Sunshine!! 2nd Season",
+            "english": "Love Live! Sunshine!! Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 98349
+        },
+        {
+          "title": {
+            "romaji": "Love Live! Sunshine!!",
+            "english": "Love Live! Sunshine!!"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Music",
+            "Slice of Life"
+          ],
+          "id": 21584
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "230774",
+  "groupId": "120363163093769320@g.us",
+  "msgID": [
+    "DB21057D888C99B5735972DCBD72ACEE",
+    "F6541096E560F34BB3E617A695F1DFCC",
+    "832042A4D7214FD7D6920D581C13FADA",
+    "2683F06AA604F8CA8DF6DC5E74E7F839"
+  ],
+  "messages": [
+    "🗿p",
+    "grafik bo*ep🗿☕",
+    "🗿wkwk mungkin iy",
+    "https://chat.whatsapp.com/CM7Z0HknM1fI8USGv9e0hD\n#izin_min"
+  ],
+  "messageCount": 4,
+  "lastTriggeredAt": 1706786255134
+}

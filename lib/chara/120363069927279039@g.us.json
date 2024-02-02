@@ -1,0 +1,81 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 188288,
+    "name": {
+      "full": "Ginga Onimaru",
+      "native": "鬼丸銀河"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188288-CJxKPS92MCy9.png"
+    },
+    "description": "He is not a Yakuza, but everything about him recalls one. Indeed he always dresses as such and often changes normal terms with words more shadier and fishy. Besides that, he is a high school student and Nasa's cousin.\n\n(Source: Tonikaku Kawaii Wiki)",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Tonikaku Kawaii",
+            "english": "Fly Me to the Moon"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 101177
+        },
+        {
+          "title": {
+            "romaji": "Tonikaku Kawaii Season 2",
+            "english": "TONIKAWA: Over The Moon For You Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 141208
+        },
+        {
+          "title": {
+            "romaji": "Tonikaku Kawaii: Joshikou-hen",
+            "english": "TONIKAWA: Over The Moon For You ~High School Days~"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 166104
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "188288",
+  "groupId": "120363069927279039@g.us",
+  "msgID": [
+    "20C55B0692D265A2A459E8F842B09ABA",
+    "63D0629AB0F5C70A9B4B907FF8EA56BD",
+    "D59DFC8CA2A20E99264DA7D5D82126AF",
+    "00F8F8D95BB2269E296A138BEB2C8D6F",
+    "A9171BAAA65EE854DA6B9658B1348FE0",
+    "AC2D9AE1883C2E0CC45B5E6D9086AAAC"
+  ],
+  "messages": [
+    "Apasi koncol",
+    "Diem lah",
+    "Coba npm install",
+    "Ni gw rec aja dh",
+    "Coba",
+    "Kick"
+  ],
+  "messageCount": 6,
+  "lastTriggeredAt": 1695201899668
+}

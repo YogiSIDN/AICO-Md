@@ -1,0 +1,102 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 242710,
+    "name": {
+      "full": "Yamauchi",
+      "native": "山内"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242710-OONkJVKJhfzb.png"
+    },
+    "description": "He is a male student at the Asahiyama High School and a classmate of [Nino Nakano](https://anilist.co/character/126372/) during her second year.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 103572
+        },
+        {
+          "title": {
+            "romaji": "Go-toubun no Hanayome",
+            "english": "The Quintessential Quintuplets"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+          ],
+          "id": 100230
+        },
+        {
+          "title": {
+            "romaji": "Go-toubun no Hanayome Movie",
+            "english": "The Quintessential Quintuplets Movie"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 131520
+        },
+        {
+          "title": {
+            "romaji": "Go-toubun no Hanayome∽",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 163327
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "242710",
+  "groupId": "120363178742396396@g.us",
+  "msgID": [
+    "3D8E0A72B263579812DC9375347C3D64",
+    "1A9D3DAF0EC60AA9C6B6835A54608C9E",
+    "E04D02A763C3D1E5D4DFC8776D578615",
+    "0AD06DFA8E44A68E94C29AE7EAF11D8B",
+    "ED10FF3E9CDDF324AB82ACDA97801AA2",
+    "9BCB1ABE797060F4CBAE1114FC917953",
+    "FFE338F91AC1B664917F6A5091CFC0B3",
+    "D6D13D36D9F522A74FCDE7B03298BF82",
+    "C65BF3B212A64072CFE3C692AEEFE87C"
+  ],
+  "messages": [
+    "Redy panel pm2, dan SC bot wangsaf",
+    "Need SC ? Panel ? Nokos ? Tutor buat nokos ? Sini pm 😳",
+    "Yok jasa recode sampe akar",
+    "Sedia panel",
+    "Coy bantu gw, gw kena rip 120k beli VPS ke nomor ini, 6282121071634 bantu spam/ban nomornya",
+    "Pp ada yg mau jadi bot gk",
+    "Tutor atasin baru kebuka dah ke ban lagi",
+    "*GACOR KANGGG!!* Next SC private, all bug work",
+    "*GACOR KANGGG!!!* Next SC private all bug work"
+  ],
+  "messageCount": 9,
+  "lastTriggeredAt": 1696811646243
+}

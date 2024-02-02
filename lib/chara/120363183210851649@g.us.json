@@ -1,0 +1,222 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 120649,
+    "name": {
+      "full": "Kaguya Shinomiya",
+      "native": "四宮かぐや"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120649-JMKQgPmVq6d3.png"
+    },
+    "description": "__Height:__ 158 cm\n\nThe vice president of the student council of Shuchiin Academy, member of the wealthy Shinomiya family, she is a multi-talented genius who can do anything if she sets her mind to it. Due to the way she was raised, she instinctively looks down on others and thinks of ways to use them for her own benefit. Kaguya rarely interacted with other people before she joined the student council, but that has begun to change. She is an incredibly sheltered girl, resulting in her lacking in several pieces of what might be considered common sense. She still doesn’t understand love very well, and her main objective is to make [Miyuki Shirogane](https://anilist.co/character/121101) fall in love and confess to her.\n\nLater in the series: ~!She confesses her love to Miyuki Shirogane and they start dating.!~\n\n ~!In a Oshi no Ko special chapter, it was revealed that she married Miyuki and changed her surname to Kaguya Shirogane!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 86635
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Doujin-ban",
+            "english": "Kaguya-sama: Love is War - Doujin Edition"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi"
+          ],
+          "id": 102490
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wo Kataritai",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 102423
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai Shousetsu-ban: Shuuchiin Gakuen Nanafushigi",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": 104775
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 101921
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 112641
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 125367
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai Darkness",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 126244
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance"
+          ],
+          "id": 126245
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance"
+          ],
+          "id": 126246
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 125368
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 151384
+        },
+        {
+          "title": {
+            "romaji": "[Oshi no Ko]: Tokubetsu-hen",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 153520
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic- \"Yu Ishigami Wants to Chat\""
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "id": 165557
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "120649",
+  "groupId": "120363183210851649@g.us",
+  "msgID": [
+    "8DB6F12746113BE3F62B73699F0DE910",
+    "5362CBB0111A921D9D922C4D025863A9",
+    "FB3A4F3B903272BA910F204C46AA4D65",
+    "EB875F8E2EFD910752AAB4D7234BF07D",
+    "F79FC61334EDC56B794C96EA00F7268F"
+  ],
+  "messages": [
+    "Waalaikum salam 🙏😁",
+    "Jnck😠",
+    "@6283149280816 plis kick memori penuh",
+    "Bang udah bg",
+    "Gw kluar aja"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1696073860494
+}

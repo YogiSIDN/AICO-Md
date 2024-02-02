@@ -1,0 +1,79 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "card_result": {
+    "id": 83293307,
+    "name": "Krawler Receptor",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: You can add 1 \"Krawler\" monster from your Deck to your hand.\r\nIf this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Receptor\". You can only use each effect of \"Krawler Receptor\" once per turn.",
+    "atk": 900,
+    "def": 1200,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "EARTH",
+    "archetype": "Krawler",
+    "card_sets": [
+      {
+        "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack",
+        "set_code": "MP23-EN280",
+        "set_rarity": "Common",
+        "set_price": "$0"
+      },
+      {
+        "set_name": "Circuit Break",
+        "set_code": "CIBR-EN019",
+        "set_rarity": "Common",
+        "set_price": "$1.05"
+      }
+    ],
+    "card_images": [
+      {
+        "image_url": "https://images.ygoprodeck.com/images/cards/83293307.jpg",
+        "image_url_small": "https://images.ygoprodeck.com/images/cards_small/83293307.jpg"
+      }
+    ],
+    "card_prices": [
+      {
+        "cardmarket_price": "0.07",
+        "tcgplayer_price": "0.05",
+        "ebay_price": "0.99",
+        "amazon_price": "0.99"
+      }
+    ]
+  },
+  "groupId": "6285704661795-1604512360@g.us",
+  "msgID": [
+    "A2E2ACF382EA2FACEF3C13118A6D00F2",
+    "B405C50D08326066BC504ADD894ADA07",
+    "B3B56009CA88060EED90FE925539AEDA",
+    "E5BA46D46B1482BF8041B6104BC8F760",
+    "1527723EDECBC56A572B52D0D598412A",
+    "D81A1118ED243DBF08F6B7CB3D0E1F6E",
+    "EF233C78D352B8509EDB9C77D9B998D4",
+    "B76BD89F15559B7E2D18B77410729C5D",
+    "96807D2306C8BECA159C0D2B3019E6DC",
+    "A8C48767A76E3231ECA3FC6D970F3E39",
+    "CD1B76266678C3CF8B516A5023ADD754",
+    "F485A7E0265FF3A00CBB63F5E1C72E49",
+    "33FD1039631D03F4741733B39337BBFB"
+  ],
+  "messages": [
+    "> db.data.order_list",
+    "> db.data.order_list = []",
+    "!tiktok https://vt.tiktok.com/ZSNwvVmeM/",
+    "#menu",
+    "menu",
+    "Menu",
+    "MENU",
+    "Menu",
+    "menu",
+    "MENU",
+    "#menu",
+    "Viu",
+    "Payment"
+  ],
+  "messageCount": 13,
+  "lastTriggeredAt": 1705356360659
+}

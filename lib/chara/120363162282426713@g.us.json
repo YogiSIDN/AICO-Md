@@ -1,0 +1,53 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 312384,
+    "name": {
+      "full": "Tennin",
+      "native": "店員"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Tonikaku Kawaii Season 2",
+            "english": "TONIKAWA: Over The Moon For You Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 141208
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "312384",
+  "groupId": "120363162282426713@g.us",
+  "msgID": [
+    "BF5CFEDD400CF7466C60A315C0278C6F",
+    "D0F07959CA35A74D5A28666CF24561B1",
+    "2BC01C3C954D60D4B0CCA8F164689416",
+    "47EA6CECD9158FAF74E97BAD9CDF884C",
+    "2C93309FDB75AB879F20FC0A3DDABA0D"
+  ],
+  "messages": [
+    "Mending lu keluar aja bngkek",
+    "Bot ganggu bet anying",
+    "Udhh bang 🗿👊🏿",
+    "Jagan kasar",
+    "Woy udah woy😭😭"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1703165145586
+}

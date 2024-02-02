@@ -1,0 +1,154 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 88346,
+    "name": {
+      "full": "Sylphiette",
+      "native": "シルフィエット"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88346-h8kCL93AXj4n.png"
+    },
+    "description": "__Sylphiette__ is [Rudeus](https://anilist.co/character/88348/Rudeus-Greyrat)' childhood friend who is part human, elf, and beast race.\n\n~!Following the teleportation incident, during which her hair turned white from mana exhaustion, she became Princess Ariel's personal bodyguard under the alias Fitz.!~\n\n~!She is Rudeus' first wife and gives birth to their daughter Lucy and son Sieghardt. She is one of the three goddesses Rudeus worships in his religion. A cloth stained with her virgin blood that serves as a relic for the Goddess of Love is enshrined in the basement.!~\n\n",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85470
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85564
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: 4-koma ni Natte mo Honki Dasu",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Fantasy"
+          ],
+          "id": 104856
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 108465
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+            "english": "Mushoku Tensei: Jobless Reincarnation Cour 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 127720
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu - Anthology side: Sylphy",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+          ],
+          "id": 146717
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 146065
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 166873
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Dasoku-hen",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 165131
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "88346",
+  "groupId": "120363141203866841@g.us",
+  "msgID": [
+    "F4B702F10B18AA5708F47C84682C5408"
+  ],
+  "messages": [
+    "اهلين 🫶🏻"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703253975171
+}

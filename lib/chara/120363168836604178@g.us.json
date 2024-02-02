@@ -1,0 +1,105 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 66961,
+    "name": {
+      "full": "Tooru Ishikawa",
+      "native": "石川透"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66961-VZV5IwKUwYfp.png"
+    },
+    "description": "__Height__: 174 cm\n\nTooru is friendly with everyone, and has a calm personality. He attends Katagiri Senior Highschool. \n\n~!At first he hates Miyamura due to his close relationship with Hori, who he had a crush on at the time. He confessed to her and was immediately rejected. In time he became a great friend of Miyamura.!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun: Shingakki",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 14753
+        },
+        {
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 66615
+        },
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 72451
+        },
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 124080
+        },
+        {
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 163132
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "66961",
+  "groupId": "120363168836604178@g.us",
+  "msgID": [
+    "A77485041AABF5D9B82F927DB94CACDC",
+    "CB43D301C00AAA7C9027C86C0452F423",
+    "0F29A01B0B285CC24DE2C5FBD42D3F44",
+    "E0E36ADFF7DD15919F7BBFE9F1C7D8B0",
+    "56E26F8581BECB17F4B384EC32D3E29A"
+  ],
+  "messages": [
+    "Aowkwk",
+    "Aku mau bobo aja",
+    "Ga ush dipikirin bang yang ada makim stres",
+    "Delapan",
+    "Kalo stres nanti sakif"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1695134440702
+}

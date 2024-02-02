@@ -1,0 +1,51 @@
+{
+  "name": "nekobocc",
+  "version": "1.4.0",
+  "description": "A simple and lightweight Nekopoi scraper.",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "scraper",
+    "nekopoi",
+    "downloader",
+    "api",
+    "hentai"
+  ],
+  "scripts": {
+    "build": "npm run clean && npm run build:esm && npm run build:cjs && tsconfig-to-dual-package",
+    "build:esm": "tsc -p tsconfig.json",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "clean": "rimraf dist",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --ignore-path .gitignore --config .prettierrc --write \"**/*.ts\"",
+    "prepublishOnly": "npm run lint:fix && npm run format && npm run build",
+    "test": "ts-node-esm src/index.ts"
+  },
+  "author": "SlavyanDesu",
+  "license": "MIT",
+  "homepage": "https://github.com/SlavyanDesu/NekoBocc#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavyanDesu/NekoBocc.git"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "@typescript-eslint/parser": "^5.48.2",
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.3",
+    "rimraf": "^4.1.1",
+    "ts-node": "^10.9.1",
+    "tsconfig-to-dual-package": "^1.1.0",
+    "typescript": "^5.0.2"
+  }
+}

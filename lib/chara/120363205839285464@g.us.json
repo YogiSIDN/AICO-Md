@@ -1,0 +1,137 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 126987,
+    "name": {
+      "full": "Karen Kino",
+      "native": "紀かれん"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b126987-sWw4vqsdHNWe.png"
+    },
+    "description": "She is a member of the mass media club at Shuchi'in Academy.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 86635
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wo Kataritai",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 102423
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 101921
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War?"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 112641
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Ecchi",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 125368
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+            "english": "Kaguya-sama: Love is War -Ultra Romantic-"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 125367
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+            "english": "Kaguya-sama: Love is War -The First Kiss That Never Ends-"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 151384
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "126987",
+  "groupId": "120363205839285464@g.us",
+  "msgID": [
+    "871FD2C21EAEE0DAB47F12BC524C0307",
+    "DF88C6A990C49E858BE7053024A84226",
+    "6B302B45BBFF55000F4ADF4BD00D1C32",
+    "A17C7F3CD440163755A791BB1BC83A51",
+    "DDA5D85EBA9BD1B571F91798EDE0D38B",
+    "42077E24E99149977C764753DE9EA7E7"
+  ],
+  "messages": [
+    "Apa kelen aku tanya perempuan apa laki-laki",
+    "P",
+    "Nama siapa",
+    "Ap sih babi jan call lah",
+    "Ada yang perempuan disini",
+    "P"
+  ],
+  "messageCount": 6,
+  "lastTriggeredAt": 1703210945852
+}

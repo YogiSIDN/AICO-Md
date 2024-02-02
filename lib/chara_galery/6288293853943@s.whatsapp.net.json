@@ -1,0 +1,494 @@
+{
+  "status": "active",
+  "sender": "6288293853943@s.whatsapp.net",
+  "name": "シーザー",
+  "animes": [
+    {
+      "id": 127221,
+      "name": {
+        "full": "Sakuta Azusagawa",
+        "native": "梓川咲太"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n127221-Wxg4xFtW4kaJ.png"
+      },
+      "description": "**Height:**  172 cm (5'7\")\n\nA strange 2nd year student in high school, who doesn't have a cellphone in this day and age. He is currently an outcast at school due to rumors of a violent past... but doesn't seem to care.\n~!Sakuta eventually starts dating Mai Sakurajima!~\n(Source: Aniplex USA)",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 87471
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 101291
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Petite Devil Kohai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 104236
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 91170
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Dreaming Girl"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 104157
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Logical Witch"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 127683
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Petite Devil Kohai"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145157
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Logical Witch no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Logical Witch"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145159
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Siscon Idol no Yume wo Minai",
+              "english": "Rascal Does Not Dream of Siscon Idol"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145160
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Home Alone"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145162
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Dreaming Girl"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145163
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai",
+              "english": "Rascal Does Not Dream of His First Love"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145164
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Venturing Out"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145165
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Knapsack Kid "
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145166
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Mayoeru Singer no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Lost Singer"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145167
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Nightingale no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Nightingale"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 145168
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+              "english": "Rascal Does Not Dream of a Sister Venturing Out"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Supernatural"
+            ],
+            "id": 154967
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+              "english": null
+            },
+            "type": "ANIME",
+            "genres": [
+              "Drama",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 161474
+          },
+          {
+            "title": {
+              "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Psychological",
+              "Romance",
+              "Supernatural"
+            ],
+            "id": 165656
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 81967,
+      "name": {
+        "full": "Masamune Makabe",
+        "native": "真壁政宗"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b81967-vfprXRXeNdgq.png"
+      },
+      "description": "__Height:__ 178 cm\n\nA narcissistic boy who is obsessed with the idea of getting revenge. His feelings of revenge are aimed towards the popular rich girl, Adagaki Aki. Despite his handsome appearance now, he was once a chubby kid who people liked to make fun of. \n\n~!It is shown later on that the reason he hates Adagaki Aki so much was because she rejected his feelings for her and nicknamed him \"Piggy\". Later on, in order to get revenge on Aki, Makabe teams up with Koiwai Yoshino, Aki's maid.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun’s Revenge"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 76716
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": "Masamune-kun's Revenge"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 21857
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge after school",
+              "english": "Masamune-kun’s Revenge: After School"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Ecchi",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 104896
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Re○○○",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 108671
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 86690
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge OVA",
+              "english": "Masamune-kun's Revenge OAD"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 101213
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge 0",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 122216
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge Tokubetsu-hen: Rental Kareshi Masamune-kun",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 122220
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge R",
+              "english": "Masamune-kun's Revenge R"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 146953
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge Anthology Comic",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 148239
+          },
+          {
+            "title": {
+              "romaji": "Masamune-kun no Revenge: engagement",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "id": 163317
+          }
+        ]
+      },
+      "gender": "Male"
+    },
+    {
+      "id": 162722,
+      "name": {
+        "full": "Touji Fushiguro",
+        "native": "伏黒甚爾"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg"
+      },
+      "description": "Touji Fushiguro, born Touji Zenin, is the father of [Megumi Fushiguro](https://anilist.co/character/126635/). He took a job from the Star Religious Group to assassinate the Star Plasma Vessel.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "Jujutsu Kaisen"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 101517
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 2nd Season",
+              "english": "JUJUTSU KAISEN Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 145064
+          }
+        ]
+      },
+      "gender": "Male"
+    }
+  ]
+}

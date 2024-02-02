@@ -1,0 +1,102 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 85151,
+    "name": {
+      "full": "Julis Alexia von Riessfeld",
+      "native": "ユリス＝アレクシア・フォン・リースフェルト"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b85151-IxmQrAsrlmiT.png"
+    },
+    "description": "Julis is the fifth ranking student of Seidoukan Academy and is Lieseltania's First Princess. Her full name is Julis-Alexia Marie Florentia Renate von Riessfelt. She wields a rapier-type lux called Aspera Spina which she uses during the Phoenix tournament and bears the image of a flower for her power - control over flames.\n\nShe warms to Ayato, unlike the other students with whom she is distant. She starts to like Ayato and often find herself arguing with Saya and Kirin and even Claudia for his attention.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk",
+            "english": "The Asterisk War"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 21131
+        },
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk 2",
+            "english": "The Asterisk War 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 21390
+        },
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk",
+            "english": "The Asterisk War"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 78369
+        },
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk",
+            "english": "The Asterisk War"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "id": 81459
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "85151",
+  "groupId": "120363201333017085@g.us",
+  "msgID": [
+    "E24621AADF33F1D886D1F68184B5EC27",
+    "778BC67D8807B5D0A52775A8A62C686E",
+    "C7BC019ED2D15257B3E41BDDA665855A",
+    "4BF89E7548EFB105CC18602209FD2C72",
+    "D4CF8AD665F072362C71EFC30B476A48",
+    "D4CF8AD665F072362C71EFC30B476A48",
+    "2D6B02FEDEFBD671EFFC4B1F785E8D02"
+  ],
+  "messages": [
+    "lah",
+    "aku vanile bmx",
+    "kude",
+    "kick aja ini",
+    "ini admin kmn si jir",
+    "ini admin kmn si jir",
+    "Ancrint gk di taq gw ci"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1703257370555
+}

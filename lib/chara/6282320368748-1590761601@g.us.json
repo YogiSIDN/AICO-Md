@@ -1,0 +1,57 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 310091,
+    "name": {
+      "full": "Kamibukuro Jusoshi",
+      "native": "紙袋呪詛師"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b310091-M3rC4FXthPtm.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season",
+            "english": "JUJUTSU KAISEN Season 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+          ],
+          "id": 145064
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "310091",
+  "groupId": "6282320368748-1590761601@g.us",
+  "msgID": [
+    "D88B5C6122B5D15D63EFB716DC39D9F4",
+    "95CC64747952E4045F333C9BB096E4D4",
+    "F43CDEAD7A8F8077001BF64A4CF28155",
+    "CFF7D557CEE68CD19702A42E4EACFFFE",
+    "F4372551EF4AB79885C91BE0B55C0549",
+    "78FC21904F774A514781B8F7A654A2AF",
+    "AF546995F47C3437665ED468927744CF"
+  ],
+  "messages": [
+    ".instagram https://www.instagram.com/p/C1wtPE-RZ3T/?igsh=czEza2p4dWtwbzc0",
+    ".instagram https://www.instagram.com/p/C06gYd1xLwc/?igsh=MWNmdGtpZDFwOHB5cQ==",
+    ".instagram https://www.instagram.com/p/C04Lg03xeJ5/?igsh=Ym1uY2swOWZpNXA1",
+    "📣 Broadcast\n\n\"Penyuplai OTAV akan melakukan maintenance server pada pukul 14.00 wib, di mohon untuk tidak melakukan transaksi pada jam tersebut 🙏🏻\"",
+    ".instagram https://www.instagram.com/p/C04Lg03xeJ5/?igsh=Ym1uY2swOWZpNXA1",
+    ".help",
+    ".ytmp4 https://youtu.be/9bfzsDRL9Cw?si=sSfz06RDKLv3cTIC"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1705087907056
+}

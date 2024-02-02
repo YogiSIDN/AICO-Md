@@ -1,0 +1,95 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 186472,
+    "name": {
+      "full": "Shin Reglia",
+      "native": "シン・レグリア"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186472-6beSIv00IXCR.png"
+    },
+    "description": "Right hand of Demon King [Anos Voldigoad](https://anilist.co/character/138595) and the most powerful swordsman among the demons.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": 112301
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Fantasy"
+          ],
+          "id": 106599
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou",
+            "english": "The Misfit of Demon King Academy"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 106601
+        },
+        {
+          "title": {
+            "romaji": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+            "english": "The Misfit of Demon King Academy Ⅱ: History's Strongest Demon King Reincarnates and Goes to School with His Descendants"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "id": 130588
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "186472",
+  "groupId": "120363150064664675@g.us",
+  "msgID": [
+    "CF45C0E2B6FD691577CCEB6662F634E1",
+    "68F51189E407E729F1CCA1A43E79D46D",
+    "0F734256BD15AD4EA0432A3447E2EE1B",
+    "DBF206BBF8D93CF1C8955C34B6BA4C25",
+    "0074CB798776740B840DC7BA3FA6FE93",
+    "77CB0580ECFCB8DA872F2D43A8B1EE60",
+    "77CB0580ECFCB8DA872F2D43A8B1EE60"
+  ],
+  "messages": [
+    ". play enchanted",
+    "https://vt.tiktok.com/ZSNm8XUqE/",
+    "https://vt.tiktok.com/ZSNm8tNsc/",
+    "Play to get the best friend 5",
+    "Ngetik ngasal ga wkkwkwk",
+    "https://vt.tiktok.com/ZSNmLDQbs/",
+    "https://vt.tiktok.com/ZSNmLDQbs/"
+  ],
+  "messageCount": 7,
+  "lastTriggeredAt": 1700481748858
+}

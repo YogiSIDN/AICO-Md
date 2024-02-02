@@ -1,0 +1,59 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 309672,
+    "name": {
+      "full": "Saori Ootori",
+      "native": "鳳沙織"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309672-qZVW4vKc6p2m.jpg"
+    },
+    "description": "The CEO's mistress and unrequited crush of Akira.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+            "english": "Zom 100: Bucket List of the Dead"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Horror",
+            "Supernatural"
+          ],
+          "id": 159831
+        },
+        {
+          "title": {
+            "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+            "english": "Zom 100: Bucket List of the Dead"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Horror"
+          ],
+          "id": 104660
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "309672",
+  "groupId": "120363176020901252@g.us",
+  "msgID": [
+    "F41F5009C09E8BF729C7686BC81D8F78"
+  ],
+  "messages": [
+    ".sc"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1700485655932
+}

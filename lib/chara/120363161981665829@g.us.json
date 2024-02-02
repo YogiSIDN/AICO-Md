@@ -1,0 +1,74 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 208754,
+    "name": {
+      "full": "Edna Leylune",
+      "native": "エドナ・レイルーン"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b208754-ScSBf0sEYXbO.png"
+    },
+    "description": "**Edna Rayrune** is a middle-aged woman who is Eris' tutor in etiquette.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 108465
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85470
+        },
+        {
+          "title": {
+            "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "english": "Mushoku Tensei: Jobless Reincarnation"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Adventure",
+            "Drama",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "id": 85564
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "208754",
+  "groupId": "120363161981665829@g.us",
+  "msgID": [
+    "FAD37A637096ED6B2FA6A694A5464C5B"
+  ],
+  "messages": [
+    "paan si anjr"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703216009675
+}

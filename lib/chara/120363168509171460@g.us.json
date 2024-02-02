@@ -1,0 +1,58 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 300668,
+    "name": {
+      "full": "Miko Yanase",
+      "native": "梁瀬ミーコ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300668-xgzKFlv2NFJ8.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk",
+            "english": "The Asterisk War"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 21131
+        },
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk 2",
+            "english": "The Asterisk War 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 21390
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "300668",
+  "groupId": "120363168509171460@g.us",
+  "msgID": [],
+  "messages": [],
+  "messageCount": 0,
+  "lastTriggeredAt": 1703245290761
+}

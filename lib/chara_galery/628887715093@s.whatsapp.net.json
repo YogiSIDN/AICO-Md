@@ -1,0 +1,112 @@
+{
+  "status": "active",
+  "sender": "628887715093@s.whatsapp.net",
+  "name": "ｚａ",
+  "animes": [
+    {
+      "id": 260329,
+      "name": {
+        "full": "Chisato Nishikigi",
+        "native": "錦木千束"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260329-ejhEdFfXhs53.jpg"
+      },
+      "description": "Said to be the strongest Lycoris of all time.\nShe enjoys solving private-sector problems that the DA would not address.\nAt Café LycoReco, she works joyfully and cheerfully as the self-proclaimed poster girl.\n\n~!Chisato has an artificial heart which was developed by Alan Institute, and can be broken by applying high voltages directly to it.!~",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Lycoris Recoil",
+              "english": "Lycoris Recoil"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Slice of Life"
+            ],
+            "id": 143270
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 151808
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil: Ordinary days",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 151809
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Recollect",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 155071
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: Reload",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 155976
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: Repeat",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 157671
+          },
+          {
+            "title": {
+              "romaji": "Lycoris Recoil Koushiki Comic Anthology: React",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Comedy",
+              "Slice of Life"
+            ],
+            "id": 158111
+          }
+        ]
+      },
+      "gender": "Female"
+    }
+  ]
+}

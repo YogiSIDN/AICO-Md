@@ -1,0 +1,78 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 300668,
+    "name": {
+      "full": "Miko Yanase",
+      "native": "梁瀬ミーコ"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300668-xgzKFlv2NFJ8.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk",
+            "english": "The Asterisk War"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 21131
+        },
+        {
+          "title": {
+            "romaji": "Gakusen Toshi Asterisk 2",
+            "english": "The Asterisk War 2"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Ecchi",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 21390
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "300668",
+  "groupId": "120363140798325728@g.us",
+  "msgID": [
+    "5369B5F7504411ACB4E5B27A538D82D7",
+    "08D581EF90B44E98E59A171D8462D237",
+    "B5C2378C63440E71FD3BB0147C0E272F",
+    "5DE2BF45190E530B67482AF5DEFF1C19",
+    "42A11876CAB123DDDDD2E374BE96E281",
+    "6C0C7AFF7CFA08033A5671600512F5FA",
+    "C45D20848822DF79510E4E2E9B6B6F9C",
+    "BEBC2ED784C0050D0051A9027B3E04CF",
+    "C040B6187F3BDD74B28C048EAD23CB96"
+  ],
+  "messages": [
+    "Grub ini wibu semua ya",
+    "Assalamualaikum ☺️",
+    "Saya orang baru boleh bergabung 🙂",
+    "https://chat.whatsapp.com/HiDMJns67vrGbrnQBvNhJl",
+    "https://chat.whatsapp.com/Gk7GROmHDn1HkhXZPH5v48\nizin yh 😁🌹",
+    "ga di izinin",
+    "Hana\n20 \nWanita\n\n\nDisave ya kaka",
+    "Hallo kaka. \nSalam kenal \nHana \nWanita",
+    "https://youtu.be/-ilICQdlVvE?si=Z6PBkydKmKStLEPs\n\nLike gess"
+  ],
+  "messageCount": 9,
+  "lastTriggeredAt": 1696159497466
+}

@@ -1,0 +1,281 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 36829,
+    "name": {
+      "full": "Akihiko Kayaba",
+      "native": "茅場晶彦"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png"
+    },
+    "description": "Director and creator of the Nerve Gear and *Sword Art Online*. He traps all the players within *Sword Art Online* by using the Nerve Gear to cease sending signals to the users' body. Any attempt of removal, loss of power for a certain period, or if the user dies in the game will also kill the user. His motivation is to observe what happens after he traps them.   ~!He is in fact Heathcliff in the game *SAO*, who is the leader of the guild Knights of Blood. This was found out and revealed by [Kirito](https://anilist.co/character/36765) after the defeating of the boss on the 75th floor. Because of this, he offered Kirito a chance to beat him in the duel with the condition that if Heathcliff is defeated, the remaining players will be able to log out. After a fight in which it appears both Kirito and [Asuna](https://anilist.co/character/36828) are defeated and killed, Kirito, with his final efforts, managed to use Asuna's rapier and stab Heathcliff through the chest thus defeating him and clearing the game. It was later revealed that neither Kirito nor Asuna died and in the final moments of the game Heathcliff personally congratulated Kirito on winning the game, saying that he was the one he had an eye on from the beginning due to his amazing reflexes and reaction time which granted him the use of Dual blades. He then faded away along with the virtual world he created!~   ~!In the closing moments of the *ALO* incident when it appeared [Sugou](https://anilist.co/character/71581) had defeated Kirito and Asuna due to his GM status, Kayaba reveals himself with a even higher status as the game's creator (*ALO* was made from a copy of the *SAO* server) and allows Kirito the chance to have a fair fight with Sugou in which he easily wins thus recusing Asuna. Kayaba then gave Kirito a \"seed\" which he said that he leaves its fate to his hands. Whether to delete or forget it is fine, but if he did have some lingering emotions for Aincrad then he would ask Kirito to let it bloom.!~   ~!It was revealed in the aftermath of the *ALO* incident that Kayaba is indeed dead, his body found five months after the game was cleared. Before his death however he scanned his brain with the success rate being very very low, but he was apparently successful but it burned his brain resulting in his death. This copy of himself was the one that helped Kirito when he was fighting Sugou!~ ",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 11757
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Extra Edition",
+            "english": "Sword Art Online EXTRA EDITION"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 20021
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Ordinal Scale",
+            "english": "Sword Art Online the Movie: Ordinal Scale"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 21403
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 51479
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Aincrad",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 53718
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online 4-koma",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 70053
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization",
+            "english": "Sword Art Online: Alicization"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 100182
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Alicization - War of Underworld",
+            "english": "Sword Art Online: Alicization - War of Underworld"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 108759
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Offline",
+            "english": "Sword Art OFFline"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy"
+          ],
+          "id": 16099
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Progressive",
+            "english": "Sword Art Online Progressive"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 82277
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Re:Aincrad",
+            "english": "Sword Art Online Re:Aincrad"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 141165
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Progressive - Hoshinaki Yoru no Aria",
+            "english": "Sword Art Online the Movie -Progressive- Aria of a Starless Night"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 124140
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Fairy Dance",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 74733
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online Comic Anthology",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance",
+            "Sci-Fi"
+          ],
+          "id": 112980
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Integral Factor - PROLOGUE COMIC",
+            "english": "Sword Art Online: Integral Factor - Prologue Comic"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 127043
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Phantom Bullet",
+            "english": "Sword Art Online: Phantom Bullet"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "id": 85440
+        },
+        {
+          "title": {
+            "romaji": "Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo",
+            "english": "Sword Art Online Progressive Scherzo of Deep Night"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "id": 114614
+        },
+        {
+          "title": {
+            "romaji": "Gekijouban Sword Art Online: Ordinal Scale",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "id": 106537
+        }
+      ]
+    },
+    "gender": "Male"
+  },
+  "chara_name": "36829",
+  "groupId": "120363168935708466@g.us",
+  "msgID": [
+    "D1421933F66DC3263B5AA0711FC9910C"
+  ],
+  "messages": [
+    "Anjir"
+  ],
+  "messageCount": 1,
+  "lastTriggeredAt": 1703297188407
+}

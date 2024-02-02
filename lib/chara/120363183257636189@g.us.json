@@ -1,0 +1,107 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 72449,
+    "name": {
+      "full": "Sakura Kouno",
+      "native": "河野桜"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72449-wTynovkFnQpC.png"
+    },
+    "description": "__Height:__ 163 cm\n\nShe is the vice-president of the student council. She is very competent and often does​ support work.\n\n~!She has a crush on Tooru Ishikawa, in chapter 28, she confessed to him.!~",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 72451
+        },
+        {
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun: Shingakki",
+            "english": null
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 14753
+        },
+        {
+          "title": {
+            "romaji": "Hori-san to Miyamura-kun",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 66615
+        },
+        {
+          "title": {
+            "romaji": "Horimiya",
+            "english": "Horimiya"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 124080
+        },
+        {
+          "title": {
+            "romaji": "Horimiya: piece",
+            "english": "Horimiya: The Missing Pieces"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "id": 163132
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "72449",
+  "groupId": "120363183257636189@g.us",
+  "msgID": [
+    "CA27ABE81EBA77451FF50470965F6639",
+    "FD8B10358438698EBEB866B1F85F4123",
+    "9608C7EC56F465B43DD287A171204DF7",
+    "8B59D3BE7BD5B070D919BE8ED4202826",
+    "3AA83B8805972B3B780998D14FF5DC07",
+    "1AE6031877B2DAB1CE58C1779E81F23F"
+  ],
+  "messages": [
+    "Memek Aspal",
+    "tiba tiba memek aspal anjg",
+    "c room storage di lantai brpany hotel",
+    "Mamah😍😍",
+    "Gedung c kali",
+    "Kan gedungnya abcd"
+  ],
+  "messageCount": 6,
+  "lastTriggeredAt": 1703273299252
+}

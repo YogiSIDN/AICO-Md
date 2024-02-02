@@ -1,0 +1,129 @@
+{
+  "status": "active",
+  "sender": "6288706682498@s.whatsapp.net",
+  "name": "υrιelꔛ⋈๑𓍼✧⋆",
+  "animes": [
+    {
+      "id": 157864,
+      "name": {
+        "full": "Utahime Iori",
+        "native": "庵歌姫"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg"
+      },
+      "description": "A first grade sorcerer and a teacher at Kyoto Jujutsu Technical High School.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "Jujutsu Kaisen"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 101517
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen",
+              "english": "JUJUTSU KAISEN"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 113415
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen Bangai-hen",
+              "english": "Jujutsu Kaisen: Bonus Manga"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 142781
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 0.5: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
+              "english": null
+            },
+            "type": "MANGA",
+            "genres": [
+              "Slice of Life",
+              "Supernatural"
+            ],
+            "id": 143129
+          },
+          {
+            "title": {
+              "romaji": "Jujutsu Kaisen 2nd Season",
+              "english": "JUJUTSU KAISEN Season 2"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Action",
+              "Drama",
+              "Supernatural"
+            ],
+            "id": 145064
+          }
+        ]
+      },
+      "gender": "Female"
+    },
+    {
+      "id": 271882,
+      "name": {
+        "full": "Fuji Shikimori",
+        "native": "式守藤"
+      },
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b271882-lDkot5XAiMgH.png"
+      },
+      "description": "Shikimori's older brother.",
+      "media": {
+        "nodes": [
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "ANIME",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 127911
+          },
+          {
+            "title": {
+              "romaji": "Kawaii dake ja Nai Shikimori-san",
+              "english": "Shikimori's Not Just a Cutie"
+            },
+            "type": "MANGA",
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Slice of Life"
+            ],
+            "id": 107282
+          }
+        ]
+      },
+      "gender": "Male"
+    }
+  ]
+}

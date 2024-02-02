@@ -1,0 +1,54 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 309671,
+    "name": {
+      "full": "Shachou",
+      "native": "社長"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b309671-owVHE3cF9MF2.jpg"
+    },
+    "description": null,
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto",
+            "english": "Zom 100: Bucket List of the Dead"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Comedy",
+            "Horror",
+            "Supernatural"
+          ],
+          "id": 159831
+        }
+      ]
+    },
+    "gender": null
+  },
+  "chara_name": "309671",
+  "groupId": "120363210078233381@g.us",
+  "msgID": [
+    "D204D35FE5B36BBF3013238706812F23",
+    "BC2D430A3201216F45B043FF96C63FEC",
+    "52C40F1FA995BAF40A30EA1BF6027C73",
+    "ACEC8523DFF6C2C1C68A9A3030FA3166",
+    "4A76E3E2B2B3160C1C79F940CD0DB498"
+  ],
+  "messages": [
+    ".susun",
+    ".apa",
+    ".apakah",
+    "🗿",
+    ".afk biji pler sapi gw lepas lagi"
+  ],
+  "messageCount": 5,
+  "lastTriggeredAt": 1703295528741
+}

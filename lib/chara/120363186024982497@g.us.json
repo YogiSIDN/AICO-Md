@@ -1,0 +1,122 @@
+{
+  "status": "active",
+  "claimed_keyword": [],
+  "claimed_by_name": [],
+  "claimed_by_sender": [],
+  "anime_result": {
+    "id": 200612,
+    "name": {
+      "full": "Ayako Kuroba",
+      "native": "黒羽亜夜子"
+    },
+    "image": {
+      "large": "https://s4.anilist.co/file/anilistcdn/character/large/b200612-4FyFmH4ytl3L.png"
+    },
+    "description": "A member of the Kuroba Family, a branch family of the Yotsuba Clan. She is also a second cousin to the Shiba siblings.",
+    "media": {
+      "nodes": [
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+            "english": "The Irregular at Magic High School: Visitor Arc"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 112300
+        },
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei: Raihousha-hen",
+            "english": "The Irregular At Magic High School: Visitor Arc"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 98912
+        },
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei SS",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 97249
+        },
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei",
+            "english": "The Irregular at Magic High School"
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 64127
+        },
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+            "english": "The Irregular at Magic High School: Reminiscence Arc"
+          },
+          "type": "ANIME",
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 130389
+        },
+        {
+          "title": {
+            "romaji": "Mahouka Koukou no Rettousei: Yoru no Tobari ni Yami wa Hirameku",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 167187
+        },
+        {
+          "title": {
+            "romaji": "Zoku Mahouka Koukou no Rettousei: Magian Company",
+            "english": null
+          },
+          "type": "MANGA",
+          "genres": [
+            "Action",
+            "Romance",
+            "Sci-Fi",
+            "Supernatural"
+          ],
+          "id": 121958
+        }
+      ]
+    },
+    "gender": "Female"
+  },
+  "chara_name": "200612",
+  "groupId": "120363186024982497@g.us",
+  "msgID": [],
+  "messages": [],
+  "messageCount": 0,
+  "lastTriggeredAt": 1703297505565
+}
